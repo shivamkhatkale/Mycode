@@ -1,0 +1,147 @@
+[
+  {
+    "sourceId": "UBI02",
+    "paymentId": "HGAEP14A330000002103",
+    "objectId": "payment",
+    "currency": "356",
+    "billerId": "TATASKY00NAT01",
+    "validationId": "HGE1VT5ATEIYR70VDZX3",
+    "sourceRefNo": "939773406697",
+    "paymentAmount": "950.00",
+    "biller_name": "Tata Sky",
+    "billerCategory": "DTH",
+    "authenticators": [
+      {
+        "parameterName": "Subscriber Number",
+        "value": "9028255474"
+      }
+    ],
+    "paymentType": "instapay",
+    "txnDateTime": "13-06-2024 15:54:29",
+    "billerStatus": "PENDING",
+    "paymentAccount": {
+      "objectId": "paymentaccount",
+      "paymentMethod": "BankAccount"
+    },
+    "paymentStatus": "PAID",
+    "couConvFee": "0.00",
+    "bouConvFee": "0.00",
+    "bbps_ref_no": "UN014165BAEAAAAAAAQ7"
+  },
+  {
+    "sourceId": "UBI02",
+    "paymentId": "HGAEP0DC840000002100",
+    "objectId": "payment",
+    "currency": "356",
+    "billerId": "TATASKY00NAT01",
+    "validationId": "HGE1VT5MSZIYIA08B4Q9",
+    "sourceRefNo": "244878947014",
+    "paymentAmount": "950.00",
+    "biller_name": "Tata Sky",
+    "billerCategory": "DTH",
+    "authenticators": [
+      {
+        "parameterName": "Subscriber Number",
+        "value": "9028255474"
+      }
+    ],
+    "paymentType": "instapay",
+    "txnDateTime": "13-06-2024 15:41:39",
+    "billerStatus": "PENDING",
+    "paymentAccount": {
+      "objectId": "paymentaccount",
+      "paymentMethod": "BankAccount"
+    },
+    "paymentStatus": "PAID",
+    "couConvFee": "0.00",
+    "bouConvFee": "0.00",
+    "bbps_ref_no": "UN014165BAEAAAAAAAQ6"
+  },
+  {
+    "sourceId": "UBI02",
+    "paymentId": "HGAEP08F8C0000002097",
+    "objectId": "payment",
+    "currency": "356",
+    "billerId": "TATASKY00NAT01",
+    "validationId": "HGE1VT5SSRIYE7EP2KTL",
+    "sourceRefNo": "981603532563",
+    "paymentAmount": "950.00",
+    "biller_name": "Tata Sky",
+    "billerCategory": "DTH",
+    "authenticators": [
+      {
+        "parameterName": "Subscriber Number",
+        "value": "9028255474"
+      }
+    ],
+    "paymentType": "instapay",
+    "txnDateTime": "13-06-2024 15:37:28",
+    "billerStatus": "PENDING",
+    "paymentAccount": {
+      "objectId": "paymentaccount",
+      "paymentMethod": "BankAccount"
+    },
+    "paymentStatus": "PAID",
+    "couConvFee": "0.00",
+    "bouConvFee": "0.00",
+    "bbps_ref_no": "UN014165BAEAAAAAAAQ4"
+  },
+  {
+    "sourceId": "UBI02",
+    "paymentId": "HGAEP14ED60000002095",
+    "objectId": "payment",
+    "currency": "356",
+    "billerId": "TATASKY00NAT01",
+    "validationId": "HGE1VT5PCMIYD6ZZRHJ9",
+    "sourceRefNo": "219080882965",
+    "paymentAmount": "950.00",
+    "biller_name": "Tata Sky",
+    "billerCategory": "DTH",
+    "authenticators": [
+      {
+        "parameterName": "Subscriber Number",
+        "value": "9028255474"
+      }
+    ],
+    "paymentType": "instapay",
+    "txnDateTime": "13-06-2024 15:36:09",
+    "billerStatus": "PENDING",
+    "paymentAccount": {
+      "objectId": "paymentaccount",
+      "paymentMethod": "BankAccount"
+    },
+    "paymentStatus": "PAID",
+    "couConvFee": "0.00",
+    "bouConvFee": "0.00",
+    "bbps_ref_no": "UN014165BAEAAAAAAAQ3"
+  },
+  {
+    "sourceId": "UBI02",
+    "paymentId": "HGAEP0F22E0000002074",
+    "objectId": "payment",
+    "currency": "356",
+    "billerId": "TATASKY00NAT01",
+    "validationId": "HGE1VT5N6AIWFDOL5XGR",
+    "sourceRefNo": "376984568172",
+    "paymentAmount": "900.00",
+    "biller_name": "Tata Sky",
+    "billerCategory": "DTH",
+    "authenticators": [
+      {
+        "parameterName": "Subscriber Number",
+        "value": "9028255474"
+      }
+    ],
+    "paymentType": "instapay",
+    "txnDateTime": "13-06-2024 14:03:36",
+    "billerStatus": "SUCCESS",
+    "paymentAccount": {
+      "objectId": "paymentaccount",
+      "paymentMethod": "BankAccount"
+    },
+    "paymentStatus": "PAID",
+    "couConvFee": "0.00",
+    "bouConvFee": "0.00",
+    "bbps_ref_no": "UN014165BAEAAAAAAAQ2"
+  }
+]

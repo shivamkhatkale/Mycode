@@ -1,0 +1,43 @@
+[
+    {
+        "cif": "2005946706",
+        "name": "SAMPADA NARESH WADKAR",
+        "acctNum": "520101041229211",
+        "acctType": null,
+        "acctStatus": {
+            "statusFlg": "A",
+            "freezeCode": ""
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 0.00
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 724331.30
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 727264.00
+            }
+        ],
+        "scheme": {
+            "code": "SBGEN",
+            "type": "SBA",
+            "name": null
+        },
+        "nominee": null,
+        "subscriptionCode": null,
+        "operatingInstruction": "004",
+        "openingDate": null,
+        "interestRate": null,
+        "activeFlag": null,
+        "bankInfo": {
+            "branchSolId": "63530",
+            "branchId": null,
+            "branchName": null,
+            "address": null
+        }
+    }
+]

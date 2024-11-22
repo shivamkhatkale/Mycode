@@ -1,0 +1,31 @@
+{
+    "error": null,
+    "statusCode": "0",
+    "statusMessage": "Success",
+    "data": [
+        {
+            "error": null,
+            "name": "SSY_RELATION_WITH_MINOR",
+            "rows": [
+                {
+                    "code": "RM01",
+                    "value": "Father",
+                    "parentCode": null,
+                    "displayOrder": null
+                },
+                {
+                    "code": "RM02",
+                    "value": "Mother",
+                    "parentCode": null,
+                    "displayOrder": null
+                },
+                {
+                    "code": "RM09",
+                    "value": "Others",
+                    "parentCode": null,
+                    "displayOrder": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "custAcctView": [
+        {
+            "cif": "634743268",
+            "acctNum": "635302010013118",
+            "mobNum": null,
+            "name": "TANVI SUNIL DEDHIA",
+            "dob": "1997-07-14",
+            "email": "tanvidtest14@gmail.com",
+            "isMinor": null,
+            "isSeniorCitizen": null,
+            "isUBOIStaff": null,
+            "scheme": {
+                "code": "SBGEN",
+                "type": "SBA"
+            },
+            "bankInfo": {
+                "bankId": null,
+                "name": null,
+                "branchId": null,
+                "branchSolId": "63530",
+                "branchName": null
+            }
+        }
+    ]
+}

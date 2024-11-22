@@ -1,0 +1,8 @@
+{
+    "timestamp": "2024-07-30T08:56:07.968+00:00",
+    "path": "/v1/fund-transfer/initiate/outside-bank-transfer1",
+    "status": 404,
+    "error": "Not Found",
+    "message": null,
+    "requestId": "5d22b92b-168"
+}

@@ -1,0 +1,14 @@
+{
+    "errorId": "e12acc16-76db-4613-baa5-0ac1ac2b6f06",
+    "errorAt": "2024-07-31T15:35:04.928254661",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "BAD_REQUEST",
+            "message": "cif expected minLength 1, actual 0, sourceacctNum expected minLength 1, actual 0, sourcename expected minLength 1, actual 0, customercif expected minLength 1, actual 0, customerkycnationalId expected minLength 1, actual 0, customerkycpan expected minLength 1, actual 0, customerkycstatus expected minLength 1, actual 0, customer required key [dob] not found",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

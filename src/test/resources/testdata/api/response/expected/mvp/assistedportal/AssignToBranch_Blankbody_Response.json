@@ -1,0 +1,7 @@
+{
+    "timestamp": "2024-07-31T06:06:08.630+00:00",
+    "path": "/web/form-assignment/v1/assign-to-branch",
+    "status": 400,
+    "error": "Bad Request",
+    "requestId": "19579306-1067"
+}

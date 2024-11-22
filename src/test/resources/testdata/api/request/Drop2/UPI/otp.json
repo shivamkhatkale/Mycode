@@ -1,0 +1,37 @@
+{
+	"cif":"29087674",
+    "customerId": "916006259304",
+    "txnId": "UBOc55db0714ff24fe29511a9a2d11962by",
+    "bankId": "000",
+    "device": {
+        "mobile": "916006259304",
+        "geocode": "17.5194149,78.4835413",
+        "location": "Hyderabad,Hyderabad,India",
+        "ip": "192.168.151.239",
+        "type": "MOB",
+        "id": "2901af17437ce9f9",
+        "os": "android 13",
+        "app": "com.ibm.uboinpci",
+        "capability": "5245454545242454542454545445"
+    },
+    "ac": {
+        "accRefNumber": "000110011016005",
+        "name": "SIRRA MARTHA",
+        "type": "SAVINGS",
+        "ifsc": "UBIN0556688",
+        "atmpinlength": "4",
+        "otpLength": "6",
+        "vpa": "6006259304@unionbankofindia",
+        "internationlActive": "N",
+        "isDefault": "N"
+    },
+    "channel": {
+        "channelServer": "172.27.73.122",
+        "channelInstance": "MOBILESERVER",
+        "channelPrototype": "http",
+        "channelReqesteduri": "v1/customer/otp",
+        "channelRespuri": "/meta/RespOtpData",
+        "channelRespServerIp": "172.27.73.122: 9000",
+        "channelRespProtoType": "http"
+    }
+}

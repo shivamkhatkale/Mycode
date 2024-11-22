@@ -1,0 +1,73 @@
+{
+  "success": true,
+  "errorDetails": null,
+  "acctNum": "000110100121461",
+  "data": [
+    {
+      "cardAccNum": "3536050100000183",
+      "domAtmLimit": "34",
+      "intlAtmLimit": "0",
+      "ecafFlag": "Y",
+      "domPosTotalLmt": "0",
+      "intlPosTotalLmt": "0",
+      "domEcomTotLmt": "0",
+      "intlEcomTotLmt": "109",
+      "domContactLessTotLimit": "0",
+      "intlContactLessTotLimit": "0",
+      "nfcTxnDet": {
+        "domesticFlag": "N",
+        "internationalFlag": "N"
+      },
+      "ecomTxnDet": {
+        "domesticFlag": "Y",
+        "internationalFlag": "Y"
+      },
+      "atmTxnDet": {
+        "domesticFlag": "Y",
+        "internationalFlag": "N"
+      },
+      "posTxnDetails": {
+        "domesticFlag": "N",
+        "internationalFlag": "N"
+      },
+      "cardDetails": {
+        "cardType": "RuPay",
+        "cardStatus": "Active",
+        "pinOffSet": "7398            ",
+        "totalWithdrawalLimit": "50000",
+        "offlineWithdrawalLimit": "0",
+        "totalCCALimit": "0",
+        "offlineCCALimit": "0",
+        "aggregateLimit": "50000",
+        "offlineAggregateLimit": "0",
+        "expirationDate": "2807",
+        "effectiveDate": "0000",
+        "secondaryCardData": null,
+        "isVirtual": false,
+        "isNcmc": true
+      },
+      "atmSegmentInfo": {
+        "usageLimit": "9999",
+        "totalWithdrawalLimit": "25000",
+        "offlineWithdrawalLimit": "0",
+        "totalCCALimit": "0",
+        "offlineCCALimit": "0",
+        "depositCreditLimit": "0",
+        "issuerTransactionProfile": "                "
+      },
+      "cafPosSegmentInfo": {
+        "totalPurchaseLimit": "50000",
+        "offlinePurchaseLimit": "0",
+        "totalCCALimit": "0",
+        "offlineCCALimit": "0",
+        "totalWithdrawalLimit": "50000",
+        "offlineWithdrawalLimit": "0",
+        "usageLimit": "9999",
+        "totalRefundLimit": "0",
+        "offlineRefundLimit": "0",
+        "reasonCode": " ",
+        "issuerTransactionProfile": "                "
+      }
+    }
+  ]
+}

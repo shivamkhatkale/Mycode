@@ -1,0 +1,23 @@
+{
+    "data": {
+        "cif": "254061641",
+        "referenceNumber": "FBGD920197",
+        "amount": 223,
+        "creditAccountNumber": "123456043",
+        "debitAccountNumber": "441002010058664",
+        "creditAccountName": null,
+        "debitAccountName": null,
+        "frequency": "MONTHLY",
+        "mode": "NEFT",
+        "numberOfTransfer": 3,
+        "initialNumberOfTransfers": "3",
+        "remarks": "TEST RECURRING NEFT",
+        "scheduleDate": "2025-06-05T00:00:00",
+        "scheduleType": "RECURRING",
+        "siStartDate": "2025-06-05T09:33:50.534",
+        "siEndDate": "2025-08-05T09:33:50.534",
+        "status": "SCHEDULED"
+    },
+    "success": true,
+    "errorMessage": null
+}

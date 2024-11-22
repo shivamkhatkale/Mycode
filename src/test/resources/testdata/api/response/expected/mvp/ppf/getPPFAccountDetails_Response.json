@@ -1,0 +1,58 @@
+{
+    "cif": null,
+    "applNum": null,
+    "accts": [
+        {
+            "id": null,
+            "cif": null,
+            "acctNum": "05051PPF000000000157",
+            "name": null,
+            "nickName": null,
+            "acctStatus": null,
+            "acctBals": [
+                {
+                    "balTypeCode": "BALANCE",
+                    "amount": 0,
+                    "currencyCode": "INR"
+                },
+                {
+                    "balTypeCode": "PENALTY",
+                    "amount": 0,
+                    "currencyCode": "INR"
+                },
+                {
+                    "balTypeCode": "CURR_FY_DEPOSIT_AMT",
+                    "amount": 0,
+                    "currencyCode": "INR"
+                },
+                {
+                    "balTypeCode": "CURR_FY_MAX_DEPOSIT_AMT_LIMIT",
+                    "amount": null,
+                    "currencyCode": "INR"
+                },
+                {
+                    "balTypeCode": "CURR_FY_BAL_DEPOSIT_AMT",
+                    "amount": null,
+                    "currencyCode": "INR"
+                }
+            ],
+            "scheme": null,
+            "bankInfo": null,
+            "nominee": null,
+            "acctOpenDate": null,
+            "type": null,
+            "maturityDate": null,
+            "depositCount": 0,
+            "beneficiary": null
+        }
+    ],
+    "remarks": null,
+    "txnId": null,
+    "rqType": null,
+    "currFYContriAmt": null,
+    "penaltyAmt": null,
+    "isMinor": null,
+    "activeFlag": null,
+    "declarationIndicator": null,
+    "investmentContribution": null
+}

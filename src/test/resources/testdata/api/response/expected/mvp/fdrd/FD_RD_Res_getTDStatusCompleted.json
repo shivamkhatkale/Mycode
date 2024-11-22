@@ -1,0 +1,18 @@
+{
+    "opsStatus": "SUCCESS",
+    "applicationFrmNum": "974129942574",
+    "transRefNumber": "640004452866",
+    "entity": {
+        "depositStatus": "COMPLETED",
+        "failedReason": null,
+        "accountResponse": {
+            "acctNum": "635303230001305"
+        },
+        "depositAmount": "12500.00",
+        "interestRate": "4.9",
+        "maturityAmount": "12706",
+        "maturityDate": "2024-11-09",
+        "interestPayoutType": "Maturity",
+        "interestPayoutAmount": "248.00"
+    }
+}

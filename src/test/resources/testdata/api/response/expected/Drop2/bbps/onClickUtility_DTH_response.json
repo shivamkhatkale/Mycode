@@ -1,0 +1,133 @@
+{
+    "service_provider": {
+        "header_details": {
+            "utility_type": "DTH"
+        },
+        "linked_billers": [
+            {
+                "objectid": "billeraccount",
+                "billerid": "TATASKY00NAT01",
+                "billeraccountid": "HGA2A4165AAAAAAAK1SW",
+                "sourceid": "UBI02",
+                "short_name": "testDth",
+                "registration_date": "13-06-2024 16:00:38",
+                "autopay_status": "N",
+                "autopay_start_date": null,
+                "autopay_end_date": null,
+                "autopay_amount": null,
+                "currency": null,
+                "frequency": null,
+                "activation_date": null,
+                "customerid": "214673801",
+                "status": "ACTIVE",
+                "lastPaidDate": null,
+                "lastPaidAmount": null,
+                "authenticators": [
+                    {
+                        "parameter_name": "Subscriber Number",
+                        "value": "9830353030"
+                    }
+                ],
+                "payment_account": null,
+                "customer": null,
+                "additional_validation_details": null,
+                "pendingBills": []
+            }
+        ],
+        "service_providers": [
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/SUND00000NAT02.gif",
+                "service_provider_name": "Sun Direct TV (With Validation)",
+                "authenticators": [
+                    {
+                        "parameter_name": "Subscriber Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z]{11}$",
+                        "encryption_required": "null"
+                    }
+                ],
+                "billerid": "SUND00000NAT02",
+                "city": "Chennai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/AIRT00000NAT87.gif",
+                "service_provider_name": "Airtel DTH",
+                "authenticators": [
+                    {
+                        "parameter_name": "Customer Id",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[0-9]{10}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "AIRT00000NAT87",
+                "city": "South West Delhi",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/VIDEOCON0NAT01.gif",
+                "service_provider_name": "Videocon D2H",
+                "authenticators": [
+                    {
+                        "parameter_name": "Customer ID / Registered Telephone No",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[0-9]{3,15}$",
+                        "encryption_required": "null"
+                    }
+                ],
+                "billerid": "VIDEOCON0NAT01",
+                "city": "North West Delhi",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/DISH00000NAT01.gif",
+                "service_provider_name": "Dish TV Limited",
+                "authenticators": [
+                    {
+                        "parameter_name": "Registered Mobile Number / Viewing Card Number",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[0-9]{10,11}$",
+                        "encryption_required": "null"
+                    }
+                ],
+                "billerid": "DISH00000NAT01",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "N",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/TATASKY00NAT01.gif",
+                "service_provider_name": "Tata Sky Limited",
+                "authenticators": [
+                    {
+                        "parameter_name": "Subscriber Number",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[0-9]{10}$",
+                        "encryption_required": "null"
+                    }
+                ],
+                "billerid": "TATASKY00NAT01",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "N",
+                "partialPayAmount": null
+            }
+        ],
+        "lastPaidAmount": null,
+        "lastPaidDate": null,
+        "paymentAccount": null
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "errorId": "58c18dfe-5180-4d57-8900-769f0cb4b57e",
+    "errorAt": "2024-09-04T10:38:54.555597867",
+    "error": {
+        "code": "INTERNAL_SERVER_ERROR",
+        "result": "Cannot invoke \"String.equals(Object)\" because the return value of \"com.ubi.dbp.model.response.Ncmc.TransactionHisDetilsResp.getStatusCode()\" is null",
+        "data": null
+    }
+}

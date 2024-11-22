@@ -1,0 +1,13 @@
+{
+  "data": null,
+  "success": false,
+  "errorMessage": {
+    "code": "500",
+    "message": "FAILED",
+    "details": "No Records found",
+    "errors": {
+      "CIF": "254061641",
+      "SI Id": "RJEB171543"
+    }
+  }
+}

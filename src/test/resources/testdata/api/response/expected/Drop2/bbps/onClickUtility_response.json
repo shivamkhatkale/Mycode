@@ -1,0 +1,1635 @@
+{
+    "service_provider": {
+        "header_details": {
+            "utility_type": "Loan"
+        },
+        "linked_billers": [],
+        "service_providers": [
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/MONE00000NATX1.gif",
+                "service_provider_name": "RupeeRedee",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Number",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[1|2]{1}[0-9]{8}$",
+                        "encryption_required": "N"
+                    },
+                    {
+                        "parameter_name": "Mobile Number",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[1-9]{1}[0-9]{9}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "MONE00000NATX1",
+                "city": "Gurgaon",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/0914000NEOGROWOB.gif",
+                "service_provider_name": "NeoGrowth Credit Pvt. Ltd.",
+                "authenticators": [
+                    {
+                        "parameter_name": "Application ID",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[0-9\\\\\/\\-]{1,15}$",
+                        "encryption_required": "N"
+                    },
+                    {
+                        "parameter_name": "Mobile Number",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[0-9]{10}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "0914000NEOGROWOB",
+                "city": "National",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/SHRI00000NAT7E.gif",
+                "service_provider_name": "Shriram Housing Finance Limited",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account No",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z\/\\-]{7,15}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "SHRI00000NAT7E",
+                "city": "Chennai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/CRED00000NAT0U.gif",
+                "service_provider_name": "Credit Wise Capital",
+                "authenticators": [
+                    {
+                        "parameter_name": "Date of birth (dd-mm-yyyy"
+                    },
+                    {
+                        "parameter_name": "Mobile number",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[6-9]\\d{9}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "CRED00000NAT0U",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "N",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/PAIS00000NATCV.gif",
+                "service_provider_name": "Paisa Dukan-Borrower EMI",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan ID",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[l,L][n,N]\\d{6}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "PAIS00000NATCV",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "N",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/Blank2.jpg",
+                "service_provider_name": "CNH Industrial Capital Pvt. Ltd.",
+                "authenticators": [],
+                "billerid": "CNHI00000NATNZ",
+                "city": "New Delhi",
+                "state": "India",
+                "partialPay": "Y",
+                "partialPayAmount": "exact_down"
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/MUTH00000NATYF.gif",
+                "service_provider_name": "Muthoot Capital Services Ltd",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[0-9]{8}$",
+                        "encryption_required": "N"
+                    },
+                    {
+                        "parameter_name": "Loan Payment Mode",
+                        "data_type": "List",
+                        "optional": "N",
+                        "regex": "^(EMI",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "MUTH00000NATYF",
+                "city": "Ernakulam",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": "exact_down"
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/download.jpg",
+                "service_provider_name": "Aditya Birla Housing Finance Limited",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[Ll][Nn][a-zA-Z]{3}[a-zA-Z0-9_]{3}[-][0-9]{11}$",
+                        "encryption_required": "N"
+                    },
+                    {
+                        "parameter_name": "Registered Mobile Number",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[5-9][0-9]{9}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "ADIT00000NATRA",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/VAST00000NATLW.gif",
+                "service_provider_name": "Vastu Housing Finance Corporation Limited",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account No",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z\/\\-]{15}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "VAST00000NATLW",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/FAIR00000NAT6Z.gif",
+                "service_provider_name": "Faircent-Borrower EMI Account",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[0-9]{10}$",
+                        "encryption_required": "N"
+                    },
+                    {
+                        "parameter_name": "Mobile Number",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[1-9]{1}[0-9]{9}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "FAIR00000NAT6Z",
+                "city": "Gurgaon",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": "exact_up"
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/CAPR00000NATC0.gif",
+                "service_provider_name": "Capri Global Capital Limited",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z]{10,20}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "CAPR00000NATC0",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": "exact_down"
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/JANA00000NATO4.gif",
+                "service_provider_name": "Jana Small Finance Bank",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[0-9]{14,16}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "JANA00000NATO4",
+                "city": "Bengaluru",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/MAXV00000NAT33.gif",
+                "service_provider_name": "Maxvalue Credits And Investments Ltd",
+                "authenticators": [
+                    {
+                        "parameter_name": "Account number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z\/\\-]{5,20}$",
+                        "encryption_required": "N"
+                    },
+                    {
+                        "parameter_name": "Mobile number",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[1-9]{1}[0-9]{9}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "MAXV00000NAT33",
+                "city": "Thrissur",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/AYEF00000NATZB.gif",
+                "service_provider_name": "Aye Finance Pvt. Ltd.",
+                "authenticators": [],
+                "billerid": "AYEF00000NATZB",
+                "city": "Gurgaon",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/ANNA00000NATUO.gif",
+                "service_provider_name": "Annapurna Finance Private Limited-MFI",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z\/\\-]{5,15}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "ANNA00000NATUO",
+                "city": "Bhubhaneshwar",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/VISA00000NAT5A.gif",
+                "service_provider_name": "Kinara Capital",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^([A-Z]{5}[0-9]{7}",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "VISA00000NAT5A",
+                "city": "Bengaluru",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/CARS00000NAT4G.gif",
+                "service_provider_name": "Cars24 Financial Services Private Limited",
+                "authenticators": [
+                    {
+                        "parameter_name": "Vehicle Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[A-Z]{2}\\d{1,2}[A-Z]{0,3}\\d{4}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "CARS00000NAT4G",
+                "city": "Gurgaon",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/FULL00000NAT8X.gif",
+                "service_provider_name": "Fullerton India Housing Finance Limited",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^6[0-9]{14,15}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "FULL00000NAT8X",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/CAMD00000NATAI.gif",
+                "service_provider_name": "ZestMoney",
+                "authenticators": [
+                    {
+                        "parameter_name": "Phone Number",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[0-9]{10,13}$",
+                        "encryption_required": "N"
+                    },
+                    {
+                        "parameter_name": "Date of Birth (DD-MM-YYYY"
+                    },
+                    {
+                        "parameter_name": "Pin Code",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[0-9]{5,6}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "CAMD00000NATAI",
+                "city": "Bengaluru",
+                "state": "NATIONAL",
+                "partialPay": "N",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/BERA00000NATOY.gif",
+                "service_provider_name": "BERAR Finance Limited",
+                "authenticators": [
+                    {
+                        "parameter_name": "Account Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z]{3,20}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "BERA00000NATOY",
+                "city": "Nagpur",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/Blank2.jpg",
+                "service_provider_name": "Stree Nidhi",
+                "authenticators": [],
+                "billerid": "STRE00000NATMK",
+                "city": "Hyderabad",
+                "state": "India",
+                "partialPay": "Y",
+                "partialPayAmount": "exact_up"
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/ADAN00000NATO6.gif",
+                "service_provider_name": "Adani Capital Pvt Ltd",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^(\\d{3}[A-Z]{2}|\\d{5}|[A-Z]{5}",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "ADAN00000NATO6",
+                "city": "Ahmedabad",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/AXIS00000NATN6.gif",
+                "service_provider_name": "Axis Finance Limited",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^([0-9]",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "AXIS00000NATN6",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": "exact_down"
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/UAT.gif",
+                "service_provider_name": "Indostar Capital Finance Limited - SME",
+                "authenticators": [],
+                "billerid": "INDO00000NATO3",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": "exact_down"
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/MANA00000NATWG.gif",
+                "service_provider_name": "Manappuram Finance Limited-Vehicle Loan",
+                "authenticators": [
+                    {
+                        "parameter_name": "Agreement Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^([a-zA-Z]",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "MANA00000NATWG",
+                "city": "Thrissur",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/ALTU00000NATG5.gif",
+                "service_provider_name": "Altum Credo Home Finance",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Number",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^\\d{13}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "ALTU00000NATG5",
+                "city": "Pune",
+                "state": "NATIONAL",
+                "partialPay": "N",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/AROH00000WBL0I.gif",
+                "service_provider_name": "Arohan Financial Services Ltd",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan ID",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[0-9]{14}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "AROH00000WBL0I",
+                "city": "Kolkata",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/AUBA00000NATGM.gif",
+                "service_provider_name": "AU Bank Loan Repayment",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z\/\\-]{12,20}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "AUBA00000NATGM",
+                "city": "Jaipur",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/MUTH00000NATN4.gif",
+                "service_provider_name": "Muthoot Homefin Limited",
+                "authenticators": [],
+                "billerid": "MUTH00000NATN4",
+                "city": "Ernakulam",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": "exact_down"
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/ESSK00000NATFR.gif",
+                "service_provider_name": "Ess Kay Fincorp Limited",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Number",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[0-9]{7,18}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "ESSK00000NATFR",
+                "city": "Jaipur",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/AGOR00000NATQL.gif",
+                "service_provider_name": "Agora Microfinance India Ltd - AMIL",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z\/\\-]{10,12}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "AGOR00000NATQL",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/FLEX00000NATJL.gif",
+                "service_provider_name": "Flexsalary",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[5][0-9]{5}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "FLEX00000NATJL",
+                "city": "Hyderabad",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/OMLP00000NAT0A.gif",
+                "service_provider_name": "OMLP2P.COM",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[A-Z0-9]{2,9}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "OMLP00000NAT0A",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "N",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/CLIX00000NATST.gif",
+                "service_provider_name": "Clix",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Application Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[A-Z]{2}[A-Z0-9]{11,18}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "CLIX00000NATST",
+                "city": "Gurgaon",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/SICR00000NATDG.gif",
+                "service_provider_name": "Kissht",
+                "authenticators": [
+                    {
+                        "parameter_name": "Mobile Number",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[0-9]{10}$",
+                        "encryption_required": "N"
+                    },
+                    {
+                        "parameter_name": "Date of birth (YYYY-MM-DD"
+                    }
+                ],
+                "billerid": "SICR00000NATDG",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "N",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/FLEX00000NAT3Z.gif",
+                "service_provider_name": "FlexiLoans",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan ID",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[A-Z]{4}\\d{9}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "FLEX00000NAT3Z",
+                "city": "Chennai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": "exact_down"
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/DMIF00000NATMN.gif",
+                "service_provider_name": "DMI Finance Private Limited",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9a-zA-Z]{2,50}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "DMIF00000NATMN",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "N",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/ICIC00000NATKD.gif",
+                "service_provider_name": "ICICI Bank Ltd - Loans",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[A-Z0-9]{1}[^Zz1][A-Z0-9]{14}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "ICIC00000NATKD",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": "exact_down"
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/MOTI00000NATHD.gif",
+                "service_provider_name": "Motilal Oswal Home Finance",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[LX]{2}[a-zA-Z0-9\\\\-]{18}$|^[LX]{2}[a-zA-Z0-9\\\\-]{22}$|^[LX]{2}[a-zA-Z0-9\\\\-]{23}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "MOTI00000NATHD",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/IDFC00000NATCK.gif",
+                "service_provider_name": "IDFC FIRST Bank Ltd",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan No",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z]{6,12}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "IDFC00000NATCK",
+                "city": "Chennai",
+                "state": "NATIONAL",
+                "partialPay": "N",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/BAID00000NATWG.gif",
+                "service_provider_name": "Baid Leasing and Finance",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^([6-9]\\d{9}",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "BAID00000NATWG",
+                "city": "Jaipur",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": "exact_down"
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/LAND00000NATRD.gif",
+                "service_provider_name": "L and T Housing Finance",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z\\-]{7,20}$",
+                        "encryption_required": "N"
+                    },
+                    {
+                        "parameter_name": "Mobile Number",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[5-9][0-9]{9}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "LAND00000NATRD",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/UAT.gif",
+                "service_provider_name": "Indostar Home Finance Private Limited",
+                "authenticators": [],
+                "billerid": "INDO00000NATCP",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": "exact_down"
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/BFL000000NAT01.gif",
+                "service_provider_name": "Bajaj Finance",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z]{14,18}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "BFL000000NAT01",
+                "city": "Pune",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/RELI00000NATAU.gif",
+                "service_provider_name": "Reliance ARC",
+                "authenticators": [],
+                "billerid": "RELI00000NATAU",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/INDI00000NAT2P.gif",
+                "service_provider_name": "Indiabulls Consumer Finance Limited",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Agreement No",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z]{8,20}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "INDI00000NAT2P",
+                "city": "Gurgaon",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/TATA00000NATGS.gif",
+                "service_provider_name": "Tata Capital Financial Services Limited",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[a-zA-Z0-9]{7,21}$",
+                        "encryption_required": "N"
+                    },
+                    {
+                        "parameter_name": "Mobile Number",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[5-9][0-9]{9}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "TATA00000NATGS",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/INDI00000NATYG.gif",
+                "service_provider_name": "Indiabulls Housing Finance Limited",
+                "authenticators": [
+                    {
+                        "parameter_name": "LanNo",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z]{14}$",
+                        "encryption_required": "N"
+                    },
+                    {
+                        "parameter_name": "DOB(In dd-mm-yyyy"
+                    }
+                ],
+                "billerid": "INDI00000NATYG",
+                "city": "Gurgaon",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/TOYO00000NAT59.gif",
+                "service_provider_name": "Toyota Financial Services",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[A-Za-z]{4}[0-9]{7}$",
+                        "encryption_required": "N"
+                    },
+                    {
+                        "parameter_name": "Loan Payment Mode",
+                        "data_type": "List",
+                        "optional": "N",
+                        "regex": "^(EMI Payment",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "TOYO00000NAT59",
+                "city": "Bengaluru",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/JAIN00000NATVC.gif",
+                "service_provider_name": "Jain Autofin",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan identification",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^([6-9]\\d{9}",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "JAIN00000NATVC",
+                "city": "Jaipur",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/LOKS00000NATC9.gif",
+                "service_provider_name": "Loksuvidha",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[A-Za-z0-9\\_\\.\\@]{5,10}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "LOKS00000NATC9",
+                "city": "Nagpur",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/AVAI00000NAT7J.gif",
+                "service_provider_name": "Avail",
+                "authenticators": [
+                    {
+                        "parameter_name": "Mobile Number",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[0-9]{10}$",
+                        "encryption_required": "N"
+                    },
+                    {
+                        "parameter_name": "Date of birth (DD/MM/YYYY"
+                    }
+                ],
+                "billerid": "AVAI00000NAT7J",
+                "city": "Bengaluru",
+                "state": "NATIONAL",
+                "partialPay": "N",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/UAT.gif",
+                "service_provider_name": "LIC Housing Finance Limited",
+                "authenticators": [],
+                "billerid": "LICH00000NATX2",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "N",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/DCBB00000NAT2K.gif",
+                "service_provider_name": "DCB Bank Loan Repayment",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z]{10,22}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "DCBB00000NAT2K",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/ELEC00000NATE6.gif",
+                "service_provider_name": "Electronica Finance Limited",
+                "authenticators": [],
+                "billerid": "ELEC00000NATE6",
+                "city": "Pune",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/SVAT00000NATUB.gif",
+                "service_provider_name": "Svatantra Microfin Private Limited",
+                "authenticators": [
+                    {
+                        "parameter_name": "Customer ID",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[0-9]{2,8}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "SVAT00000NATUB",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "N",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/MUTH00000NAT0I.gif",
+                "service_provider_name": "Muthoot Microfin Limited",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z\/\\-]{16}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "MUTH00000NAT0I",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/OHMY00000NATFH.gif",
+                "service_provider_name": "OHMYLOAN",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[A-Z0-9]{2,9}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "OHMY00000NATFH",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "N",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/TATA00000NATEE.gif",
+                "service_provider_name": "Tata Motors Finance Limited",
+                "authenticators": [
+                    {
+                        "parameter_name": "RC Number/Contract Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9a-zA-Z]{1,30}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "TATA00000NATEE",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/FINC00000NAT3E.gif",
+                "service_provider_name": "Fincare Small Finance Bank",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[0-9]{14}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "FINC00000NAT3E",
+                "city": "Ahmedabad",
+                "state": "NATIONAL",
+                "partialPay": "N",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/UAT.gif",
+                "service_provider_name": "Bajaj Finance API 1 1",
+                "authenticators": [
+                    {
+                        "parameter_name": "Agreement Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "Y",
+                        "regex": "^[0-9A-Za-z]{14,16}$",
+                        "encryption_required": "N"
+                    },
+                    {
+                        "parameter_name": "Payment Type",
+                        "data_type": "List",
+                        "optional": "Y",
+                        "regex": "Part Payment|Advance EMI|Total Overdue|Foreclosure",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "BAJA00000NATGS",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/LOAN00000NATVP.gif",
+                "service_provider_name": "LOANTAP CREDIT PRODUCTS PRIVATE LIMITED",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9a-zA-Z]{15,35}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "LOAN00000NATVP",
+                "city": "Pune",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/CARE00000NATUF.gif",
+                "service_provider_name": "Care India Finvest Limited",
+                "authenticators": [],
+                "billerid": "CARE00000NATUF",
+                "city": "Faridabad",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/DIGA00000NAT3C.gif",
+                "service_provider_name": "Digamber Capfin Limited",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^(JLG-[0-9]{9}",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "DIGA00000NAT3C",
+                "city": "Jaipur",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/UAT.gif",
+                "service_provider_name": "Loan API 1 1",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z]{1,50}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "LOAN00000NATOI",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/GUFI00000NATV8.gif",
+                "service_provider_name": "G U Financial Services Pvt Ltd",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan account number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z\/\\-]{5,25}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "GUFI00000NATV8",
+                "city": "Bhubaneshwar",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": "exact_down"
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/DCBS00000NATNO.gif",
+                "service_provider_name": "DCBS Loan",
+                "authenticators": [],
+                "billerid": "DCBS00000NATNO",
+                "city": "North 24 Parganas",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/MIDL00000NATIP.gif",
+                "service_provider_name": "Midland Microfin Ltd",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z\/\\-]{4,22}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "MIDL00000NATIP",
+                "city": "Jalandhar",
+                "state": "NATIONAL",
+                "partialPay": "N",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/CHAI00000NATYY.gif",
+                "service_provider_name": "Chaitanya India Fin Credit Pvt Ltd",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^.{7,30}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "CHAI00000NATYY",
+                "city": "Bengaluru",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/VART00000NATHC.gif",
+                "service_provider_name": "Varthana",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Z/-]{6,20}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "VART00000NATHC",
+                "city": "Bengaluru",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/download.jpg",
+                "service_provider_name": "Shriram City Union Finance Ltd",
+                "authenticators": [
+                    {
+                        "parameter_name": "LOAN NUMBER",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z]{10,25}$",
+                        "encryption_required": "N"
+                    },
+                    {
+                        "parameter_name": "MOBILE NUMBER",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[1-9]{1][0-9]{9}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "SHRI00000NAT7D",
+                "city": "Chennai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/EASY00000MAH6N.gif",
+                "service_provider_name": "Easy Home Finance Limited",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z\/\\-]{10,22}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "EASY00000MAH6N",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "N",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/INDU00000NATQH.gif",
+                "service_provider_name": "INDUSIND BANK - CFD",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account No",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z\/\\-]{1,50}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "INDU00000NATQH",
+                "city": "Pune",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": "exact_down"
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/LAMP00000NAT7E.gif",
+                "service_provider_name": "L and T Financial Services",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[Tt][0-9a-zA-Z]{17,19}|^[1-9][0-9]{6}$",
+                        "encryption_required": "N"
+                    },
+                    {
+                        "parameter_name": "Mobile Number",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[1-9]{1}[0-9]{9}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "LAMP00000NAT7E",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/FINO00000NATVP.gif",
+                "service_provider_name": "Finova Capital Private Ltd",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z]{3,24}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "FINO00000NATVP",
+                "city": "Jaipur",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/SNAP00000NAT61.gif",
+                "service_provider_name": "Snapmint",
+                "authenticators": [
+                    {
+                        "parameter_name": "Registered Mobile Number",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[5-9][0-9]{9}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "SNAP00000NAT61",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "N",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/UAT.gif",
+                "service_provider_name": "Ashv Finance",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[0-9]{14,18}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "ASHV00000NATBQ",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "N",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/AVAN00000NATHI.gif",
+                "service_provider_name": "Avanse Financial Services Ltd",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z\/\\-]{10,13}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "AVAN00000NATHI",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": "exact_down"
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/ANNA00000NATMR.gif",
+                "service_provider_name": "Annapurna Finance Private Limited-MSME",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z\/\\-]{8,26}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "ANNA00000NATMR",
+                "city": "Bhubaneshwar",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/CAPR00000NATUB.gif",
+                "service_provider_name": "Capri Global Housing Finance",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z]{10,20}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "CAPR00000NATUB",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": "exact_down"
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/I2IF00000NAT6K.gif",
+                "service_provider_name": "i2i Funding-Borrower EMI Repayment",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan ID",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[0-9]{1,10}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "I2IF00000NAT6K",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/SHRI00000NAT23.gif",
+                "service_provider_name": "Shriram Transport Finance Company Limited",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z\/\\-]{10,20}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "SHRI00000NAT23",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/SPAN00000NATV2.gif",
+                "service_provider_name": "Spandana Rural And Urban Development Organisation",
+                "authenticators": [],
+                "billerid": "SPAN00000NATV2",
+                "city": "Hyderabad",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": "exact_up"
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/KANA00000NATQV.gif",
+                "service_provider_name": "Kanakadurga Finance Limited",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[0-9A-Za-z\/\\-]{5,20}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "KANA00000NATQV",
+                "city": "Krishna",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/FULL00000NATD4.gif",
+                "service_provider_name": "Fullerton India credit company limited",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Account Number",
+                        "data_type": "Numeric",
+                        "optional": "N",
+                        "regex": "^[0-9]{14,15}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "FULL00000NATD4",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/AAVA00000NATMF.gif",
+                "service_provider_name": "AAVAS FINANCIERS LIMITED",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan no",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[a-zA-Z0-9-]{20}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "AAVA00000NATMF",
+                "city": "Jaipur",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/OXYZ00000NATSE.gif",
+                "service_provider_name": "Oxyzo Financial Services Pvt Ltd",
+                "authenticators": [
+                    {
+                        "parameter_name": "Loan Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[O,o]{1}[X,x]{1}[Y,y]{1}[A-Za-z0-9]{7,11}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "OXYZ00000NATSE",
+                "city": "Gurgaon",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/AEONOB.gif",
+                "service_provider_name": "AEON Credit",
+                "authenticators": [
+                    {
+                        "parameter_name": "Agreement Number",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^[A-Za-z0-9\\-]{19}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "AEONOB",
+                "city": "Mumbai",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/INDI00000NAT12.gif",
+                "service_provider_name": "India Shelter Finance Corporation Limited",
+                "authenticators": [
+                    {
+                        "parameter_name": "Application ID",
+                        "data_type": "AlphaNumeric",
+                        "optional": "N",
+                        "regex": "^AP-\\d{3,22}$",
+                        "encryption_required": "N"
+                    }
+                ],
+                "billerid": "INDI00000NAT12",
+                "city": "Gurgaon",
+                "state": "NATIONAL",
+                "partialPay": "Y",
+                "partialPayAmount": null
+            },
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/UAT.gif",
+                "service_provider_name": "Manappuram Finance Limited",
+                "authenticators": [],
+                "billerid": "MANA00000NATCH",
+                "city": "Thrissur",
+                "state": "NATIONAL",
+                "partialPay": "N",
+                "partialPayAmount": null
+            }
+        ],
+        "lastPaidAmount": null,
+        "lastPaidDate": null,
+        "paymentAccount": null
+    }
+}

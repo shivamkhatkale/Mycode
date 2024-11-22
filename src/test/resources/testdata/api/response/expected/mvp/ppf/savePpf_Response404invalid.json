@@ -1,0 +1,11 @@
+{
+    "errorId": "1bb6df8a-6561-4e97-87c8-b5742425a77a",
+    "errorAt": "2024-07-31 07:33:20",
+    "errorLocation": "null",
+    "errors": [
+        {
+            "code": "ERR_CU_00121",
+            "message": "Customer not found or invalid."
+        }
+    ]
+}

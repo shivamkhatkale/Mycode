@@ -1,0 +1,13 @@
+{
+    "code": "00",
+    "result": "SUCCESS",
+    "data": {
+        "beneName": "SIRRA MARTHA",
+        "mcc": "0000",
+        "accountType": "SAVINGS",
+        "vpa": "6006259304@unionbankofindia",
+        "cmid": null
+    },
+    "errorDesc": null,
+    "checksum": null
+}

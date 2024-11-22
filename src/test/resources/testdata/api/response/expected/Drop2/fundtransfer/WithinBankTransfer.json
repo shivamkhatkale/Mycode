@@ -1,0 +1,21 @@
+{
+  "data": {
+    "cif": "254061641",
+    "creditAccountType": "CAA",
+    "debitAccountType": "SBA",
+    "creditAccountNumber": "441001010032134",
+    "payeeName": "YOGESH CHORAT",
+    "debitAccountNumber": "441002010058664",
+    "debitAccountName": "HARMANJIT SINGH SO RANJIT SINGH",
+    "amount": 500,
+    "mode": "UNION BANK OF INDIA",
+    "remarks": "Testing",
+    "txnId": "869603793482",
+    "txnDate": "2024-10-28T12:44:58",
+    "ledgerBalance": "0000000034138840",
+    "availableBalance": "0000000034133040",
+    "withinBank": true
+  },
+  "errorMessage": null,
+  "success": true
+}

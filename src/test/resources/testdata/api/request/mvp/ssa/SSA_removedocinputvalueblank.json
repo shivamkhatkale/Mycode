@@ -1,0 +1,10 @@
+{
+  "cif":"      ",
+  "applNum": "    ",
+  "docUploadReq": {
+    "docTypeCode": "BRTCR",
+    "docCategory": "POI",
+    "fileTypeCode": "txt",
+    "content": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "errorId": "91451fcd-81b1-497c-8b6c-2b380621fdf9",
+    "errorAt": "2024-10-01T13:19:23.198017315",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "400",
+            "message": "pran_num: must not be blank",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        },
+        {
+            "code": "400",
+            "message": "pran_num: must not be null",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

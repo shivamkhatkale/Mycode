@@ -1,0 +1,45 @@
+{
+    "data": [
+        {
+            "activeFlag": true,
+            "bankName": "SBI",
+            "channel": "MOB",
+            "cif": "254061641",
+            "coolingPeriodOverFlag": false,
+            "coolingPeriodTime": "2024-09-03T15:20:19.193",
+            "coolingPeriodTimeRemaining": {
+                "hours": 2,
+                "minutes": 59
+            },
+            "createdBy": "ADD_PAYEE",
+            "createdDate": "2024-09-03T12:20:19.193",
+            "ibMaxDailyTrnLimit": 10000000,
+            "ibMaxPerTrnLimit": null,
+            "ibMinDailyTrnLimit": 1,
+            "ibMinPerTrnLimit": null,
+            "identifierNumber": "123456042",
+            "identifierType": "IFSC",
+            "ifscCode": "SBIN0001594",
+            "mbMaxDailyTrnLimit": 10000000,
+            "mbMaxPerTrnLimit": 1000000,
+            "mbMinDailyTrnLimit": 1,
+            "mbMinPerTrnLimit": 1,
+            "mmidNumber": null,
+            "mobileNumber": null,
+            "modifiedBy": null,
+            "modifiedDate": null,
+            "openingDate": "2024-09-03T12:20:19.193",
+            "overallLimit": 1000000,
+            "payeeAccountNumber": "123456042",
+            "payeeAccountType": "SBA",
+            "payeeName": "Avinash",
+            "payeeNickName": "Avi ",
+            "paymentMethod": "P2A/NEFT/RTGS",
+            "selfAccount": null,
+            "setLimitFlag": true,
+            "withinBankIndicator": false
+        }
+    ],
+    "errorDetails": null,
+    "success": true
+}

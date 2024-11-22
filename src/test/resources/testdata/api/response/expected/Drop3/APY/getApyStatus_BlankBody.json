@@ -1,0 +1,35 @@
+{
+    "errorId": "27b4e033-e7f2-4294-a955-85d5df54309a",
+    "errorAt": "2024-10-01T13:23:04.187257957",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "400",
+            "message": "applicationFormNumber: must not be blank",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        },
+        {
+            "code": "400",
+            "message": "applicationFormNumber: must not be null",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        },
+        {
+            "code": "400",
+            "message": "cif: must not be null",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        },
+        {
+            "code": "400",
+            "message": "cif: must not be blank",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

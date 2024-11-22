@@ -1,0 +1,9 @@
+{
+  "data": null,
+  "errorDetails": {
+    "timestamp": "2024-10-31T17:57:26.470+00:00",
+    "message": "DEBIT_ACCT_NOT_FOUND",
+    "details": "Debit Acct Num is not initialized (empty)."
+  },
+  "success": false
+}

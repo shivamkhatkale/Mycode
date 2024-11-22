@@ -1,0 +1,7 @@
+{
+    "timestamp": "2024-09-10T15:46:09.161+00:00",
+    "path": "/v1/fund-transfer/imps/initiate/p2p",
+    "status": 405,
+    "error": "Method Not Allowed",
+    "requestId": "5c93e4ae-333"
+}

@@ -1,0 +1,9 @@
+{
+    "errorId": "a25e4cef-8bc7-439d-9ed4-ff7045d76828",
+    "errorAt": "2024-09-09T09:39:35.485362468",
+    "error": {
+        "code": "BAD_REQUEST",
+        "title": null,
+        "description": "ccPin string [324@] does not match pattern \\d{4}"
+    }
+}

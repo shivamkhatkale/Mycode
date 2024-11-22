@@ -1,0 +1,24 @@
+{
+  "billerid": "UCPGPL000MAH01",
+  "short_name": "GasProvider33",
+  "authenticators": [
+    {
+      "parameter_name": "Customer No",
+      "value": "50000842"
+    }
+  ],
+  "customer": {
+    "mobile": "9800000000",
+    "email": "mayan.trivedi@billdesk.com"
+  },
+  "metadata": {
+    "agent": {
+      "agentid": "UN01UN02INB000000001"
+    },
+    "device": {
+      "init_channel": "InternetBanking",
+      "ip": "124.124.1.1",
+      "mac": "11-AC-58-21-1B-AA"
+    }
+  }
+}

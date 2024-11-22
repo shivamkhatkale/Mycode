@@ -1,0 +1,15 @@
+{
+    "isAdhaarVerified": true,
+    "directorUuid": null,
+    "applicationUuid": "46ffb8ee-be6d-42e6-b952-e3f879852391",
+    "code": "200",
+    "companyUuid": null,
+    "message": "User Verified Successfully",
+    "uuid": "1728884603818",
+    "userId": "e6ef96dd-798b-46d5-9e5b-65deb1ab7e7c",
+    "access_token": "fb435121-ba61-40d4-8d3a-4327d3b9e3a9",
+    "oauthAccessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6Imh0dHBzZXJ2ZXJrZXkiLCJ0eXAiOiJhdCtqd3QifQ.eyJhdWQiOlsiY2xpZW50X3JvcGMiXSwiYXV0aG9yaXRpZXMiOlsiUk9MRV9CT1JST1dFUiJdLCJjbGllbnRfaWQiOiJjbGllbnRfcm9wYyIsImV4cCI6MTcyODg4ODIwNiwiZ2l2ZW5OYW1lIjoiU2FjaGluIiwiZ3JhbnRfaWQiOiI5OThhYTRkZi1mMDMwLTRjYTUtYmYwMi0zMjQzMTIxZWMzMWMiLCJpYXQiOjE3Mjg4ODQ2MDUsImlzcyI6Imh0dHBzOi8vaWFtc2l0LmFwcHMubnByZC51YmlkcC5sb2NhbCIsImp0aSI6IjJiYjc4YTI1LTdhYjAtNDM2Mi05YWVjLTZkNmRkY2NhMjlhOCIsIm1vYmlsZU51bWJlciI6IioqKioqNzUzNjQiLCJuYmYiOjE3Mjg4ODQ2MDUsInNjb3BlIjoib3BlbmlkLGdpdmVuTmFtZT1TYWNoaW4sc249Vml0dGhhbCx1c2VyVHlwZT1jdXN0b21lcixtb2JpbGVOdW1iZXI9OTMyNTM3NTM2NCIsInN1YiI6IjkzMjUzNzUzNjQiLCJzdXJuYW1lIjoiVml0dGhhbCIsInVzZXJfbmFtZSI6IjkzMjUzNzUzNjQifQ.RNC6BWhv6HE7XgKHV3vgy-xoRCqoWm7QXH4vI3dvK7aHbEMzyB8YBiHF7PznGQ6FjOuJFWguZZaDz7oQEPwXf4vw-3J208mbQHt4LJ09a4CriCo6bboZICdFU4fzh3G4lZnWIB6QhC2IJHijq5jLDwpklrV4YpbNENhislGCxjjPF9t-B_Puy1PfGEHt5BJopLGwn7NsApyRnvMWQgb9t52Y2We3eQOdsq2T4FSkmqJfqiDrWlnd76gzmzeBiwLGLW1foTq8jGIY20FVKeqUJK6eBh8lxa0n8zfrynSkeeuTW_W2XHOZge2BDFQbSeurWiNYR5E4kiYGrbg_t12YZQ",
+    "borrowerUuid": "8a1f02ad-9d10-4358-925c-043b2f225dcd",
+    "applicationId": "VL0000031756",
+    "status": "SUCCESS"
+}

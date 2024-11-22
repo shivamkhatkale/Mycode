@@ -1,0 +1,16 @@
+{
+    "errorDetails": null,
+    "data": {
+        "cif": "254061641",
+        "channel": "MOB",
+        "mode": "IMPS",
+        "activeFlag": true,
+        "createdBy": "SET_LIMIT",
+        "createdDate": "2024-09-06T12:58:06.329",
+        "maxPerTrnLimit": 100000,
+        "minPerTrnLimit": 2000,
+        "modifiedBy": "MODIFY_LIMIT",
+        "modifiedDate": "2024-09-06T12:58:13.075997368"
+    },
+    "success": true
+}

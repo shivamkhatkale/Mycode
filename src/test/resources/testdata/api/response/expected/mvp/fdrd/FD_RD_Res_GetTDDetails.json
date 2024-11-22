@@ -1,0 +1,48 @@
+{
+    "applicationFrmNum": null,
+    "cif": "2005946706",
+    "acctNum": "635303040000816",
+    "name": null,
+    "source": null,
+    "subType": null,
+    "acctBals": [
+        {
+            "balTypeCode": "EFFAVL",
+            "amount": 519.00
+        },
+        {
+            "balTypeCode": "AVAIL",
+            "amount": 519.00
+        },
+        {
+            "balTypeCode": "LEDGER",
+            "amount": 0.00
+        }
+    ],
+    "subTypeCode": "Regular_RD",
+    "maturityAmount": "6360",
+    "depositAmount": "511",
+    "interestRate": "6.75",
+    "depositTerm": {
+        "year": null,
+        "month": "12",
+        "day": "0"
+    },
+    "startDate": null,
+    "acctOpenDate": null,
+    "rdSiStartDate": null,
+    "maturityDate": "2025-07-03",
+    "interestPayoutType": null,
+    "interestPayoutAmount": null,
+    "operatingInstruction": null,
+    "noOfContribution": null,
+    "bankInfo": null,
+    "scheme": {
+        "code": "TD004",
+        "type": "R",
+        "name": null
+    },
+    "renewalDtls": null,
+    "preMatureClosure": null,
+    "nominee": null
+}

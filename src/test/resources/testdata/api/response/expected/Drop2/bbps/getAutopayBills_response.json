@@ -1,0 +1,14 @@
+{
+  "errorId": "9c99a865-1873-48e5-91e3-1322fbba790b",
+  "errorAt": "2024-07-10T11:23:54.454659633",
+  "errorLocation": null,
+  "errors": [
+    {
+      "code": "400",
+      "message": "400 Bad Request from GET http://bbps-bill-management-service.biz-bbps-sit.svc.cluster.local:8080/bbps/getFutureBills/274309887",
+      "values": null,
+      "origmesg": null,
+      "errors": null
+    }
+  ]
+}

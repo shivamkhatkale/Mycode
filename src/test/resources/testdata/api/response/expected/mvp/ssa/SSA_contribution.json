@@ -1,0 +1,14 @@
+{
+    "errorId": "197ba209-26d9-45a5-9904-ee0ede6f2829",
+    "errorAt": null,
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "INVALID_CONTRIBUTION_AMT",
+            "message": "Invalid contribution amount",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

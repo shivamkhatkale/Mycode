@@ -1,0 +1,14 @@
+{
+    "errorId": "f7daeed9-9e9e-4b73-8e8a-6732b6faec72",
+    "errorAt": "2024-10-09T14:36:18.176365556",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "405 METHOD_NOT_ALLOWED",
+            "message": "Method Not Allowed",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

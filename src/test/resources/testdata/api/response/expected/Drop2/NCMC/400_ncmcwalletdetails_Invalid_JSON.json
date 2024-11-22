@@ -1,0 +1,9 @@
+{
+    "errorId": "19b63b0a-90ec-4d6c-86c2-24005ae7ad78",
+    "errorAt": "2024-09-11T13:10:59.456804281",
+    "error": {
+        "code": "BAD_REQUEST",
+        "result": "mobileNo expected minLength 10, actual 9, mobileNo string [gafgagaga] does not match pattern ^[0-9]+$",
+        "data": null
+    }
+}

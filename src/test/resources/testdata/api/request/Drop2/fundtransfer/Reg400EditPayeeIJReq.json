@@ -1,0 +1,15 @@
+{
+   
+    "nickName": "Avinash",
+    "identifierType": "IFSC",
+    "accountNumber": "123456042",
+    "identifierNumber": "123456042",
+    "ibMaxDailyTrnLimit": 1000000,
+    "ibMaxPerTrnLimit": 100000,
+    "ibMinDailyTrnLimit": 10000,
+    "ibMinPerTrnLimit": 10000,
+    "mbMaxDailyTrnLimit": 1000000,
+    "mbMaxPerTrnLimit": 100000,
+    "mbMinDailyTrnLimit": 10000,
+    "mbMinPerTrnLimit": 10000
+}

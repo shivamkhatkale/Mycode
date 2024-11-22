@@ -1,0 +1,55 @@
+{
+    "cif": "04989529",
+    "mobile": "9433746012",
+    "solId": "11791",
+    "accountNumber": "117910012003125",
+    "accountType": "saving",
+    "customerId": "04989529",
+    "customerName": "Bharat K",
+    "device": {
+        "ip": "124.124.1.1",
+        "mac": "11-AC-58-21-1B-AA"
+    },
+    "service_provider": {
+        "billerid": "BSNL00000NATHL",
+        "billerName": "BSNL",
+        "circlename": "Haryana",
+        "circleid": "10"
+    },
+    "plan_categories": {
+        "title": "Popular",
+        "selected_plan": {
+            "plan_code": "HARTOPUP10",
+            "plan_type": "Best Seller",
+            "plan_amount": 153,
+            "plan_data": 3,
+            "plan_validity": 28,
+            "plan_calls": "unlimited",
+            "plan_sms": 100,
+            "Currency_Code": "INR",
+            "plan_validity_unit": "Days",
+            "plan_data_unit": "MB",
+            "plan_sms_unit": "Day",
+            "plan_benifits_available": true,
+            "plan_benifits": [
+                {
+                    "benifit_logo_url": "image_url",
+                    "benifit_provider_name": "Jio Cinema",
+                    "benifit_details": "All Device Access, Unlimited Entertainment "
+                },
+                {
+                    "benifit_logo_url": "image_url",
+                    "benifit_provider_name": "Wynk Music",
+                    "benifit_details": "Music, Hellotunes"
+                },
+                {
+                    "benifit_logo_url": "image_url",
+                    "benifit_provider_name": "Unlimited 5G Data",
+                    "benifit_details": "Unlimited 5G Data over and above your plan limit"
+                }
+            ]
+        }
+    },
+    "terms_conditions_accepted": true,
+    "transaction_pin": 1234
+}

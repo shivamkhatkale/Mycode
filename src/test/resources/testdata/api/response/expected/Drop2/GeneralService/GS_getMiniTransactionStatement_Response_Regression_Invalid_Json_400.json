@@ -1,0 +1,5 @@
+[
+    {
+        "errorMessage": "500 Internal Server Error from POST http://biz-general-query-service.biz-general-service-sit.svc.cluster.local:8080/generalqueryservices/getMiniTransactionStatement"
+    }
+]

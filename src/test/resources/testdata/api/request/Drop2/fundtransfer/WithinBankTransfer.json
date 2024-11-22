@@ -1,0 +1,12 @@
+{
+    "debitAccount": "441002010058664",
+    "cif": "254061641",
+    "accountType": "SBA",
+    "creditAccount": "441001010032134",
+    "solId": "44100",
+    "trnxType": "FUNDTRANSFER",
+    "payeeName" : "YC",
+    "amount": 500,
+    "remarks": "Testing",
+    "quickTransfer": false
+} 

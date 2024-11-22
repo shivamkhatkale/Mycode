@@ -1,0 +1,14 @@
+{
+    "errorId": "0dd4aec2-2c7b-4462-a897-01ad8cd04c99",
+    "errorAt": "2024-07-26T14:22:41.20078",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "CBS_ERROR",
+            "message": "XModifyNode{xPath='//FIXML/Body/executeFinacleScriptRequest/executeFinacleScript_CustomData', value='', index=1}",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

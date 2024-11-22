@@ -1,0 +1,18 @@
+{
+  "cif": "254061641",
+  "identifierType": "IFSC",
+  "identifierNumber": "409601502766",
+  "payeeAccountNumber": "409601502766",
+   "ifscCode": "ICIC0004096",
+  "withinBankIndicator": false,
+  "payeeAccountType": "SBA",
+  "payeeName": "SAKSHI",
+  "payeeNickName": "Sakashi",
+  "setLimitFlag": true,
+  "internetBankingLimit": 190000,
+  "mobileBankingLimit": 200000
+}
+
+
+
+

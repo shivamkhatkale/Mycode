@@ -1,0 +1,14 @@
+{
+    "errorId": "9cfe718d-1ed8-46ec-9566-90f4348ad99b",
+    "errorAt": "2024-09-10T14:43:50.020166234",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "PM001",
+            "message": "You are ineligible to apply for PMJJBY",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

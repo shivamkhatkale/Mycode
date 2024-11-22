@@ -1,0 +1,78 @@
+{
+    "source": {
+        "cif": "121212121",
+        "acctNum": "799002656878791",
+        "scheme": {
+            "code": "SBA",
+            "type": "Savings"
+        }
+    },
+    "cif": "121212121",
+    "nickName": "FD-1",
+    "scheme": {
+        "type": "TDA"
+    },
+    "subType": "FD",
+    "subTypeCode": "Regular_FD",
+    "taxSaver": false,
+    "maturityAmount": 2000.00,
+    "depositAmount": 1000.00,
+    "interestRate": 6.5,
+    "depositTerm": {
+        "year": 0,
+        "month": 0,
+        "day": 7
+    },
+    "startDate": "2023-09-20",
+    "maturityDate": "2024-09-20",
+    "interestPayoutType": "Monthly",
+    "interestPayoutAmount": 2000.00,
+    "operatingInstruction": "Sole_Ownership",
+    "renewalDtls": {
+        "maturityIndicator": "PrinciplePlusInterest",
+        "maturityInstrunction": "Auto_renew"
+    },
+    "nominee": [
+        {
+            "relShipId": "Son",
+            "fname": "Mayur",
+            "mname": "sandeep",
+            "lname": "pankaj",
+            "dob": "1990-09-20",
+            "contactInfo": {
+                "postalAddr": {
+                    "addrType": "Home",
+                    "addrLine1": "TYPE 4 2 MANIKPUR COLONY",
+                    "addrLine2": "BESIDES BALAJI SWEET SHOP",
+                    "addrLine3": "GOREGAON",
+                    "addrLine4": "Dindoshi",
+                    "pinCode": "400084",
+                    "cityCode": "Mumbai",
+                    "stateCode": "MH",
+                    "countryCode": "IN"
+                }
+            },
+            "guardian": {
+                "relShipId": "Mother",
+                "fname": "Abc",
+                "mname": "Abc",
+                "lname": "Abc",
+                "dob": 26,
+                "sameAddr": true,
+                "contactInfo": {
+                    "postalAddr": {
+                        "addrLine1": "TYPE 4 2 MANIKPUR COLONY",
+                        "addrLine2": "BESIDES BALAJI SWEET SHOP",
+                        "addrLine3": "BESIDES BALAJI SWEET SHOP",
+                        "addrLine4": "BESIDES BALAJI SWEET SHOP",
+                        "pinCode": "400001",
+                        "cityCode": "AA",
+                        "stateCode": "MH"
+                    }
+                }
+            },
+            "minor": true,
+            "sameAddr": true
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "data": {
+    "requestId": "3684004304769865033",
+    "txnId": "430415143806",
+    "trnxTimestamp": "2024-10-30T15:46:33",
+    "creditAccountName": "Kiran Kumar",
+    "debitAccountName": "JEETENDRA YADAV",
+    "creditAccountType": null,
+    "creditAccountNumber": null,
+    "creditMMID": "9229000",
+    "remarks": "Transfer",
+    "amount": "101",
+    "modeOfPayment": "IMPS",
+    "fromAccountNumber": "441002010058664",
+    "creditAccountIfsc": null,
+    "mobileNumber": "9121910049",
+    "accountType": "SBA"
+  },
+  "errorDetails": null
+}

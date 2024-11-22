@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "data": {
+    "requestId": "2754428982075412342",
+    "txnId": "430412143780",
+    "trnxTimestamp": "2024-10-30T12:46:36",
+    "creditAccountName": "Kiran Kumar",
+    "debitAccountName": "Akshay Dubey",
+    "creditAccountType": "CA",
+    "creditAccountNumber": "123456043",
+    "creditMMID": null,
+    "remarks": "IMPS Transfer",
+    "amount": "100",
+    "modeOfPayment": "IMPS",
+    "fromAccountNumber": "441002010058664",
+    "creditAccountIfsc": "SBIN0001594",
+    "mobileNumber": null,
+    "accountType": "SBA"
+  },
+  "errorDetails": null
+}

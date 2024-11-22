@@ -1,0 +1,14 @@
+{
+    "errorId": "bd1eca6d-72c7-49e3-a869-57f63a685806",
+    "errorAt": "2024-10-01T13:17:01.305829027",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "400",
+            "message": "customer: must not be null",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

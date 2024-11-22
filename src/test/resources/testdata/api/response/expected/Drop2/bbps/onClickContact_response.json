@@ -1,0 +1,1479 @@
+{
+  "account_details": [
+    {
+      "account_type": "SBA",
+      "account_holder_name": "JEETENDRA YADAV",
+      "account_number": 134210028900002,
+      "bank_logo_url": "https://hcl-dx-dev-haproxy.hcl-dx-dev.svc.cluster.local/wps/wcm/myconnect/805214a1-7bad-4982-a563-9331e5d5593a/ubihome_logo_without+backgroud.png?MOD=AJPERES",
+      "depositAmount": 0
+    },
+    {
+      "account_type": "SBA",
+      "account_holder_name": "JEETENDRA YADAV",
+      "account_number": 134210012000160,
+      "bank_logo_url": "https://hcl-dx-dev-haproxy.hcl-dx-dev.svc.cluster.local/wps/wcm/myconnect/805214a1-7bad-4982-a563-9331e5d5593a/ubihome_logo_without+backgroud.png?MOD=AJPERES",
+      "depositAmount": 0
+    },
+    {
+      "account_type": "SBA",
+      "account_holder_name": "JEETENDRA YADAV",
+      "account_number": 117910012003125,
+      "bank_logo_url": "https://hcl-dx-dev-haproxy.hcl-dx-dev.svc.cluster.local/wps/wcm/myconnect/805214a1-7bad-4982-a563-9331e5d5593a/ubihome_logo_without+backgroud.png?MOD=AJPERES",
+      "depositAmount": 4186517.39
+    }
+  ],
+  "service_providers": [
+    {
+      "service_providers_name": "BSNL",
+      "service_providers_id": "BSNL00000NATHL"
+    },
+    {
+      "service_providers_name": "Airtel Prepaid",
+      "service_providers_id": "AIRTELPRE"
+    },
+    {
+      "service_providers_name": "Vodafone Idea Ltd",
+      "service_providers_id": "VILPRE"
+    },
+    {
+      "service_providers_name": "Mahanagar Telephone Nigam Limited Mumbai - Prepaid",
+      "service_providers_id": "MTNLMUMPRE"
+    },
+    {
+      "service_providers_name": "Jio Telecom Limited - Prepaid",
+      "service_providers_id": "JIOPRE"
+    }
+  ],
+  "region": [
+    {
+      "region_name": "Gujarat",
+      "region_id": "6"
+    },
+    {
+      "region_name": "North East",
+      "region_id": "16"
+    },
+    {
+      "region_name": "Rajasthan",
+      "region_id": "19"
+    },
+    {
+      "region_name": "Madhya Pradesh and Chhattisgarh",
+      "region_id": "13"
+    },
+    {
+      "region_name": "UP East",
+      "region_id": "21"
+    },
+    {
+      "region_name": "Haryana",
+      "region_id": "7"
+    },
+    {
+      "region_name": "Odisha",
+      "region_id": "17"
+    },
+    {
+      "region_name": "Jammu Kashmir",
+      "region_id": "9"
+    },
+    {
+      "region_name": "Mumbai",
+      "region_id": "15"
+    },
+    {
+      "region_name": "Karnataka",
+      "region_id": "10"
+    },
+    {
+      "region_name": "Chennai",
+      "region_id": "4"
+    },
+    {
+      "region_name": "Bihar and Jharkhand",
+      "region_id": "3"
+    },
+    {
+      "region_name": "Delhi NCR",
+      "region_id": "5"
+    },
+    {
+      "region_name": "Punjab",
+      "region_id": "18"
+    },
+    {
+      "region_name": "Maharashtra",
+      "region_id": "28"
+    },
+    {
+      "region_name": "Maharashtra and Goa",
+      "region_id": "14"
+    },
+    {
+      "region_name": "Himachal Pradesh",
+      "region_id": "8"
+    },
+    {
+      "region_name": "Tamilnadu",
+      "region_id": "20"
+    },
+    {
+      "region_name": "Assam",
+      "region_id": "2"
+    },
+    {
+      "region_name": "UP West and Uttarakhand",
+      "region_id": "22"
+    },
+    {
+      "region_name": "Kolkata",
+      "region_id": "12"
+    },
+    {
+      "region_name": "West Bengal and Andaman Nicobar",
+      "region_id": "23"
+    },
+    {
+      "region_name": "Kerala",
+      "region_id": "11"
+    },
+    {
+      "region_name": "Andhra Pradesh",
+      "region_id": "1"
+    }
+  ],
+  "plan_categories": [
+    {
+      "plans_popular": [
+        {
+          "plan_code": "1015084",
+          "plan_type": "Popular",
+          "plan_description": "Data- 1.5 GB, Voice - NA, SMS - NA, Validity- Existing Plan. For users with an active validity plan.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 19,
+          "plan_validity": 0
+        },
+        {
+          "plan_code": "1013054",
+          "plan_type": "Popular",
+          "plan_description": "Data- 2 GB/day Voice- Unlimited Calls, SMS - 100 SMS/day, Validity - 28 Days. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud. Note- Choose Rs.398 Plan to get 12 Premium OTT apps (Rs.299 Plan benefits + Rs99 extra)",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 299,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1017899",
+          "plan_type": "Popular",
+          "plan_description": "Special Offer - 20 GB extra, Data - 2 GB/day + 20 GB, Voice - Unlimited Calls, SMS - 100 SMS/day, Validity - 90 Days, True 5G - Unlimited True 5G Data for eligible subscribers. Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 749,
+          "plan_validity": 90
+        },
+        {
+          "plan_code": "1013529",
+          "plan_type": "Popular",
+          "plan_description": "Data  2.5 GB/day, Voice  Unlimited Calls, SMS   100 SMS/day, Validity  365 Days. True 5G   Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 2999,
+          "plan_validity": 365
+        },
+        {
+          "plan_code": "1013276",
+          "plan_type": "Popular",
+          "plan_description": "Data- 1.5 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity - 28 Days, Note- Save Rs.51 on recharge of Plan 666 (239 plan of 28 days x 3 times = Rs.717), True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 239,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1017082",
+          "plan_type": "Popular",
+          "plan_description": "Subscription to 12 Premium OTT apps + 6GB Extra Data, Data - 2 GB/day + 6GB, Voice - Unlimited Calls, SMS - 100 SMS/day, Validity - 28 Days. Extra Data Offer - 6GB, Note - Rs.398 (Rs.299 Plan + 12 OTT apps for just Rs.99), 12 Premium OTT apps - Sony LIV, ZEE5, JioCinema Premium, Lionsgate Play, Discovery+, Sun NXT, Kanccha Lannka, Planet Marathi, Chaupal, DocuBay, EPIC ON and hoichoi, Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 398,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1013144",
+          "plan_type": "Popular",
+          "plan_description": "Data- 1.5 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 84 Days, Note- Value saving of Rs.51 on this plan (239 plan of 28 days x 3 times = Rs.717). True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 666,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1015490",
+          "plan_type": "Popular",
+          "plan_description": "Data- 2.5 GB/day, Voice- Unlimited Calls, SMS- 100 SMS/day, Validity- 30 Days. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 349,
+          "plan_validity": 30
+        },
+        {
+          "plan_code": "1016483",
+          "plan_type": "Popular",
+          "plan_description": "Netflix (Mobile) Subscription, Data - 2 GB/Day, Voice - Unlimited Calls, SMS - 100 SMS/day, Validity - 84 Days. Subscription to Netflix (Mobile), True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 1099,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1016753",
+          "plan_type": "Popular",
+          "plan_description": "Disney + Hotstar Mobile Subscription(3 Months) Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 84 Days.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud, Disney+ Hotstar Mobile Subscription (3 Months) - Enjoy Live Cricket, Web Series and more, T and C - http-//tiny.jio.com/r457tjI",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 808,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1016733",
+          "plan_type": "Popular",
+          "plan_description": "Disney + Hotstar Mobile Subscription(Annual) Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 365 Days.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud, Disney+ Hotstar Mobile Subscription (Annual) - Enjoy Live Cricket, Web Series and more, T and C - http-//tiny.jio.com/r457tjI",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 3178,
+          "plan_validity": 365
+        },
+        {
+          "plan_code": "1016614",
+          "plan_type": "Popular",
+          "plan_description": "Data- 3 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 84 Days.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 999,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1016006",
+          "plan_type": "Popular",
+          "plan_description": "Subscription to JioSaavn Pro Data- 1.5 GB/Day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 28 Days.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud, Note - To activate JioSaavn Pro subscription login to JioSaavn app with your Jio number",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 269,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1013281",
+          "plan_type": "Popular",
+          "plan_description": "Data- 1.5 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity - 56 Days. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 479,
+          "plan_validity": 56
+        },
+        {
+          "plan_code": "1013239",
+          "plan_type": "Popular",
+          "plan_description": "Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity - 23 Days, True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 249,
+          "plan_validity": 23
+        },
+        {
+          "plan_code": "1015984",
+          "plan_type": "Popular",
+          "plan_description": "Subscription to JioSaavn Pro Data- 2 GB/Day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 84 Days. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud, Note - To activate JioSaavn Pro subscription login to JioSaavn app with your Jio number",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 789,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1013097",
+          "plan_type": "Popular",
+          "plan_description": "Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 84 Days. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 719,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1013072",
+          "plan_type": "Popular",
+          "plan_description": "Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity - 56 Days. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 533,
+          "plan_validity": 56
+        }
+      ],
+      "plans_data_add_on": [
+        {
+          "plan_code": "1017901",
+          "plan_type": "Data Addon",
+          "plan_description": "Data Only Pack, Data  25 GB, Voice - NA, SMS - NA, Validity - 1 Day.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 49,
+          "plan_validity": 1
+        },
+        {
+          "plan_code": "1017060",
+          "plan_type": "Data Addon",
+          "plan_description": "Data Only Pack + Subscription to 12 Premium OTT apps, Data - 10 GB, Voice - NA, SMS   NA, Validity - 28 Days. 12 Premium OTT apps - Sony LIV, ZEE5, JioCinema Premium, Lionsgate Play, Discovery+, Sun NXT, Kanccha Lannka, Planet Marathi, Chaupal, DocuBay, EPIC ON and hoichoi, Complimentary subscription to Jio Apps - JioTV, JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 148,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1013290",
+          "plan_type": "Data Addon",
+          "plan_description": "Data - 1 GB, Voice - NA, SMS - NA, Validity - Existing Plan. For users with an active validity plan.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 15,
+          "plan_validity": 0
+        },
+        {
+          "plan_code": "1015085",
+          "plan_type": "Data Addon",
+          "plan_description": "Data- 2.5 GB, Voice - NA, SMS - NA, Validity- Existing Plan. For users with an active validity plan.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 29,
+          "plan_validity": 0
+        },
+        {
+          "plan_code": "1016735",
+          "plan_type": "Data Addon",
+          "plan_description": "Disney + Hotstar Mobile Subscription (3 Months) Data- 40 GB, Voice - NA, SMS - NA, Validity- 30 Days, Disney + Hotstar Mobile Subscription (3 Months) - Enjoy Live Cricket, Web Series and more, T and C - http-//tiny.jio.com/r457tjI",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 331,
+          "plan_validity": 30
+        },
+        {
+          "plan_code": "1013289",
+          "plan_type": "Data Addon",
+          "plan_description": "Data- 2 GB, Voice   NA, SMS - NA, Validity- Existing Plan. For users with an active validity plan.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 25,
+          "plan_validity": 0
+        },
+        {
+          "plan_code": "1013028",
+          "plan_type": "Data Addon",
+          "plan_description": "Data- 6 GB, Voice - NA, SMS - NA, Validity- Existing Plan. For users with an active validity plan.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 61,
+          "plan_validity": 0
+        },
+        {
+          "plan_code": "1013027",
+          "plan_type": "Data Addon",
+          "plan_description": "Data- 12 GB, Voice - NA, SMS - NA, Validity- Existing Plan. For users with an active validity plan.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 121,
+          "plan_validity": 0
+        },
+        {
+          "plan_code": "1013296",
+          "plan_type": "Data Addon",
+          "plan_description": "Data- 30 GB, Voice- NA, SMS- NA, Validity- 30 Days.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 181,
+          "plan_validity": 30
+        },
+        {
+          "plan_code": "1013297",
+          "plan_type": "Data Addon",
+          "plan_description": "Data- 40 GB, Voice - NA, SMS - NA, Validity- 30 Days.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 241,
+          "plan_validity": 30
+        },
+        {
+          "plan_code": "1013047",
+          "plan_type": "Data Addon",
+          "plan_description": "Data- 50 GB, Voice - NA, SMS - NA, Validity- 30 Days.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 301,
+          "plan_validity": 30
+        },
+        {
+          "plan_code": "1015084",
+          "plan_type": "Data Addon",
+          "plan_description": "Data- 1.5 GB, Voice - NA, SMS - NA, Validity- Existing Plan. For users with an active validity plan.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 19,
+          "plan_validity": 0
+        },
+        {
+          "plan_code": "1015725",
+          "plan_type": "Data Addon",
+          "plan_description": "Data Only Pack Data- 50 GB, Voice - NA, SMS - NA. For users with an active validity Plan.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 222,
+          "plan_validity": 0
+        },
+        {
+          "plan_code": "1015726",
+          "plan_type": "Data Addon",
+          "plan_description": "Data Only Pack Data- 100 GB, Voice - NA, SMS - NA, Validity- 60 Days.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 444,
+          "plan_validity": 60
+        },
+        {
+          "plan_code": "1014068",
+          "plan_type": "Data Addon",
+          "plan_description": "Data Only Pack, Data- 55 GB, Voice - NA, SMS - NA, Validity- 55 Days, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 555,
+          "plan_validity": 55
+        },
+        {
+          "plan_code": "1015727",
+          "plan_type": "Data Addon",
+          "plan_description": "Data Only Pack Data- 150 GB, Voice - NA, SMS - NA, Validity- 90 Days.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 667,
+          "plan_validity": 90
+        }
+      ],
+      "plans_entertainment": [
+        {
+          "plan_code": "1015725",
+          "plan_type": "Cricket Packs",
+          "plan_description": "Data Only Pack Data- 50 GB, Voice - NA, SMS - NA. For users with an active validity Plan.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 222,
+          "plan_validity": 0
+        },
+        {
+          "plan_code": "1015085",
+          "plan_type": "Cricket Packs",
+          "plan_description": "Data- 2.5 GB, Voice - NA, SMS - NA, Validity- Existing Plan. For users with an active validity plan.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 29,
+          "plan_validity": 0
+        },
+        {
+          "plan_code": "1013028",
+          "plan_type": "Cricket Packs",
+          "plan_description": "Data- 6 GB, Voice - NA, SMS - NA, Validity- Existing Plan. For users with an active validity plan.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 61,
+          "plan_validity": 0
+        },
+        {
+          "plan_code": "1017901",
+          "plan_type": "Cricket Packs",
+          "plan_description": "Data Only Pack, Data  25 GB, Voice - NA, SMS - NA, Validity - 1 Day.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 49,
+          "plan_validity": 1
+        },
+        {
+          "plan_code": "1017060",
+          "plan_type": "Cricket Packs",
+          "plan_description": "Data Only Pack + Subscription to 12 Premium OTT apps, Data - 10 GB, Voice - NA, SMS - NA, Validity - 28 Days. 12 Premium OTT apps - Sony LIV, ZEE5, JioCinema Premium, Lionsgate Play, Discovery+, Sun NXT, Kanccha Lannka, Planet Marathi, Chaupal, DocuBay, EPIC ON and hoichoi, Complimentary subscription to Jio Apps - JioTV, JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 148,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1013290",
+          "plan_type": "Cricket Packs",
+          "plan_description": "Data - 1 GB, Voice - NA, SMS - NA, Validity - Existing Plan. For users with an active validity plan.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 15,
+          "plan_validity": 0
+        },
+        {
+          "plan_code": "1015726",
+          "plan_type": "Cricket Packs",
+          "plan_description": "Data Only Pack Data- 100 GB, Voice - NA, SMS - NA, Validity- 60 Days.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 444,
+          "plan_validity": 60
+        },
+        {
+          "plan_code": "1013289",
+          "plan_type": "Cricket Packs",
+          "plan_description": "Data- 2 GB, Voice - NA, SMS - NA, Validity- Existing Plan. For users with an active validity plan.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 25,
+          "plan_validity": 0
+        },
+        {
+          "plan_code": "1013296",
+          "plan_type": "Cricket Packs",
+          "plan_description": "Data- 30 GB, Voice- NA, SMS- NA, Validity- 30 Days.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 181,
+          "plan_validity": 30
+        },
+        {
+          "plan_code": "1013047",
+          "plan_type": "Cricket Packs",
+          "plan_description": "Data- 50 GB, Voice - NA, SMS - NA, Validity- 30 Days.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 301,
+          "plan_validity": 30
+        },
+        {
+          "plan_code": "1016735",
+          "plan_type": "Cricket Packs",
+          "plan_description": "Disney + Hotstar Mobile Subscription (3 Months) Data- 40 GB, Voice - NA, SMS - NA, Validity- 30 Days, Disney + Hotstar Mobile Subscription (3 Months) - Enjoy Live Cricket, Web Series and more, T and C - http-//tiny.jio.com/r457tjI",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 331,
+          "plan_validity": 30
+        },
+        {
+          "plan_code": "1013297",
+          "plan_type": "Cricket Packs",
+          "plan_description": "Data- 40 GB, Voice - NA, SMS - NA, Validity- 30 Days.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 241,
+          "plan_validity": 30
+        },
+        {
+          "plan_code": "1015727",
+          "plan_type": "Cricket Packs",
+          "plan_description": "Data Only Pack Data- 150 GB, Voice - NA, SMS - NA, Validity- 90 Days.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 667,
+          "plan_validity": 90
+        },
+        {
+          "plan_code": "1016753",
+          "plan_type": "Entertainment",
+          "plan_description": "Disney + Hotstar Mobile Subscription(3 Months) Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 84 Days.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud, Disney+ Hotstar Mobile Subscription (3 Months) - Enjoy Live Cricket, Web Series and more, T and C - http-//tiny.jio.com/r457tjI",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 808,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1016836",
+          "plan_type": "Entertainment",
+          "plan_description": "Amazon Prime Video Mobile Edition (included) Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 365 Days, Amazon Prime Video Mobile Edition - Watch blockbuster Bollywood and Regional Movies and Shows.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 3227,
+          "plan_validity": 365
+        },
+        {
+          "plan_code": "1017786",
+          "plan_type": "Entertainment",
+          "plan_description": "Amazon Prime Video Mobile Edition (included), Data - 2 GB/day, Voice - Unlimited Calls, SMS - 100 SMS/day, Validity  84 Days. Amazon Prime Video Mobile Edition - Watch blockbuster Bollywood and Regional Movies and Shows. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 857,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1016601",
+          "plan_type": "Entertainment",
+          "plan_description": "Data Only Pack, Data - Unlimited, Voice - NA, SMS - NA, Validity - 1 Day. Note - 25GB High Speed Data thereafter Unlimited at 64Kbps.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 1499,
+          "plan_validity": 1
+        },
+        {
+          "plan_code": "1016002",
+          "plan_type": "Entertainment",
+          "plan_description": "Subscription to JioSaavn Pro Data- 1.5 GB/Day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 84 Days.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud, Note - To activate JioSaavn Pro subscription login to JioSaavn app with your Jio number",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 739,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1016783",
+          "plan_type": "Entertainment",
+          "plan_description": "Sony LIV Subscription Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 84 Days, Subscription to Sony LIV. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 806,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1016777",
+          "plan_type": "Entertainment",
+          "plan_description": "Zee5 Subscription Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 84 Days, Subscription to Zee5. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 805,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1016483",
+          "plan_type": "Entertainment",
+          "plan_description": "Netflix (Basic) Subscription, Data - 3 GB/Day, Voice - Unlimited Calls, SMS - 100 SMS/day, Validity - 84 Days. Subscription to Netflix (Basic), True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 1099,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1016733",
+          "plan_type": "Entertainment",
+          "plan_description": "Disney + Hotstar Mobile Subscription(Annual) Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 365 Days.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud, Disney+ Hotstar Mobile Subscription (Annual) - Enjoy Live Cricket, Web Series and more, T and C - http-//tiny.jio.com/r457tjI",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 3178,
+          "plan_validity": 365
+        },
+        {
+          "plan_code": "1016760",
+          "plan_type": "Entertainment",
+          "plan_description": "Disney + Hotstar Mobile Subscription (3 Months) Data- 1.5 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 84 Days.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud, Disney+ Hotstar Mobile Subscription (3 Months) - Enjoy Live Cricket, Web Series and more, T and C - http-//tiny.jio.com/r457tjI",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 758,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1015984",
+          "plan_type": "Entertainment",
+          "plan_description": "Subscription to JioSaavn Pro Data- 2 GB/Day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 84 Days. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud, Note - To activate JioSaavn Pro subscription login to JioSaavn app with your Jio number",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 789,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1017080",
+          "plan_type": "Entertainment",
+          "plan_description": "Subscription to 14 Premium OTT apps + 18GB Extra Data, Data- 2 GB/day + 18 GB, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 84 Days. Extra Data Offer - 18GB (6GB x 3 voucher), 14 Premium OTT apps - Prime Video Mobile Edition, Disney+ Hotstar, Sony LIV, ZEE5, JioCinema Premium, Lionsgate Play, Discovery+, Sun NXT, Kanccha Lannka, Planet Marathi, Chaupal, DocuBay, EPIC ON and hoichoi, Unlimited True 5G Data for eligible subscribers. Complimentary subscription to Jio Apps - JioTV, JioCloudDisney+ Hotstar Tand C, http-//tiny.jio.com/r457tjI",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 1198,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1016789",
+          "plan_type": "Entertainment",
+          "plan_description": "Zee5 and Sony LIV Subscription Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 84 Days, Subscription to Zee5 and Sony LIV. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 909,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1016807",
+          "plan_type": "Entertainment",
+          "plan_description": "Zee5 and Sony LIV Subscription Data- 2.5 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 365 Days, Subscription to Zee5 and Sony LIV. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 3662,
+          "plan_validity": 365
+        },
+        {
+          "plan_code": "1017056",
+          "plan_type": "Entertainment",
+          "plan_description": "Subscription to 14 Premium OTT apps + 78GB Extra Data, Data- 2 GB/day + 78 GB, Voice - Unlimited Calls, SMS - 100 SMS/day, Validity - 365 Days. Extra Data Offer - 78GB (6GB x 13 voucher), 14 Premium OTT apps - Prime Video Mobile Edition, Disney+ Hotstar, Sony LIV, ZEE5, JioCinema Premium, Lionsgate Play, Discovery+, Sun NXT, Kanccha Lannka, Planet Marathi, Chaupal, DocuBay, EPIC ON and hoichoi, Unlimited True 5G Data for eligible subscribers. Complimentary subscription to Jio Apps - JioTV, JioCloudDisney+ Hotstar Tand C, http-//tiny.jio.com/r457tjI",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 4498,
+          "plan_validity": 365
+        },
+        {
+          "plan_code": "1017060",
+          "plan_type": "Entertainment",
+          "plan_description": "Data Only Pack + Subscription to 12 Premium OTT apps, Data - 10 GB, Voice - NA, SMS - NA, Validity - 28 Days. 12 Premium OTT apps - Sony LIV, ZEE5, JioCinema Premium, Lionsgate Play, Discovery+, Sun NXT, Kanccha Lannka, Planet Marathi, Chaupal, DocuBay, EPIC ON and hoichoi, Complimentary subscription to Jio Apps - JioTV, JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 148,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1016735",
+          "plan_type": "Entertainment",
+          "plan_description": "Disney+ Hotstar Mobile Subscription (3 Months), Data - 40 GB, Voice - NA, SMS - NA, Validity - 30 Days. Disney+ Hotstar Mobile Subscription (3 Months)   Enjoy Live Cricket, Web Series and more. T and C - http-//tiny.jio.com/r457tjI",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 331,
+          "plan_validity": 30
+        },
+        {
+          "plan_code": "1017082",
+          "plan_type": "Entertainment",
+          "plan_description": "Subscription to 12 Premium OTT apps + 6GB Extra Data, Data- 2 GB/day + 6GB, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 28 Days. Extra Data Offer - 6GB, Note- Rs.398 (Rs.299 Plan + 12 OTT apps for just Rs. 99). 12 Premium OTT apps - Sony LIV, ZEE5, JioCinema Premium, Lionsgate Play, Discovery+, Sun NXT, Kanccha Lannka, Planet Marathi, Chaupal, DocuBay, EPIC ON and hoichoi. Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 398,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1016768",
+          "plan_type": "Entertainment",
+          "plan_description": "Disney + Hotstar Mobile Subscription (3 Months) Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 28 Days.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud, Disney+ Hotstar Mobile Subscription (3 Months) - Enjoy Live Cricket, Web Series and more, T and C - http-//tiny.jio.com/r457tjI",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 388,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1016711",
+          "plan_type": "Entertainment",
+          "plan_description": "Disney + Hotstar Mobile Subscription (Annual) Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 28 Days.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud, Disney+ Hotstar Mobile Subscription (Annual) - Enjoy Live Cricket, Web Series and more, T and C - http-//tiny.jio.com/r457tjI",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 598,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1015990",
+          "plan_type": "Entertainment",
+          "plan_description": "Subscription to JioSaavn Pro Data- 2 GB/Day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 56 Days.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud, Note - To activate JioSaavn Pro subscription login to JioSaavn app with your Jio number",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 589,
+          "plan_validity": 56
+        },
+        {
+          "plan_code": "1016710",
+          "plan_type": "Entertainment",
+          "plan_description": "Disney + Hotstar Mobile Subscription (3 Months) Data- 1.5 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 28 Days.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud, Disney+ Hotstar Mobile Subscription (3 Months) - Enjoy Live Cricket, Web Series and more, T and C - http-//tiny.jio.com/r457tjI",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 328,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1016006",
+          "plan_type": "Entertainment",
+          "plan_description": "Subscription to JioSaavn Pro Data- 1.5 GB/Day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 28 Days.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud, Note - To activate JioSaavn Pro subscription login to JioSaavn app with your Jio number",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 269,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1016019",
+          "plan_type": "Entertainment",
+          "plan_description": "Subscription to JioSaavn Pro Data- 1.5 GB/Day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 56 Days.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud, Note - To activate JioSaavn Pro subscription login to JioSaavn app with your Jio number",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 529,
+          "plan_validity": 56
+        },
+        {
+          "plan_code": "1016801",
+          "plan_type": "Entertainment",
+          "plan_description": "Sony LIV Subscription Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 365 Days, Subscription to Sony LIV. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 3226,
+          "plan_validity": 365
+        },
+        {
+          "plan_code": "1016792",
+          "plan_type": "Entertainment",
+          "plan_description": "Zee5 Subscription Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 365 Days, Subscription to Zee5. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 3225,
+          "plan_validity": 365
+        }
+      ],
+      "plans_unlimited": [
+        {
+          "plan_code": "1013054",
+          "plan_type": "Smartphone",
+          "plan_description": "Data- 2 GB/day Voice- Unlimited Calls, SMS - 100 SMS/day, Validity - 28 Days. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud. Note- Choose Rs.398 Plan to get 12 Premium OTT apps (Rs.299 Plan benefits + Rs99 extra)",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 299,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1017899",
+          "plan_type": "Smartphone",
+          "plan_description": "Special Offer - 20 GB extra, Data - 2 GB/day + 20 GB, Voice - Unlimited Calls, SMS - 100 SMS/day, Validity - 90 Days, True 5G - Unlimited True 5G Data for eligible subscribers. Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 749,
+          "plan_validity": 90
+        },
+        {
+          "plan_code": "1013529",
+          "plan_type": "Smartphone",
+          "plan_description": "Data  2.5 GB/day, Voice  Unlimited Calls, SMS   100 SMS/day, Validity  365 Days. True 5G   Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 2999,
+          "plan_validity": 365
+        },
+        {
+          "plan_code": "1013144",
+          "plan_type": "Smartphone",
+          "plan_description": "Data- 1.5 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 84 Days, Note- Value saving of Rs.51 on this plan (239 plan of 28 days x 3 times = Rs.717). True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 666,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1017080",
+          "plan_type": "Smartphone",
+          "plan_description": "Subscription to 14 Premium OTT apps + 18GB Extra Data, Data- 2 GB/day + 18 GB, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 84 Days. Extra Data Offer - 18GB (6GB x 3 voucher), 14 Premium OTT apps - Prime Video Mobile Edition, Disney+ Hotstar, Sony LIV, ZEE5, JioCinema Premium, Lionsgate Play, Discovery+, Sun NXT, Kanccha Lannka, Planet Marathi, Chaupal, DocuBay, EPIC ON and hoichoi, Unlimited True 5G Data for eligible subscribers. Complimentary subscription to Jio Apps - JioTV, JioCloudDisney+ Hotstar Tand C, http-//tiny.jio.com/r457tjI",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 1198,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1016483",
+          "plan_type": "Smartphone",
+          "plan_description": "Netflix (Mobile) Subscription, Data - 2 GB/Day, Voice - Unlimited Calls, SMS - 100 SMS/day, Validity - 84 Days. Subscription to Netflix (Mobile), True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 1099,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1013276",
+          "plan_type": "Smartphone",
+          "plan_description": "Data- 1.5 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity - 28 Days, Note- Save Rs.51 on recharge of Plan 666 (239 plan of 28 days x 3 times = Rs.717), True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 239,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1017056",
+          "plan_type": "Smartphone",
+          "plan_description": "Subscription to 14 Premium OTT apps + 78GB Extra Data, Data- 2 GB/day + 78 GB, Voice - Unlimited Calls, SMS - 100 SMS/day, Validity - 365 Days. Extra Data Offer - 78GB (6GB x 13 voucher), 14 Premium OTT apps - Prime Video Mobile Edition, Disney+ Hotstar, Sony LIV, ZEE5, JioCinema Premium, Lionsgate Play, Discovery+, Sun NXT, Kanccha Lannka, Planet Marathi, Chaupal, DocuBay, EPIC ON and hoichoi, Unlimited True 5G Data for eligible subscribers. Complimentary subscription to Jio Apps - JioTV, JioCloudDisney+ Hotstar Tand C, http-//tiny.jio.com/r457tjI",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 4498,
+          "plan_validity": 365
+        },
+        {
+          "plan_code": "1017786",
+          "plan_type": "Smartphone",
+          "plan_description": "Amazon Prime Video Mobile Edition (included), Data - 2 GB/day, Voice - Unlimited Calls, SMS - 100 SMS/day, Validity  84 Days. Amazon Prime Video Mobile Edition - Watch blockbuster Bollywood and Regional Movies and Shows. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 857,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1017082",
+          "plan_type": "Smartphone",
+          "plan_description": "Subscription to 12 Premium OTT apps + 6GB Extra Data, Data- 2 GB/day + 6GB, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 28 Days. Extra Data Offer - 6GB, Note- Rs.398 (Rs.299 Plan + 12 OTT apps for just Rs. 99). 12 Premium OTT apps - Sony LIV, ZEE5, JioCinema Premium, Lionsgate Play, Discovery+, Sun NXT, Kanccha Lannka, Planet Marathi, Chaupal, DocuBay, EPIC ON and hoichoi. Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 398,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1016722",
+          "plan_type": "Smartphone",
+          "plan_description": "Swiggy One Lite Subscription (3 Months) Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 84 Days, Swiggy One Lite Subscription (3 Months) - Free home delivery of food, groceries and more.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 866,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1015490",
+          "plan_type": "Smartphone",
+          "plan_description": "Data- 2.5 GB/day, Voice- Unlimited Calls, SMS- 100 SMS/day, Validity- 30 Days. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 349,
+          "plan_validity": 30
+        },
+        {
+          "plan_code": "1013097",
+          "plan_type": "Smartphone",
+          "plan_description": "Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 84 Days. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 719,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1015756",
+          "plan_type": "Smartphone",
+          "plan_description": "Special Offer - 6 GB extra, Data- 3 GB/day + 6 GB, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 28 Days. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 399,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1013284",
+          "plan_type": "Smartphone",
+          "plan_description": "Data- 25 GB, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 30 Days.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 296,
+          "plan_validity": 30
+        },
+        {
+          "plan_code": "1016006",
+          "plan_type": "Smartphone",
+          "plan_description": "Subscription to JioSaavn Pro Data- 1.5 GB/Day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 28 Days.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud, Note - To activate JioSaavn Pro subscription login to JioSaavn app with your Jio number",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 269,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1013221",
+          "plan_type": "Smartphone",
+          "plan_description": "Data- 1.5 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity - 23 Days. Complimentary subscription to Jio Apps - JioTV, JioCinema, JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 199,
+          "plan_validity": 23
+        },
+        {
+          "plan_code": "1013281",
+          "plan_type": "Smartphone",
+          "plan_description": "Data- 1.5 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity - 56 Days. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 479,
+          "plan_validity": 56
+        },
+        {
+          "plan_code": "1013239",
+          "plan_type": "Smartphone",
+          "plan_description": "Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity - 23 Days, True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 249,
+          "plan_validity": 23
+        },
+        {
+          "plan_code": "1016601",
+          "plan_type": "Smartphone",
+          "plan_description": "Netflix (Basic) Subscription, Data - 3 GB/Day, Voice - Unlimited Calls, SMS - 100 SMS/day, Validity - 84 Days. Subscription to Netflix (Basic), True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 1499,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1013049",
+          "plan_type": "Smartphone",
+          "plan_description": "Data- 1 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity - 24 Days. Complimentary subscription to Jio Apps - JioTV, JioCinema, JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 179,
+          "plan_validity": 24
+        },
+        {
+          "plan_code": "1013108",
+          "plan_type": "Smartphone",
+          "plan_description": "Data- 1.5 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 336 Days. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 2545,
+          "plan_validity": 336
+        },
+        {
+          "plan_code": "1013704",
+          "plan_type": "Smartphone",
+          "plan_description": "Data- 1.5 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity - 1 Month, True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 259,
+          "plan_validity": 31
+        },
+        {
+          "plan_code": "1016614",
+          "plan_type": "Smartphone",
+          "plan_description": "Data- 3 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 84 Days.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 999,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1013072",
+          "plan_type": "Smartphone",
+          "plan_description": "Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity - 56 Days. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 533,
+          "plan_validity": 56
+        },
+        {
+          "plan_code": "1015752",
+          "plan_type": "Smartphone",
+          "plan_description": "Special Offer - 2 GB extra, Data- 3 GB/day + 2 GB, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 14 Days. Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 219,
+          "plan_validity": 14
+        },
+        {
+          "plan_code": "1013184",
+          "plan_type": "Smartphone",
+          "plan_description": "Data- 1 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity - 20 Days. Complimentary subscription to Jio Apps - JioTV, JioCinema, JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 149,
+          "plan_validity": 20
+        },
+        {
+          "plan_code": "1016019",
+          "plan_type": "Smartphone",
+          "plan_description": "Subscription to JioSaavn Pro Data- 1.5 GB/Day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 56 Days.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud, Note - To activate JioSaavn Pro subscription login to JioSaavn app with your Jio number",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 529,
+          "plan_validity": 56
+        },
+        {
+          "plan_code": "1015990",
+          "plan_type": "Smartphone",
+          "plan_description": "Subscription to JioSaavn Pro Data- 2 GB/Day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 56 Days.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud, Note - To activate JioSaavn Pro subscription login to JioSaavn app with your Jio number",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 589,
+          "plan_validity": 56
+        },
+        {
+          "plan_code": "1016002",
+          "plan_type": "Smartphone",
+          "plan_description": "Subscription to JioSaavn Pro Data- 1.5 GB/Day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 84 Days.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud, Note - To activate JioSaavn Pro subscription login to JioSaavn app with your Jio number",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 739,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1015984",
+          "plan_type": "Smartphone",
+          "plan_description": "Subscription to JioSaavn Pro Data- 2 GB/Day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 84 Days. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud, Note - To activate JioSaavn Pro subscription login to JioSaavn app with your Jio number",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 789,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1016801",
+          "plan_type": "Smartphone",
+          "plan_description": "Sony LIV Subscription Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 365 Days, Subscription to Sony LIV. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 3226,
+          "plan_validity": 365
+        },
+        {
+          "plan_code": "1016792",
+          "plan_type": "Smartphone",
+          "plan_description": "Zee5 Subscription Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 365 Days, Subscription to Zee5. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 3225,
+          "plan_validity": 365
+        },
+        {
+          "plan_code": "1016783",
+          "plan_type": "Smartphone",
+          "plan_description": "Sony LIV Subscription Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 84 Days, Subscription to Sony LIV. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 806,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1016777",
+          "plan_type": "Smartphone",
+          "plan_description": "Zee5 Subscription Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 84 Days, Subscription to Zee5. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 805,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1016789",
+          "plan_type": "Smartphone",
+          "plan_description": "Zee5 and Sony LIV Subscription Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 84 Days, Subscription to Zee5 and Sony LIV. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 909,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1016807",
+          "plan_type": "Smartphone",
+          "plan_description": "Zee5 and Sony LIV Subscription Data- 2.5 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 365 Days, Subscription to Zee5 and Sony LIV. True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 3662,
+          "plan_validity": 365
+        },
+        {
+          "plan_code": "1016710",
+          "plan_type": "Smartphone",
+          "plan_description": "Disney + Hotstar Mobile Subscription (3 Months) Data- 1.5 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 28 Days.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud, Disney+ Hotstar Mobile Subscription (3 Months) - Enjoy Live Cricket, Web Series and more, T and C - http-//tiny.jio.com/r457tjI",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 328,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1016768",
+          "plan_type": "Smartphone",
+          "plan_description": "Disney + Hotstar Mobile Subscription (3 Months) Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 28 Days.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud, Disney+ Hotstar Mobile Subscription (3 Months) - Enjoy Live Cricket, Web Series and more, T and C - http-//tiny.jio.com/r457tjI",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 388,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1016711",
+          "plan_type": "Smartphone",
+          "plan_description": "Disney + Hotstar Mobile Subscription (Annual) Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 28 Days.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud, Disney+ Hotstar Mobile Subscription (Annual) - Enjoy Live Cricket, Web Series and more, T and C - http-//tiny.jio.com/r457tjI",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 598,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1016760",
+          "plan_type": "Smartphone",
+          "plan_description": "Disney + Hotstar Mobile Subscription (3 Months) Data- 1.5 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 84 Days.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud, Disney+ Hotstar Mobile Subscription (3 Months) - Enjoy Live Cricket, Web Series and more, T and C - http-//tiny.jio.com/r457tjI",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 758,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1016753",
+          "plan_type": "Smartphone",
+          "plan_description": "Disney + Hotstar Mobile Subscription(3 Months) Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 84 Days.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud, Disney+ Hotstar Mobile Subscription (3 Months) - Enjoy Live Cricket, Web Series and more, T and C - http-//tiny.jio.com/r457tjI",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 808,
+          "plan_validity": 84
+        },
+        {
+          "plan_code": "1016733",
+          "plan_type": "Smartphone",
+          "plan_description": "Disney + Hotstar Mobile Subscription(Annual) Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 365 Days.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud, Disney+ Hotstar Mobile Subscription (Annual) - Enjoy Live Cricket, Web Series and more, T and C - http-//tiny.jio.com/r457tjI",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 3178,
+          "plan_validity": 365
+        },
+        {
+          "plan_code": "1016836",
+          "plan_type": "Smartphone",
+          "plan_description": "Amazon Prime Video Mobile Edition (included) Data- 2 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 365 Days, Amazon Prime Video Mobile Edition - Watch blockbuster Bollywood and Regional Movies and Shows.True 5G - Unlimited True 5G Data for eligible subscribers, Complimentary subscription to Jio Apps - JioTV, JioCinema (Premium Subscription not included), JioCloud",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 3227,
+          "plan_validity": 365
+        }
+      ],
+      "plans_jio_bharat": [
+        {
+          "plan_code": "1016385",
+          "plan_type": "Jio Bharat",
+          "plan_description": "For JioBharat phone user only, Data - 0.5 GB/Day, Voice - Unlimited Calls, SMS - 300 SMS/28 days, Validity- 336 Days. Subscription to Jio Apps - JioSaavn, JioCinema (Premium Subscription not included).",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 1234,
+          "plan_validity": 336
+        },
+        {
+          "plan_code": "1016380",
+          "plan_type": "Jio Bharat",
+          "plan_description": "For JioBharat phone user only, Data - 0.5 GB/Day, Voice - Unlimited Calls, SMS - 300 SMS, Validity - 28 Days. Subscription to Jio Apps - JioSaavn, JioCinema (Premium Subscription not included).",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 123,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1018023",
+          "plan_type": "Jio Bharat",
+          "plan_description": "For JioBharat phone user only, Data - 0.5GB/Day, Voice - Unlimited Calls, SMS - 300 SMS/28 days, Validity  56 Days. Subscription to Jio Apps - JioSaavn, JioCinema (Premium Subscription not included)",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 234,
+          "plan_validity": 56
+        }
+      ],
+      "plans_jio_phone": [
+        {
+          "plan_code": "1013283",
+          "plan_type": "JioPhone",
+          "plan_description": "For JioPhone Customers only Data- 0.5 GB/day, Voice- Unlimited Calls, SMS - 300, Validity -23 days. Complimentary subscription to Jio Apps - JioTV, JioCinema, JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 125,
+          "plan_validity": 23
+        },
+        {
+          "plan_code": "1013286",
+          "plan_type": "JioPhone",
+          "plan_description": "For JioPhone Customers only Data- 2.5 GB (0.1GB/day + 200 MB), Voice- Unlimited Calls, SMS - 50, Validity- 23 Days. Complimentary subscription to Jio Apps - JioTV, JioCinema, JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 75,
+          "plan_validity": 23
+        },
+        {
+          "plan_code": "1013298",
+          "plan_type": "JioPhone",
+          "plan_description": "For JioPhone Customers only Data- 0.5 GB/day, Voice- Unlimited Calls, SMS - 300, Validity - 28 Days. Complimentary subscription to Jio Apps - JioTV, JioCinema, JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 152,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1013299",
+          "plan_type": "JioPhone",
+          "plan_description": "For JioPhone Customers only Data- 1 GB/day, Voice- Unlimited Calls, SMS - 100 SMS/day, Validity - 28 Days. Complimentary subscription to Jio Apps - JioTV, JioCinema, JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 186,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1013307",
+          "plan_type": "JioPhone",
+          "plan_description": "For JioPhone Customers only Data- 3 GB (0.1 GB/day + 200 MB), Voice- Unlimited Calls, SMS - 50, Validity - 28 Days. Complimentary subscription to Jio Apps - JioTV, JioCinema, JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 91,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1015764",
+          "plan_type": "JioPhone",
+          "plan_description": "For JioPhone Customers only Data- 56 GB (2 GB/Day ), Voice- Unlimited Calls, SMS - 100 SMS/day, Validity- 28 Days. Complimentary subscription to Jio Apps - JioTV, JioCinema, JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 223,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1013386",
+          "plan_type": "JioPhone",
+          "plan_description": "For JioPhone Customers only Data- 2 GB/Day, Validity- 28 Days.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 182,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1013385",
+          "plan_type": "JioPhone",
+          "plan_description": "For JioPhone Customers only Data- 1 GB/Day, Voice- NA, SMS- NA, Validity- 28 Days.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 122,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1013384",
+          "plan_type": "JioPhone",
+          "plan_description": "For JioPhone Customers only Data- 0.5 GB/Day, Voice- NA, SMS- NA, Validity- 28 days.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 86,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1013383",
+          "plan_type": "JioPhone",
+          "plan_description": "For JioPhone Customers only Data- 6 GB, Voice- NA, SMS- NA, Validity- 28 Days.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 62,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1015539",
+          "plan_type": "JioPhone",
+          "plan_description": "For JioPhone Customers only Data- 2 GB/28 days (12 cycles), Voice- Unlimited Calls, SMS - 50 SMS for 28 days (12 cycles), Validity - 336 Days ( 28 days x 12 cycles). Complimentary subscription to Jio Apps - JioTV, JioCinema, JioCloud.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 895,
+          "plan_validity": 336
+        },
+        {
+          "plan_code": "1013382",
+          "plan_type": "JioPhone",
+          "plan_description": "For JioPhone Customers only, Data- 2 GB, Voice- NA, SMS- NA, Validity- 28 Days.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 26,
+          "plan_validity": 28
+        }
+      ],
+      "plans_isd_internationalRoaming": [
+        {
+          "plan_code": "1016372",
+          "plan_type": "ISD/International Roaming",
+          "plan_description": "INTL. ROAMING Global Pack with Wifi Calling, Monetary value of Rs.933.90 and 5 ISD SMS. Monetary Value can be used on International Roaming in around 150 + countries. Validity - 28 days. For more information on covered countries, visit  https //www.jio.com/selfcare/plans/mobility/jio-international-roaming-plans/country - check ",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 1102,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1016368",
+          "plan_type": "ISD/International Roaming",
+          "plan_description": "INTL. ROAMING Global Pack without Wifi Calling, Monetary value of Rs.933.05 and 5 ISD SMS. Monetary Value can be used on International Roaming in around 150 + countries. Validity - 28 days. For more information on covered countries, visit  https //www.jio.com/selfcare/plans/mobility/jio-international-roaming-plans/country - check ",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 1101,
+          "plan_validity": 28
+        },
+        {
+          "plan_code": "1016045",
+          "plan_type": "ISD/International Roaming",
+          "plan_description": "INTL. ROAMING Voice and Data Pack, Outgoing calls to India and Local - 100 mins, Incoming Call - FREE, Mobile Data - 250 MB high speed data thereafter unlimited at 64 kbps, SMS - 100, Validity - 1 day. Applicable in top 35 countries including US, UK, UAE, Saudi, Canada, Thailand, Singapore, Germany etc. Please visit https //www.jio.com/selfcare/plans/mobility/jio-international-roaming-plans/country - check for more details on country and partner network.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 499,
+          "plan_validity": 1
+        },
+        {
+          "plan_code": "1017330",
+          "plan_type": "ISD/International Roaming",
+          "plan_description": "INTL. ROAMING Voice and Data Pack, Outgoing calls to India and Local - 100 mins/day, Incoming Call - FREE, Mobile Data - 250 MB/day high speed data thereafter unlimited at 64 kbps, SMS - 100/day, Validity - 10 days. Applicable in top 35 countries including US, UK, UAE, Saudi, Canada, Thailand, Singapore, Germany etc. Includes additional Inflight benefits - 100 mins Outgoing calls, 250 MB Data and 100 SMS. Incoming calls are not allowed in flight. Inflight benefits are applicable only for a single trip for the duration of 24 hrs, inclusive of the pack validity. Please visit https //www.jio.com/selfcare/plans/mobility/jio-international-roaming-plans/country - check for more details on country and partner network.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 2499,
+          "plan_validity": 10
+        },
+        {
+          "plan_code": "1017272",
+          "plan_type": "ISD/International Roaming",
+          "plan_description": "NTL. ROAMING Pack, Outgoing calls to India and Local - 250 mins, Incoming Call - Unlimited, Mobile Data - 15 GB high speed data thereafter unlimited at 64 kbps, SMS - 100, Validity - 21 days, Applicable in US, Mexico and U.S. Virgin Islands.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 2555,
+          "plan_validity": 21
+        },
+        {
+          "plan_code": "1017270",
+          "plan_type": "ISD/International Roaming",
+          "plan_description": "INTL. ROAMING Pack, Outgoing calls to India and Local - 150 mins, Incoming Call - Unlimited, Mobile Data - 7 GB high speed data thereafter unlimited at 64 kbps, SMS - 100, Validity - 10 days. Applicable in US, Mexico and U.S. Virgin Islands.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 1555,
+          "plan_validity": 10
+        },
+        {
+          "plan_code": "1017273",
+          "plan_type": "ISD/International Roaming",
+          "plan_description": "INTL. ROAMING Pack, Outgoing calls to India and Local - 250 mins, Incoming Call - Unlimited, Mobile Data - 25 GB high speed data thereafter unlimited at 64 kbps, SMS - 100, Validity - 30 days, Applicable in US, Mexico and U.S. Virgin Islands.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 3455,
+          "plan_validity": 30
+        },
+        {
+          "plan_code": "1017331",
+          "plan_type": "ISD/International Roaming",
+          "plan_description": "INTL. ROAMING Voice and Data Pack, Outgoing calls to India and Local - 1500 mins, Incoming Call - FREE, Mobile Data - 5 GB high speed data thereafter unlimited at 64 kbps, SMS - 1500, Validity - 30 days. Applicable in top 35 countries including US, UK, UAE, Saudi, Canada, Thailand, Singapore, Germany etc. Includes additional Inflight benefits - 100 mins Outgoing calls, 250 MB Data and 100 SMS. Incoming calls are not allowed in flight. Inflight benefits are applicable only for a single trip for the duration of 24 hrs, inclusive of the pack validity. Please visit https //www.jio.com/selfcare/plans/mobility/jio-international-roaming-plans/country - check for more details on country and partner network.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 4999,
+          "plan_validity": 30
+        },
+        {
+          "plan_code": "1011775",
+          "plan_type": "ISD/International Roaming",
+          "plan_description": "INTL. Calling - ISD Pack, ISD Talktime- Rs. 424.58 and 5 ISD SMS, Talktime can be used only for making ISD calls and ISD SMS while in India. Validity - 28 Days. For ISD Call rates,visit https //www.jio.com/jio-isd-recharge-plans",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 501,
+          "plan_validity": 28
+        }
+      ],
+      "plans_topup": [
+        {
+          "plan_code": "1007165",
+          "plan_type": "Topup",
+          "plan_description": "Talktime- Rs 844.46, Validity- Unlimited. Talktime can also be used for International Services.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 1000,
+          "plan_validity": 0
+        },
+        {
+          "plan_code": "1007161",
+          "plan_type": "Topup",
+          "plan_description": "Talktime- Rs.14.95, Validity- Unlimited. Talktime can also be used for International Services.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 20,
+          "plan_validity": 0
+        },
+        {
+          "plan_code": "1007163",
+          "plan_type": "Topup",
+          "plan_description": "Talktime- Rs.81.75, Validity- Unlimited. Talktime can also be used for International Services.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 100,
+          "plan_validity": 0
+        },
+        {
+          "plan_code": "1007162",
+          "plan_type": "Topup",
+          "plan_description": "Talktime- Rs.39.37, Validity- Unlimited. Talktime can also be used for International Services.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 50,
+          "plan_validity": 0
+        },
+        {
+          "plan_code": "1007160",
+          "plan_type": "Topup",
+          "plan_description": "Talktime- Rs.7.47, Validity- Unlimited. Talktime can also be used for International Services.",
+          "biller_category": "Mobile Prepaid",
+          "biller_name": "Jio Prepaid",
+          "plan_amount": 10,
+          "plan_validity": 0
+        }
+      ]
+    }
+  ]
+}

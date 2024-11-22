@@ -1,0 +1,20 @@
+{
+    "closeType": "C",
+    "source": {
+        "cif": "634743268",
+        "acctNum": "635302010013118",
+        "scheme": {
+            "code": "SBGEN"
+        },
+        "bankInfo": {
+            "branchSolId": "63530",
+            "branchId": "563536"
+        }
+    },
+    "cif": "634743268",
+    "acctNum": "635303040000802",
+    "scheme": {
+        "type": "TDA"
+    },
+    "subType": "FDSC"
+}

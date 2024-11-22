@@ -1,0 +1,6 @@
+{
+    "timestamp": "2024-07-31T09:22:45.670+00:00",
+    "status": 405,
+    "error": "Method Not Allowed",
+    "path": "/v1/fund-transfer/imps/initiate/p2a"
+}

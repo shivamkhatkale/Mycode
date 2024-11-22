@@ -1,0 +1,8 @@
+[
+    {
+        "errorMessage": "cif must not be null"
+    },
+    {
+        "errorMessage": "acctNum must not be null"
+    }
+]

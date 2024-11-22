@@ -1,0 +1,26 @@
+{
+    "cif": null,
+    "applNum": null,
+    "source": null,
+    "accts": [
+        {
+            "acctNum": "59070SSA000000000041",
+            "name": "YARLAGADDA YAKOBU  ",
+            "acctStatus": {
+                "statusFlg": "A"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "BALANCE",
+                    "amount": 3400,
+                    "currencyCode": "INR"
+                }
+            ],
+            "bankInfo": null,
+            "acctOpenDate": null,
+            "maturityDate": "2045-10-17",
+            "beneficiary": null
+        }
+    ],
+    "relationWithChild": null
+}

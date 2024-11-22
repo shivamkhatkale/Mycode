@@ -1,0 +1,10 @@
+{
+  "data": null,
+  "errorMessage": {
+    "code": "500",
+    "message": "FAILED",
+    "details": "Requested amount exceeds maximum permissible amount",
+    "errors": null
+  },
+  "success": false
+}

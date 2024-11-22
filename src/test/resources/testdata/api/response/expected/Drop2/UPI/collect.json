@@ -1,0 +1,21 @@
+{
+    "code": "00",
+    "result": "SUCCESS",
+    "data": null,
+    "errorDesc": null,
+    "upiRc": null,
+    "upiIrc": null,
+    "riskScoreValue": null,
+    "remitterRespCode": null,
+    "beneRespCode": null,
+    "remitterReversalRespCode": null,
+    "beneReversalRespCode": null,
+    "txnId": "UBI022184f874064e0f9086e6701eec841b",
+    "rrn": "110000004041",
+    "amount": null,
+    "remarks": null,
+    "orderId": null,
+    "txnDate": "Fri Sep 06 12:52:03 IST 2024",
+    "completeDateTime": "2024-09-06T12:52:21.935228847",
+    "expiryDateTime": "2024-09-06T13:22:21.935195086"
+}

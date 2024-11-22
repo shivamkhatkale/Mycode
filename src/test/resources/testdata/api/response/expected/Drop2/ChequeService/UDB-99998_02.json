@@ -1,0 +1,6 @@
+{
+    "error": {
+        "errorCode": null,
+        "errorMessage": "Record Already Exists for given Accnt with in last four days..."
+    }
+}

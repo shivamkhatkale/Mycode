@@ -1,0 +1,4 @@
+{
+    "error_code": "E16-7",
+    "ResponseDesc": "Tpin should not be the same as login pin."
+}

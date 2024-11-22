@@ -1,0 +1,6 @@
+{
+    "error": {
+        "errorCode": null,
+        "errorMessage": "startDate should not be before account opening date"
+    }
+}

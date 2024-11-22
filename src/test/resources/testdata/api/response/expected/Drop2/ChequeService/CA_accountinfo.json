@@ -1,0 +1,423 @@
+{
+    "accounts": [
+        {
+            "cif": "634919409",
+            "name": "GAUTE MATE",
+            "acctType": "Savings Account",
+            "acctNum": "601402010003006",
+            "acctStatus": {
+                "statusFlg": "A"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "317273.86"
+                }
+            ],
+            "scheme": {
+                "code": "SBGEN",
+                "type": "SBA",
+                "name": null
+            },
+            "solId": "60140",
+            "emiAmount": "",
+            "accountOpenDate": "2016-07-18 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null
+        },
+        {
+            "cif": "634919409",
+            "name": "GAUTE MATE",
+            "acctType": "Savings Account",
+            "acctNum": "601402010003005",
+            "acctStatus": {
+                "statusFlg": "A"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "127677.85"
+                }
+            ],
+            "scheme": {
+                "code": "SBGEN",
+                "type": "SBA",
+                "name": null
+            },
+            "solId": "60140",
+            "emiAmount": "",
+            "accountOpenDate": "2016-07-18 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null
+        },
+        {
+            "cif": "634919409",
+            "name": "GAUTE MATE",
+            "acctType": "Current Account",
+            "acctNum": "416601010011104",
+            "acctStatus": {
+                "statusFlg": "A"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "7098168.43"
+                }
+            ],
+            "scheme": {
+                "code": "UCCAN",
+                "type": "CAA",
+                "name": null
+            },
+            "solId": "41660",
+            "emiAmount": "",
+            "accountOpenDate": "1999-05-22 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null
+        },
+        {
+            "cif": "634919409",
+            "name": "GAUTE MATE",
+            "acctType": "Current Account",
+            "acctNum": "416601010113434",
+            "acctStatus": {
+                "statusFlg": "A"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "8414015.1"
+                }
+            ],
+            "scheme": {
+                "code": "UCCAN",
+                "type": "CAA",
+                "name": null
+            },
+            "solId": "41660",
+            "emiAmount": "",
+            "accountOpenDate": "2013-07-01 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null
+        },
+        {
+            "cif": "634919409",
+            "name": "GAUTE MATE",
+            "acctType": "Savings Account",
+            "acctNum": "701502070000258",
+            "acctStatus": {
+                "statusFlg": "A"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "17915.64"
+                }
+            ],
+            "scheme": {
+                "code": "SBSTF",
+                "type": "SBA",
+                "name": null
+            },
+            "solId": "12842",
+            "emiAmount": "",
+            "accountOpenDate": "2015-06-27 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null
+        },
+        {
+            "cif": "634919409",
+            "name": "GAUTE MATE",
+            "acctType": "Savings Account",
+            "acctNum": "681302010001695",
+            "acctStatus": {
+                "statusFlg": "A"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "1140.14"
+                }
+            ],
+            "scheme": {
+                "code": "BSBDA",
+                "type": "SBA",
+                "name": null
+            },
+            "solId": "68130",
+            "emiAmount": "",
+            "accountOpenDate": "2014-08-28 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null
+        },
+        {
+            "cif": "634919409",
+            "name": "GAUTE MATE",
+            "acctType": "Overdraft Account",
+            "acctNum": "681304020000005",
+            "acctStatus": {
+                "statusFlg": "A"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "-147992.51"
+                }
+            ],
+            "scheme": {
+                "code": "ODSTF",
+                "type": "ODA",
+                "name": null
+            },
+            "solId": "68130",
+            "emiAmount": "",
+            "accountOpenDate": "2018-10-12 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null
+        },
+        {
+            "cif": "634919409",
+            "name": "GAUTE MATE",
+            "acctType": "Savings Account",
+            "acctNum": "701502070000248",
+            "acctStatus": {
+                "statusFlg": "A"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "421863081.28"
+                }
+            ],
+            "scheme": {
+                "code": "SBSTF",
+                "type": "SBA",
+                "name": null
+            },
+            "solId": "68130",
+            "emiAmount": "",
+            "accountOpenDate": "2015-06-27 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null
+        },
+        {
+            "cif": "634919409",
+            "name": "GAUTE MATE",
+            "acctType": "Current Account",
+            "acctNum": "441001010032027",
+            "acctStatus": {
+                "statusFlg": "A"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "4253.56"
+                }
+            ],
+            "scheme": {
+                "code": "CAGEN",
+                "type": "CAA",
+                "name": null
+            },
+            "solId": "44100",
+            "emiAmount": "",
+            "accountOpenDate": "2014-11-03 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null
+        },
+        {
+            "cif": "634919409",
+            "name": "GAUTE MATE",
+            "acctType": "Overdraft Account",
+            "acctNum": "681304020000004",
+            "acctStatus": {
+                "statusFlg": "A"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "-995732.15"
+                }
+            ],
+            "scheme": {
+                "code": "ODSTF",
+                "type": "ODA",
+                "name": null
+            },
+            "solId": "44100",
+            "emiAmount": "",
+            "accountOpenDate": "2018-01-12 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null
+        },
+        {
+            "cif": "634919409",
+            "name": "GAUTE MATE",
+            "acctType": "Current Account",
+            "acctNum": "441001010032037",
+            "acctStatus": {
+                "statusFlg": "A"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "6087.71"
+                }
+            ],
+            "scheme": {
+                "code": "CAGEN",
+                "type": "CAA",
+                "name": null
+            },
+            "solId": "44100",
+            "emiAmount": "",
+            "accountOpenDate": "2016-05-31 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null
+        },
+        {
+            "cif": "634919409",
+            "name": "GAUTE MATE",
+            "acctType": "Savings Account",
+            "acctNum": "441002010063696",
+            "acctStatus": {
+                "statusFlg": "A"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "100000"
+                }
+            ],
+            "scheme": {
+                "code": "SBPRE",
+                "type": "SBA",
+                "name": null
+            },
+            "solId": "44100",
+            "emiAmount": "",
+            "accountOpenDate": "2024-01-05 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null
+        },
+        {
+            "cif": "634919409",
+            "name": "GAUTE MATE",
+            "acctType": "Savings Account",
+            "acctNum": "441002010063729",
+            "acctStatus": {
+                "statusFlg": "A"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "219660.41"
+                }
+            ],
+            "scheme": {
+                "code": "SBGEN",
+                "type": "SBA",
+                "name": null
+            },
+            "solId": "44100",
+            "emiAmount": "",
+            "accountOpenDate": "2024-04-22 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null
+        },
+        {
+            "cif": "634919409",
+            "name": "GAUTE MATE",
+            "acctType": "Savings Account",
+            "acctNum": "441002060000014",
+            "acctStatus": {
+                "statusFlg": "A"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "5102"
+                }
+            ],
+            "scheme": {
+                "code": "SBNRO",
+                "type": "SBA",
+                "name": null
+            },
+            "solId": "44100",
+            "emiAmount": "",
+            "accountOpenDate": "2023-04-06 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null
+        },
+        {
+            "cif": "634919409",
+            "name": "GAUTE MATE",
+            "acctType": "Savings Account",
+            "acctNum": "441002010063572",
+            "acctStatus": {
+                "statusFlg": "A"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "1182722"
+                }
+            ],
+            "scheme": {
+                "code": "SBPRE",
+                "type": "SBA",
+                "name": null
+            },
+            "solId": "44100",
+            "emiAmount": "",
+            "accountOpenDate": "2023-08-18 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null
+        },
+        {
+            "cif": "634919409",
+            "name": "GAUTE MATE",
+            "acctType": "Savings Account",
+            "acctNum": "441002060000013",
+            "acctStatus": {
+                "statusFlg": "A"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "0"
+                }
+            ],
+            "scheme": {
+                "code": "SBNRO",
+                "type": "SBA",
+                "name": null
+            },
+            "solId": "44100",
+            "emiAmount": "",
+            "accountOpenDate": "2023-01-24 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null
+        }
+    ],
+    "commAddr": {
+        "address1": "WING 5,FLAT 2504",
+        "address2": "LODHA AMA,THANE",
+        "address3": "",
+        "city": "INDIA",
+        "state": "INDIA",
+        "pinCode": "400607",
+        "country": "INDIA"
+    },
+    "permAddr": {
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "",
+        "state": "",
+        "pinCode": "",
+        "country": ""
+    },
+    "branchAddr": null
+}

@@ -1,0 +1,272 @@
+[
+  {
+    "paymentid": "HGAEP0FF170000038279",
+    "biller_name": "BSNL Prepaid",
+    "billerId": "BSNL00000NATHL",
+    "biller_category": "Mobile Prepaid",
+    "authenticators": [
+      {
+        "seq": null,
+        "parameterName": "Mobile Number",
+        "value": "9011022208",
+        "data_type": null,
+        "optional": null,
+        "regex": null,
+        "error_message": null,
+        "encryption_required": null,
+        "list_of_values": null
+      },
+      {
+        "seq": null,
+        "parameterName": "Circle",
+        "value": "Haryana",
+        "data_type": null,
+        "optional": null,
+        "regex": null,
+        "error_message": null,
+        "encryption_required": null,
+        "list_of_values": null
+      },
+      {
+        "seq": null,
+        "parameterName": "Id",
+        "value": "HARTOPUP10",
+        "data_type": null,
+        "optional": null,
+        "regex": null,
+        "error_message": null,
+        "encryption_required": null,
+        "list_of_values": null
+      }
+    ],
+    "amount": 1,
+    "amount_in_words": "one",
+    "biller_logo": "https://payments.billdesk.com/hg/images/billerlogo/BSNL00000NATHL.gif",
+    "status": "PAID",
+    "transaction_id": "HGAEP0FF170000038279",
+    "bbps_ref_no": "UN014192BAEAAAAAABAV",
+    "bill_date": "10-07-2024 16:45:42",
+    "payment_account": {
+      "objectid": "paymentaccount",
+      "payment_method": "BankAccount",
+      "account_number": "XXXXXXXXXXX3125"
+    },
+    "autoPayStatus": "N"
+  },
+  {
+    "paymentid": "HGAEP07D730000038278",
+    "biller_name": "BSNL Prepaid",
+    "billerId": "BSNL00000NATHL",
+    "biller_category": "Mobile Prepaid",
+    "authenticators": [
+      {
+        "seq": null,
+        "parameterName": "Mobile Number",
+        "value": "9011022208",
+        "data_type": null,
+        "optional": null,
+        "regex": null,
+        "error_message": null,
+        "encryption_required": null,
+        "list_of_values": null
+      },
+      {
+        "seq": null,
+        "parameterName": "Circle",
+        "value": "Haryana",
+        "data_type": null,
+        "optional": null,
+        "regex": null,
+        "error_message": null,
+        "encryption_required": null,
+        "list_of_values": null
+      },
+      {
+        "seq": null,
+        "parameterName": "Id",
+        "value": "HARTOPUP10",
+        "data_type": null,
+        "optional": null,
+        "regex": null,
+        "error_message": null,
+        "encryption_required": null,
+        "list_of_values": null
+      }
+    ],
+    "amount": 1,
+    "amount_in_words": "one",
+    "biller_logo": "https://payments.billdesk.com/hg/images/billerlogo/BSNL00000NATHL.gif",
+    "status": "PAID",
+    "transaction_id": "HGAEP07D730000038278",
+    "bbps_ref_no": "UN014192BAEAAAAAABAU",
+    "bill_date": "10-07-2024 16:45:40",
+    "payment_account": {
+      "objectid": "paymentaccount",
+      "payment_method": "BankAccount",
+      "account_number": "XXXXXXXXXXX3125"
+    },
+    "autoPayStatus": "N"
+  },
+  {
+    "paymentid": "HGAEP026CB0000038268",
+    "biller_name": "BSNL Prepaid",
+    "billerId": "BSNL00000NATHL",
+    "biller_category": "Mobile Prepaid",
+    "authenticators": [
+      {
+        "seq": null,
+        "parameterName": "Mobile Number",
+        "value": "9011022208",
+        "data_type": null,
+        "optional": null,
+        "regex": null,
+        "error_message": null,
+        "encryption_required": null,
+        "list_of_values": null
+      },
+      {
+        "seq": null,
+        "parameterName": "Circle",
+        "value": "Haryana",
+        "data_type": null,
+        "optional": null,
+        "regex": null,
+        "error_message": null,
+        "encryption_required": null,
+        "list_of_values": null
+      },
+      {
+        "seq": null,
+        "parameterName": "Id",
+        "value": "HARTOPUP10",
+        "data_type": null,
+        "optional": null,
+        "regex": null,
+        "error_message": null,
+        "encryption_required": null,
+        "list_of_values": null
+      }
+    ],
+    "amount": 1,
+    "amount_in_words": "one",
+    "biller_logo": "https://payments.billdesk.com/hg/images/billerlogo/BSNL00000NATHL.gif",
+    "status": "PAID",
+    "transaction_id": "HGAEP026CB0000038268",
+    "bbps_ref_no": "UN014192BAEAAAAAABAO",
+    "bill_date": "10-07-2024 16:38:36",
+    "payment_account": {
+      "objectid": "paymentaccount",
+      "payment_method": "BankAccount",
+      "account_number": "XXXXXXXXXXX3125"
+    },
+    "autoPayStatus": "N"
+  },
+  {
+    "paymentid": "HGAEP0D0E00000038269",
+    "biller_name": "BSNL Prepaid",
+    "billerId": "BSNL00000NATHL",
+    "biller_category": "Mobile Prepaid",
+    "authenticators": [
+      {
+        "seq": null,
+        "parameterName": "Mobile Number",
+        "value": "9011022208",
+        "data_type": null,
+        "optional": null,
+        "regex": null,
+        "error_message": null,
+        "encryption_required": null,
+        "list_of_values": null
+      },
+      {
+        "seq": null,
+        "parameterName": "Circle",
+        "value": "Haryana",
+        "data_type": null,
+        "optional": null,
+        "regex": null,
+        "error_message": null,
+        "encryption_required": null,
+        "list_of_values": null
+      },
+      {
+        "seq": null,
+        "parameterName": "Id",
+        "value": "HARTOPUP10",
+        "data_type": null,
+        "optional": null,
+        "regex": null,
+        "error_message": null,
+        "encryption_required": null,
+        "list_of_values": null
+      }
+    ],
+    "amount": 1,
+    "amount_in_words": "one",
+    "biller_logo": "https://payments.billdesk.com/hg/images/billerlogo/BSNL00000NATHL.gif",
+    "status": "PAID",
+    "transaction_id": "HGAEP0D0E00000038269",
+    "bbps_ref_no": "UN014192BAEAAAAAABAP",
+    "bill_date": "10-07-2024 16:38:36",
+    "payment_account": {
+      "objectid": "paymentaccount",
+      "payment_method": "BankAccount",
+      "account_number": "XXXXXXXXXXX3125"
+    },
+    "autoPayStatus": "N"
+  },
+  {
+    "paymentid": "HGAEP150C30000038056",
+    "biller_name": "BSNL Prepaid",
+    "billerId": "BSNL00000NATHL",
+    "biller_category": "Mobile Prepaid",
+    "authenticators": [
+      {
+        "seq": null,
+        "parameterName": "Mobile Number",
+        "value": "9011022208",
+        "data_type": null,
+        "optional": null,
+        "regex": null,
+        "error_message": null,
+        "encryption_required": null,
+        "list_of_values": null
+      },
+      {
+        "seq": null,
+        "parameterName": "Circle",
+        "value": "Haryana",
+        "data_type": null,
+        "optional": null,
+        "regex": null,
+        "error_message": null,
+        "encryption_required": null,
+        "list_of_values": null
+      },
+      {
+        "seq": null,
+        "parameterName": "Id",
+        "value": "HARTOPUP10",
+        "data_type": null,
+        "optional": null,
+        "regex": null,
+        "error_message": null,
+        "encryption_required": null,
+        "list_of_values": null
+      }
+    ],
+    "amount": 1,
+    "amount_in_words": "one",
+    "biller_logo": "https://payments.billdesk.com/hg/images/billerlogo/BSNL00000NATHL.gif",
+    "status": "PAID",
+    "transaction_id": "HGAEP150C30000038056",
+    "bbps_ref_no": "UN014192BAEAAAAAAA7I",
+    "bill_date": "10-07-2024 12:25:24",
+    "payment_account": {
+      "objectid": "paymentaccount",
+      "payment_method": "BankAccount",
+      "account_number": "XXXXXXXXXXX3125"
+    },
+    "autoPayStatus": "N"
+  }
+]

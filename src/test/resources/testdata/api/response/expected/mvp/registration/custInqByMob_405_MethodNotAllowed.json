@@ -1,0 +1,9 @@
+{
+    "errorId": "c07ff565-112a-404a-91e7-c7f381368d10",
+    "errors": [
+        {
+            "code": "500",
+            "message": "405 METHOD_NOT_ALLOWED \"Request method 'GET' is not supported.\""
+        }
+    ]
+}

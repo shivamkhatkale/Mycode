@@ -1,0 +1,14 @@
+{
+    "errorId": "24176d3b-a972-47ad-913e-1f6a8d39ac9c",
+    "errorAt": "2024-08-01T16:51:30.483699039",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "400",
+            "message": "Failed to read HTTP message",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

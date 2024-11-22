@@ -1,0 +1,4 @@
+{
+    "errorCode": null,
+    "errorMessage": "{\"timestamp\":\"2024-08-22T03:51:46.037+00:00\",\"path\":\"/cheque-biz/book-request\",\"status\":500,\"error\":\"Internal Server Error\",\"requestId\":\"110f3489-62\"}"
+}

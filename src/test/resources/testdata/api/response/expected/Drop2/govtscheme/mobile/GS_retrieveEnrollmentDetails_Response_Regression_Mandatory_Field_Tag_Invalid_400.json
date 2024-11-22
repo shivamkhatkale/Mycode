@@ -1,0 +1,1 @@
+{"errorId":"98b4b6dc-0142-4ea1-8aff-073f74956f1e","errorAt":"2024-10-31T17:50:40.168693178","errorLocation":null,"errors":[{"code":"BAD_REQUEST","message":"required key [channelId] not found,  required key [schemeCode] not found","values":null,"origmesg":null,"errors":null}]}

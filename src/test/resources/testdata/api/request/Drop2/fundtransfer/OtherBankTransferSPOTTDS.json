@@ -1,0 +1,12 @@
+{
+  "cif": "254061641",
+  "amount": 202,
+  "channel": "MOB",
+  "creditAccountNumber": "123456043",
+  "debitAccountNumber": "441002010058664",
+  "mode": "NEFT",
+  "numberOfTransfer": 1,
+  "remarks": "TEST",
+  "scheduleType": "ONETIME",
+  "siStartDate": "2025-06-04T19:23:28.934Z"
+}

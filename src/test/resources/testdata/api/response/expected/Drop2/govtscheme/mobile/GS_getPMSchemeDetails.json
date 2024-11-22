@@ -1,0 +1,31 @@
+{
+    "pmsbyAccounts": [
+        {
+            "schemeCode": null,
+            "cif": "243413563",
+            "applicationFormNumber": null,
+            "customerName": null,
+            "accountNumber": null,
+            "bankName": null,
+            "schemeDetails": null,
+            "status": "PARTIAL"
+        }
+    ],
+    "pmjjbyAccounts": [
+        {
+            "schemeCode": "PMJJBY",
+            "cif": "243413563",
+            "applicationFormNumber": "117841101228",
+            "customerName": "PRERNA DIPLAV DONGRE",
+            "accountNumber": "470202070011019",
+            "bankName": "Union Bank Of India",
+            "schemeDetails": {
+                "coverStartDate": "2024-08-22",
+                "coverEndDate": "2025-05-31",
+                "sumAssured": 200000,
+                "premium": 406
+            },
+            "status": "CREATED"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "response": {
+        "first_time_registration": false,
+        "device_changed": false,
+        "sim_changed": false,
+        "mobile_number_changed": false,
+        "loginpinSet": false,
+        "tpinSet": false,
+        "mfaSuccess": false,
+        "questionsSet": false
+    },
+    "respcode": "200"
+}

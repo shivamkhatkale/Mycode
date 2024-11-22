@@ -1,0 +1,4 @@
+{
+    "errorCode": null,
+    "errorMessage": "{\"timestamp\":\"2024-09-26T13:23:06.380+00:00\",\"status\":500,\"error\":\"Internal Server Error\",\"path\":\"/bussinessqueryservices/retrieveIndividualTDSDepositInterestCertificate\"}"
+}

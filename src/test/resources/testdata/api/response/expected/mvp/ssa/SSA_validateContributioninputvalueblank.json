@@ -1,0 +1,14 @@
+{
+    "errorId": "b7afc8b8-c39f-4ab2-bc80-38372bd9a708",
+    "errorAt": null,
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "CONRIBUTION_AMT_NOT_ALLOWED",
+            "message": "Deposit of max Rs. 1,50,000/- per financial year can be made in a financial year.",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

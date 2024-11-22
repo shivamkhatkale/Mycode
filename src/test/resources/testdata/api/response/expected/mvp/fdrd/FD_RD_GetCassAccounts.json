@@ -1,0 +1,494 @@
+[
+    {
+        "cif": "214673801",
+        "name": "MRINMOYI PAL",
+        "acctNum": "315102011143217",
+        "acctType": null,
+        "acctStatus": {
+            "statusFlg": "A",
+            "freezeCode": ""
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 0.00
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 11.63
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 11.63
+            }
+        ],
+        "scheme": {
+            "code": "SBGEN",
+            "type": "SBA",
+            "name": null
+        },
+        "nominee": null,
+        "subscriptionCode": null,
+        "operatingInstruction": "004",
+        "openingDate": null,
+        "interestRate": null,
+        "activeFlag": null,
+        "bankInfo": {
+            "branchSolId": "31510",
+            "branchId": null,
+            "branchName": null,
+            "address": null
+        }
+    },
+    {
+        "cif": "214673801",
+        "name": "MRINMOYI PAL",
+        "acctNum": "323202010064635",
+        "acctType": null,
+        "acctStatus": {
+            "statusFlg": "A",
+            "freezeCode": ""
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 0.00
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 263903.01
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 263903.01
+            }
+        ],
+        "scheme": {
+            "code": "SBGEN",
+            "type": "SBA",
+            "name": null
+        },
+        "nominee": null,
+        "subscriptionCode": null,
+        "operatingInstruction": "006",
+        "openingDate": null,
+        "interestRate": null,
+        "activeFlag": null,
+        "bankInfo": {
+            "branchSolId": "32320",
+            "branchId": null,
+            "branchName": null,
+            "address": null
+        }
+    },
+    {
+        "cif": "214673801",
+        "name": "MRINMOYI PAL",
+        "acctNum": "643604020000009",
+        "acctType": null,
+        "acctStatus": {
+            "statusFlg": "A",
+            "freezeCode": ""
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 0.00
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 202656.78
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": -897343.22
+            }
+        ],
+        "scheme": {
+            "code": "ODSTF",
+            "type": "ODA",
+            "name": null
+        },
+        "nominee": null,
+        "subscriptionCode": null,
+        "operatingInstruction": "001",
+        "openingDate": null,
+        "interestRate": null,
+        "activeFlag": null,
+        "bankInfo": {
+            "branchSolId": "64360",
+            "branchId": null,
+            "branchName": null,
+            "address": null
+        }
+    },
+    {
+        "cif": "214673801",
+        "name": "MRINMOYI PAL",
+        "acctNum": "454602010287209",
+        "acctType": null,
+        "acctStatus": {
+            "statusFlg": "A",
+            "freezeCode": ""
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 0.00
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 24119.77
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 24119.77
+            }
+        ],
+        "scheme": {
+            "code": "SBSTF",
+            "type": "SBA",
+            "name": null
+        },
+        "nominee": null,
+        "subscriptionCode": null,
+        "operatingInstruction": "001",
+        "openingDate": null,
+        "interestRate": null,
+        "activeFlag": null,
+        "bankInfo": {
+            "branchSolId": "64360",
+            "branchId": null,
+            "branchName": null,
+            "address": null
+        }
+    },
+    {
+        "cif": "214673801",
+        "name": "MRINMOYI PAL",
+        "acctNum": "069622070000001",
+        "acctType": null,
+        "acctStatus": {
+            "statusFlg": "A",
+            "freezeCode": ""
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 0.00
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 819.68
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 819.68
+            }
+        ],
+        "scheme": {
+            "code": "SBSTF",
+            "type": "SBA",
+            "name": null
+        },
+        "nominee": null,
+        "subscriptionCode": null,
+        "operatingInstruction": "001",
+        "openingDate": null,
+        "interestRate": null,
+        "activeFlag": null,
+        "bankInfo": {
+            "branchSolId": "64360",
+            "branchId": null,
+            "branchName": null,
+            "address": null
+        }
+    },
+    {
+        "cif": "214673801",
+        "name": "MRINMOYI PAL",
+        "acctNum": "R069622070000001",
+        "acctType": null,
+        "acctStatus": {
+            "statusFlg": "A",
+            "freezeCode": ""
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 0.00
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 0.00
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.00
+            }
+        ],
+        "scheme": {
+            "code": "CARCC",
+            "type": "CAA",
+            "name": null
+        },
+        "nominee": null,
+        "subscriptionCode": null,
+        "operatingInstruction": "001",
+        "openingDate": null,
+        "interestRate": null,
+        "activeFlag": null,
+        "bankInfo": {
+            "branchSolId": "64360",
+            "branchId": null,
+            "branchName": null,
+            "address": null
+        }
+    },
+    {
+        "cif": "214673801",
+        "name": "MRINMOYI PAL",
+        "acctNum": "569903800005467",
+        "acctType": null,
+        "acctStatus": {
+            "statusFlg": "A",
+            "freezeCode": ""
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 0.00
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 40655.00
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 40655.00
+            }
+        ],
+        "scheme": {
+            "code": "RDFLX",
+            "type": "SBA",
+            "name": null
+        },
+        "nominee": null,
+        "subscriptionCode": null,
+        "operatingInstruction": "004",
+        "openingDate": null,
+        "interestRate": null,
+        "activeFlag": null,
+        "bankInfo": {
+            "branchSolId": "56990",
+            "branchId": null,
+            "branchName": null,
+            "address": null
+        }
+    },
+    {
+        "cif": "214673801",
+        "name": "MRINMOYI PAL",
+        "acctNum": "317802010008514",
+        "acctType": null,
+        "acctStatus": {
+            "statusFlg": "A",
+            "freezeCode": ""
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 0.00
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 160107.94
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 160107.94
+            }
+        ],
+        "scheme": {
+            "code": "SBGEN",
+            "type": "SBA",
+            "name": null
+        },
+        "nominee": null,
+        "subscriptionCode": null,
+        "operatingInstruction": "004",
+        "openingDate": null,
+        "interestRate": null,
+        "activeFlag": null,
+        "bankInfo": {
+            "branchSolId": "31560",
+            "branchId": null,
+            "branchName": null,
+            "address": null
+        }
+    },
+    {
+        "cif": "214673801",
+        "name": "MRINMOYI PAL",
+        "acctNum": "007922010000141",
+        "acctType": null,
+        "acctStatus": {
+            "statusFlg": "A",
+            "freezeCode": ""
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 0.00
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 848497.98
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 848497.98
+            }
+        ],
+        "scheme": {
+            "code": "SBGEN",
+            "type": "SBA",
+            "name": null
+        },
+        "nominee": null,
+        "subscriptionCode": null,
+        "operatingInstruction": "001",
+        "openingDate": null,
+        "interestRate": null,
+        "activeFlag": null,
+        "bankInfo": {
+            "branchSolId": "00792",
+            "branchId": null,
+            "branchName": null,
+            "address": null
+        }
+    },
+    {
+        "cif": "214673801",
+        "name": "MRINMOYI PAL",
+        "acctNum": "520441000056290",
+        "acctType": null,
+        "acctStatus": {
+            "statusFlg": "A",
+            "freezeCode": ""
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 0.00
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 145279.06
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 145279.06
+            }
+        ],
+        "scheme": {
+            "code": "USSA1",
+            "type": "SBA",
+            "name": null
+        },
+        "nominee": null,
+        "subscriptionCode": null,
+        "operatingInstruction": "001",
+        "openingDate": null,
+        "interestRate": null,
+        "activeFlag": null,
+        "bankInfo": {
+            "branchSolId": "00012",
+            "branchId": null,
+            "branchName": null,
+            "address": null
+        }
+    },
+    {
+        "cif": "214673801",
+        "name": "MRINMOYI PAL",
+        "acctNum": "319302010040059",
+        "acctType": null,
+        "acctStatus": {
+            "statusFlg": "A",
+            "freezeCode": ""
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 0.00
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 4088.94
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 4088.94
+            }
+        ],
+        "scheme": {
+            "code": "SBGEN",
+            "type": "SBA",
+            "name": null
+        },
+        "nominee": null,
+        "subscriptionCode": null,
+        "operatingInstruction": "001",
+        "openingDate": null,
+        "interestRate": null,
+        "activeFlag": null,
+        "bankInfo": {
+            "branchSolId": "31850",
+            "branchId": null,
+            "branchName": null,
+            "address": null
+        }
+    },
+    {
+        "cif": "214673801",
+        "name": "MRINMOYI PAL",
+        "acctNum": "022122130000008",
+        "acctType": null,
+        "acctStatus": {
+            "statusFlg": "A",
+            "freezeCode": ""
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 0.00
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 0.00
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.00
+            }
+        ],
+        "scheme": {
+            "code": "DUSBL",
+            "type": "SBA",
+            "name": null
+        },
+        "nominee": null,
+        "subscriptionCode": null,
+        "operatingInstruction": "001",
+        "openingDate": null,
+        "interestRate": null,
+        "activeFlag": null,
+        "bankInfo": {
+            "branchSolId": "02212",
+            "branchId": null,
+            "branchName": null,
+            "address": null
+        }
+    }
+]

@@ -1,0 +1,7 @@
+{
+    "timestamp": "2024-09-11T05:59:10.106+00:00",
+    "path": "/v1/fund-transfer/imps/name-enquiry/p2p",
+    "status": 400,
+    "error": "Bad Request",
+    "requestId": "f99b4e92-346"
+}

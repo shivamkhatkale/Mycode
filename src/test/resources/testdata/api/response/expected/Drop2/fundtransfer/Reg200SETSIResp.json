@@ -1,0 +1,24 @@
+{
+  "data": {
+    "cif": "254061641",
+    "referenceNumber": "YUJA959434",
+    "amount": 12.34,
+    "creditAccountNumber": "123456043",
+    "debitAccountNumber": "441002010058664",
+    "creditAccountName": null,
+    "debitAccountName": null,
+    "frequency": "MONTHLY",
+    "mode": "NEFT",
+    "numberOfTransfer": 2,
+    "initialNumberOfTransfers": "2",
+    "remarks": "SI-Monthly Test Akshay",
+    "scheduleDate": "2025-11-06T00:00:00",
+    "scheduleType": "RECURRING",
+    "siStartDate": "2025-11-06T00:00:00",
+    "siEndDate": "2025-12-06T00:00:00",
+    "status": "SCHEDULED",
+    "trnxTimestamp": "2024-11-08T15:20:57.803623125"
+  },
+  "success": true,
+  "errorMessage": null
+}

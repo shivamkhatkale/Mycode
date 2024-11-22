@@ -1,0 +1,42 @@
+[
+    {
+        "cif": "201733558",
+        "acctNum": "344902010103653",
+        "acctName": "ANIL KUMAR",
+        "customerName": "ANIL KUMAR",
+        "acctType": "SBA",
+        "subscriptionCode": null,
+        "activeFlag": false,
+        "depositAmount": 0,
+        "interestRate": null,
+        "maturityAmount": 0,
+        "acctBals": null,
+        "maturityDate": null,
+        "openingDate": null,
+        "operatingInstruction": "001",
+        "schemeCode": "SBGEN",
+        "schemeName": null,
+        "acctStatus": "A",
+        "repaymentAccount": ""
+    },
+    {
+        "cif": "201733558",
+        "acctNum": "R344902010103653",
+        "acctName": "ANIL KUMAR",
+        "customerName": "ANIL KUMAR",
+        "acctType": "CAA",
+        "subscriptionCode": null,
+        "activeFlag": false,
+        "depositAmount": 0,
+        "interestRate": null,
+        "maturityAmount": 0,
+        "acctBals": null,
+        "maturityDate": null,
+        "openingDate": null,
+        "operatingInstruction": "001",
+        "schemeCode": "CARCC",
+        "schemeName": null,
+        "acctStatus": "A",
+        "repaymentAccount": ""
+    }
+]

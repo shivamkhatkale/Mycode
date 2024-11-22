@@ -1,0 +1,9 @@
+{
+    "errorId": "621dfc6d-a4d1-4b12-a8f6-f1c85119ec9d",
+    "errors": [
+        {
+            "code": "BAD_REQUEST",
+            "message": "required key [cif] not found"
+        }
+    ]
+}

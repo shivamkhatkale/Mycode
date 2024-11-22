@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "ifscCode": "AIRP0000001",
+      "bankName": "AIRTEL PAYMENTS BANK LIMITED",
+      "branchName": "AIRTEL PAYMENTS BRANCH",
+      "branchState": "HARYANA",
+      "branchCity": "GURGAON"
+    }
+  ],
+  "errorDetails": null,
+  "success": true
+}

@@ -1,0 +1,14 @@
+{
+    "errorId": "92ab66a2-5987-4b65-b32d-69411c2fb4d5",
+    "errorAt": "2024-09-27T10:55:39.140468424",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "NO_APY_TYPE",
+            "message": "Type Should only be APY",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

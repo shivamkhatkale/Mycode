@@ -1,0 +1,14 @@
+{"cif": "634920834",
+"source": {
+    "acctNum": "782402120000022"
+  },
+  
+  "customer": {
+    "fname": "Shivam Khatkale",
+    "gender": "Male",
+    "dob": "2000-01-01",
+    "kyc": {
+      "nationalId": "773065100935"
+    }
+  }
+}

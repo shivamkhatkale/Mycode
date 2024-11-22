@@ -1,0 +1,38 @@
+{
+  "header_details": {
+    "service_provider_name": "Tata Sky Limited",
+    "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/TATASKY00NAT01.gif"
+  },
+  "payment_details": {
+    "account_details": [
+      {
+        "bank_logo_url": "https://hcl-dx-dev-haproxy.hcl-dx-dev.svc.cluster.local/wps/wcm/myconnect/805214a1-7bad-4982-a563-9331e5d5593a/ubihome_logo_without+backgroud.png?MOD=AJPERES",
+        "account_holder_name": "JEETENDRA YADAV",
+        "account_type": "SBA",
+        "account_number": "134210028900002",
+        "depositAmount": 0
+      },
+      {
+        "bank_logo_url": "https://hcl-dx-dev-haproxy.hcl-dx-dev.svc.cluster.local/wps/wcm/myconnect/805214a1-7bad-4982-a563-9331e5d5593a/ubihome_logo_without+backgroud.png?MOD=AJPERES",
+        "account_holder_name": "JEETENDRA YADAV",
+        "account_type": "SBA",
+        "account_number": "134210012000160",
+        "depositAmount": 0
+      },
+      {
+        "bank_logo_url": "https://hcl-dx-dev-haproxy.hcl-dx-dev.svc.cluster.local/wps/wcm/myconnect/805214a1-7bad-4982-a563-9331e5d5593a/ubihome_logo_without+backgroud.png?MOD=AJPERES",
+        "account_holder_name": "JEETENDRA YADAV",
+        "account_type": "SBA",
+        "account_number": "117910012003125",
+        "depositAmount": 4187437.39
+      }
+    ],
+    "registered_number": "9028255474",
+    "customer_name": "Rohit"
+  },
+  "dthdetails": {
+    "customerParamName": "Subscriber Number",
+    "customerParamValue": "9028255474",
+    "customerName": "Rohit"
+  }
+}

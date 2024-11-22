@@ -1,0 +1,53 @@
+{
+  "cif": "2005946706",
+  "mobNum": "8652495775",
+  "fname": "SAMPADA NARESH WADKAR",
+  "mname": null,
+  "lname": null,
+  "dob": "1995-10-05",
+  "gender": "F",
+  "isUBOIStaff": "N",
+  "nri": false,
+  "fatherOrHusbandName": "NARESH",
+  "occupation": "INSURANCE",
+  "noOfSkips": null,
+  "riskScore": "LOW",
+  "contactInfo": {
+    "phoneNum1": "8652495775",
+    "emailAddr1": "",
+    "postalAddr": {
+      "addrType": "Communication",
+      "addrLine1": "K J SOMAIYA POLYTECHNIC",
+      "addrLine2": "K J SOMAIYA POLYTECHNIC",
+      "addrLine3": "MUMBAI",
+      "addrLine4": null,
+      "pinCode": "400077",
+      "cityCode": "MUMBAI",
+      "cityName": null,
+      "stateCode": "MAHARASHTRA",
+      "stateName": null
+    },
+    "permAddr": {
+      "addrType": "Permanent",
+      "addrLine1": "K J SOMAIYA POLYTECHNIC",
+      "addrLine2": "K J SOMAIYA POLYTECHNIC",
+      "addrLine3": "MUMBAI",
+      "addrLine4": null,
+      "pinCode": "400077",
+      "cityCode": "MUMBAI",
+      "cityName": null,
+      "stateCode": "MAHARASHTRA",
+      "stateName": null
+    }
+  },
+  "kyc": {
+    "status": "A",
+    "kycDate": "2024-10-18",
+    "rekycCompliantFlag": null,
+    "rekycDueDate": "2034-10-18",
+    "pan": "ADFPW0116M",
+    "nationalId": "224120656856"
+  },
+  "maritalStatus": null,
+  "title": null
+}

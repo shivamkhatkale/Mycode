@@ -1,0 +1,98 @@
+{
+    "cif": "2005946706",
+    "name": "SAMPADA NARESH WADKAR",
+    "acctNum": "520101041229211",
+    "acctType": null,
+    "acctStatus": {
+        "statusFlg": "A",
+        "freezeCode": null
+    },
+    "acctBals": [
+        {
+            "balTypeCode": "EFFAVL",
+            "amount": 507778.00
+        },
+        {
+            "balTypeCode": "AVAIL",
+            "amount": 504845.30
+        },
+        {
+            "balTypeCode": "LEDGER",
+            "amount": 0.00
+        }
+    ],
+    "scheme": {
+        "code": "SBGEN",
+        "type": "SBA",
+        "name": null
+    },
+    "nominee": [
+        {
+            "fname": "NARESH WADKAR",
+            "mname": "",
+            "lname": "",
+            "dob": null,
+            "contactInfo": {
+                "phoneNum1": null,
+                "emailAddr1": null,
+                "postalAddr": {
+                    "addrType": null,
+                    "addrLine1": "MUMBAI",
+                    "addrLine2": "",
+                    "addrLine3": null,
+                    "addrLine4": null,
+                    "pinCode": "400604",
+                    "cityCode": "MUMBA",
+                    "cityName": "MUMBA",
+                    "stateCode": "M0002",
+                    "stateName": "MAHARASHTRA"
+                }
+            },
+            "sharePercentage": "100",
+            "relShipId": "999",
+            "guardian": {
+                "fname": "",
+                "mname": null,
+                "lname": "",
+                "dob": null,
+                "contactInfo": {
+                    "phoneNum1": null,
+                    "emailAddr1": null,
+                    "postalAddr": {
+                        "addrType": null,
+                        "addrLine1": "",
+                        "addrLine2": "",
+                        "addrLine3": null,
+                        "addrLine4": null,
+                        "pinCode": "",
+                        "cityCode": "",
+                        "cityName": null,
+                        "stateCode": "",
+                        "stateName": null
+                    }
+                },
+                "relShipId": null
+            },
+            "minor": false
+        }
+    ],
+    "subscriptionCode": null,
+    "operatingInstruction": "004",
+    "openingDate": null,
+    "interestRate": null,
+    "activeFlag": null,
+    "bankInfo": {
+        "branchSolId": "63530",
+        "branchId": null,
+        "branchName": "BANDRA EAST",
+        "address": {
+            "addrLine1": "RENUKA CO-OP HSG SO.",
+            "addrLine2": "BEHIND GURU NANAK HOSP",
+            "addrLine3": null,
+            "addrLine4": null,
+            "pinCode": "400051",
+            "cityCode": "MUMBAI",
+            "stateCode": "MAHARASHTRA"
+        }
+    }
+}

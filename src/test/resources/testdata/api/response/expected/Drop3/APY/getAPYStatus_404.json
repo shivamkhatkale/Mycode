@@ -1,0 +1,8 @@
+{
+    "timestamp": "2024-09-27T07:22:25.476+00:00",
+    "path": "/app/invst/apy/api/v1/getApyStatus5",
+    "status": 404,
+    "error": "Not Found",
+    "message": null,
+    "requestId": "5ac5a170-587"
+}

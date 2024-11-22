@@ -1,0 +1,93 @@
+
+{
+    
+    "isIncomeTaxPayer": "N",
+    "custTitle": "shri",
+    "source": {
+        "acctNum": "000110100100848"
+    },
+    "bankInfo": {
+        "address": {
+            "addrLine1": "123 Main St",
+            "addrLine2": "Suite 100",
+            "addrLine3": "Building 4",
+            "addrLine4": "Tech Park",
+            "pinCode": "123456",
+            "cityCode": "C001",
+            "city": "Sample City",
+            "stateCode": "S001",
+            "state": "Sample State"
+        },
+        "branchId": "BR001",
+        "branchSolId": "31",
+        "branchName": "Main Branch",
+        "workingHrs": "9 AM - 5 PM",
+        "workingDays": "Mon-Fri"
+    },
+    "monthlyPensionAmount": 1000,
+    "contrubutionFrequency": "Quarterly (3 Months)",
+    "monthlyPayablepremium": 500.00,
+    "contributionPeriod": 20,
+    "isAgreedToDebit": true,
+    "nominee": {
+        "maritialStatus": "y",
+        "relationship": "spouse",
+        "nomineeName": "John Doe",
+        "dateOfBirth": "2000-01-01T00:00:00",
+        "isSameAddr": true,
+        "nomineeAddress": {
+            "addrLine1": "123 Nominee St",
+            "addrLine2": "Suite 200",
+            "addrLine3": "",
+            "addrLine4": "",
+            "pinCode": "654321",
+            "cityCode": "C002",
+            "city": "Nominee City",
+            "stateCode": "S002",
+            "state": "Nominee State"
+        },
+        "allocationPercent": 100.00,
+        "minorFlag": false,
+        "guardianName": "siddhesh",
+        "guardianRelationship": "brother",
+        "guardianDateOfBirth": "2010-09-03T00:00:00",
+        "guardianAddress": {
+            "addrLine1": "123 Main St",
+            "addrLine2": "Suite 100",
+            "addrLine3": "Building 4",
+            "addrLine4": "Tech Park",
+            "pinCode": "123456",
+            "cityCode": "C001",
+            "city": "Sample City",
+            "stateCode": "S001",
+            "state": "Sample State"
+        }
+    },
+    "mobileNumber": 1234567890,
+    "address": {
+        "addrLine1": "123 Main St",
+        "addrLine2": "Suite 100",
+        "addrLine3": "Building 4",
+        "addrLine4": "Tech Park",
+        "pinCode": "123456",
+        "cityCode": "C001",
+        "city": "Sample City",
+        "stateCode": "S001",
+        "state": "Sample State"
+    },
+    "customer": {
+        "title": "shri",
+        "name": "ABCD",
+        "dob": "2010-01-01T00:00:00",
+        "mobileNum": "9989982772",
+        "email": "abc@gmail.com",
+        "gender": "male",
+        "maritialStatus": "",
+        "fatherName": "xyz",
+        "kyc": {
+            "aadhar": "807876544387",
+            "pan": "JKLPH6734C"
+        }
+    }
+   
+}

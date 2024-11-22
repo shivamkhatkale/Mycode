@@ -1,0 +1,14 @@
+{
+  "cif": "254061641",
+  "identifierType": "IFSC",
+  "bankName": "SBI",
+  "withinBankIndicator": false,
+  "ifscCode": "SBIN0001594",
+  "payeeAccountType": "SBA",
+  "payeeName": "Avinash",
+  "payeeNickName": "Avi ",
+  "setLimitFlag": true,
+  "internetBankingLimit": 10000000,
+  "createdBy": "User",
+  "overallLimit": 0
+}

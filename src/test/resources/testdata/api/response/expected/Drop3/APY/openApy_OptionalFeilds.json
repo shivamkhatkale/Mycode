@@ -1,0 +1,21 @@
+{
+    "errorId": "a12d8b88-f316-4ca9-8a18-719832c5768f",
+    "errorAt": "2024-10-01T13:09:35.399247414",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "400",
+            "message": "cif: must not be null",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        },
+        {
+            "code": "400",
+            "message": "cif: must not be blank",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

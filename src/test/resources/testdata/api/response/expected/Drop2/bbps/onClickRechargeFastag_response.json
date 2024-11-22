@@ -1,0 +1,73 @@
+{
+  "service_provider": {
+    "header_details": {
+      "recharge_type": "Fastag"
+    },
+    "recent_recharges": [
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/INDI00000NATTR.gif",
+        "service_provider_name": "Indian Highways Management Company Ltd FASTag",
+        "recharge_id": "JH01QW5468",
+        "billerId": "INDI00000NATTR",
+        "last_bill_paid_on": "08-07-2024 19:52:07",
+        "last_bill_paid_amount": "1000.00"
+      }
+    ],
+    "fastag_providers": [
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/INDI00000NATTR.gif",
+        "service_provider_name": "Indian Highways Management Company Ltd FASTag",
+        "customerParamName": "Vehicle Registration Number",
+        "billerId": "INDI00000NATTR"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/TOLL00000NAT72.gif",
+        "service_provider_name": "ICICI Bank Fastag",
+        "customerParamName": "Vehicle Number",
+        "billerId": "TOLL00000NAT72"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/EQUI00000NATNF.gif",
+        "service_provider_name": "Equitas FASTag Recharge",
+        "customerParamName": "Vehicle Registration Number",
+        "billerId": "EQUI00000NATNF"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/Blank2.jpg",
+        "service_provider_name": "Bank of Maharashtra FASTag",
+        "customerParamName": "Vehicle Registration Number",
+        "billerId": "2914000BOMFASTAG"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/INDU00000NATR2.gif",
+        "service_provider_name": "IndusInd Bank FASTag",
+        "customerParamName": "Vehicle Registration Number",
+        "billerId": "INDU00000NATR2"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/IDFC00000NATXM.gif",
+        "service_provider_name": "IDFC FIRST Bank - FasTag",
+        "customerParamName": "Vehicle Number",
+        "billerId": "IDFC00000NATXM"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/KOTA00000NATJZ.gif",
+        "service_provider_name": "Kotak Mahindra Bank - Fastag",
+        "customerParamName": "Vehicle Registered Number",
+        "billerId": "KOTA00000NATJZ"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/HDFC00000NAT5K.gif",
+        "service_provider_name": "HDFC - FASTag",
+        "customerParamName": "Vehicle Registration Number / Wallet ID",
+        "billerId": "HDFC00000NAT5K"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/BANK00000NATDH.gif",
+        "service_provider_name": "Bank of Baroda - Fastag",
+        "customerParamName": "Vehicle Number",
+        "billerId": "BANK00000NATDH"
+      }
+    ]
+  }
+}

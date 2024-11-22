@@ -1,0 +1,15 @@
+{"lifeCycleFundDetails": [{
+  "age": "up to 35 years",
+  "id": "b5963b56-7e59-48df-b770-75c4f840cc9e",
+  "activeFlag": true,
+  "aggrLCF75Equity": "75",
+  "aggrLCF75CorpBonds": "10",
+  "aggrLCF75GovtBonds": "15",
+  "modrLCF50Equity": "50",
+  "modrLCF50CorpBonds": "25",
+  "modrLCF50GovtBonds": "25",
+  "consrvLCF25Equity": "25",
+  "consrvLCF25CorpBonds": "45",
+  "consrvLCF25GovtBonds": "30",
+  "channel": "NA"
+}]}

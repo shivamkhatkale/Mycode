@@ -1,0 +1,35 @@
+{
+    "errorId": "efc94364-69f0-48b4-b2f7-f7ef1d9e3e43",
+    "errorAt": "2024-10-01T13:24:16.518048988",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "400",
+            "message": "applNum: must not be null",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        },
+        {
+            "code": "400",
+            "message": "cif: must not be null",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        },
+        {
+            "code": "400",
+            "message": "applNum: must not be blank",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        },
+        {
+            "code": "400",
+            "message": "cif: must not be blank",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

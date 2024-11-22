@@ -1,0 +1,7 @@
+{
+    "timestamp": "2024-07-25T14:33:56.902+00:00",
+    "path": "/app/invst/ssa/api/v1/upload",
+    "status": 500,
+    "error": "Internal Server Error",
+    "requestId": "d6b1d2a9-5308"
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "complaintReasonId": 1,
+    "complaintReasonText": "Transaction Successful, account not updated"
+  },
+  {
+    "complaintReasonId": 2,
+    "complaintReasonText": "Amount deducted, biller account credited but transaction ID not received"
+  },
+  {
+    "complaintReasonId": 3,
+    "complaintReasonText": "Amount deducted, biller account not credited & transaction ID not received"
+  },
+  {
+    "complaintReasonId": 4,
+    "complaintReasonText": "Amount deducted multiple times"
+  },
+  {
+    "complaintReasonId": 5,
+    "complaintReasonText": "Double payment updated"
+  },
+  {
+    "complaintReasonId": 6,
+    "complaintReasonText": "Erroneously paid in wrong account"
+  },
+  {
+    "complaintReasonId": 7,
+    "complaintReasonText": "Others, provide details in description"
+  }
+]

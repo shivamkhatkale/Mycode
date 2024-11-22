@@ -1,0 +1,15 @@
+{
+	"cif":"29087674",
+    "customerId": "91600625930",
+    "device": {
+        "mobile": "91600625930",
+        "geocode": "19.1241121,72.8962472",
+        "location": "Mumbai,Mumbai,India",
+        "ip": "193.122.12.222",
+        "type": "MOB",
+        "id": "e67569c179aa5492",
+        "os": "android 13",
+        "app": "com.ibm.uboinpci",
+        "capability": "5245454545242454542454545445"
+    }
+}

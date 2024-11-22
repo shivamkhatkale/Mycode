@@ -1,0 +1,119 @@
+{
+    "rqType": "Save",
+    "cif": "123",
+    "channel": "MOBILE",
+    "source": {
+        "acctNum": "520101041229211",
+        "name": "RASHMI KUMARI",
+        "scheme": {
+            "code": "SBGEN",
+            "type": "PPF"
+        },
+        "acctStatus": {
+            "statusFlg": "A"
+        },
+        "bankInfo": {
+            "address": {
+                "pinCode": "400606",
+                "addrLine1": "S-3, 1-4 VEDANT COMMERCIAL COMPLEX, VART VARTAK NAGAR, THANE",
+                "addrLine2": "MAIN ROAD",
+                "addrLine3": "A",
+                "cityCode": "ARKALGUD",
+                "stateCode": "MAHARASHTRA"
+            },
+            "branchId": "542458",
+            "branchSolId": "42450",
+            "branchName": "VARTAK NAGAR, THANE"
+        },
+        "nominee": [
+            {
+                "id": "0",
+                "fname": "Shamshul Ansari",
+                "mname": "Mandar Jagtap  ",
+                "lname": "Prathamesh Pawar  ",
+                "shortname": "SGS ",
+                "dob": "2012-12-22",
+                "contactInfo": {
+                    "phoneNum1": "9594216397",
+                    "phoneNum2": "9594216398",
+                    "emailAddr1": "sandeep@gmail.com",
+                    "emailAddr2": "supekar@gmail.com",
+                    "postalAddr": {
+                        "addrType": "BKC office mumbai bandra east",
+                        "addrLine1": "CUFF churchgate UBI bank",
+                        "addrLine2": "malad IBM office mumbai",
+                        "addrLine3": "borivali offcie mumbai",
+                        "addrLine4": "Andheri office mumbai",
+                        "pinCode": "400065",
+                        "cityCode": "MUM",
+                        "stateCode": "MH",
+                        "countryCode": "91"
+                    }
+                },
+                "isSameAddr": true,
+                "sharePercentage": "100",
+                "isMinor": true,
+                "relShipId": "007",
+                "guardian": {
+                    "fname": " Mayur guardian fname ",
+                    "mname": " Pankaj guardian mname",
+                    "lname": " Dhiraj guardian lname",
+                    "shortname": " MPD",
+                    "dob": "1962-02-12",
+                    "contactInfo": {
+                        "phoneNum1": "112897654",
+                        "phoneNum2": "6767676776",
+                        "emailAddr1": "mayur@gmail.com",
+                        "emailAddr2": "dhiraj@gmail.com",
+                        "postalAddr": {
+                            "addrType": "pune mahanagar palika",
+                            "addrLine1": "mumbai BMC",
+                            "addrLine2": "gen a k vaidhya marg dindoshi",
+                            "addrLine3": "malad east ",
+                            "addrLine4": "mumbai 400065",
+                            "pinCode": "400097",
+                            "cityCode": "MUMBAI",
+                            "stateCode": "MAHARASHTRA",
+                            "countryCode": "IN"
+                        }
+                    },
+                    "sameAddr": true,
+                    "relShipId": "005"
+                }
+            }
+        ]
+    },
+    "bankInfo": {
+        "address": {
+            "pinCode": "400606",
+            "addrLine1": "S-3, 1-4 VEDANT COMMERCIAL COMPLEX, VART VARTAK NAGAR, THANE",
+            "addrLine2": "MAIN ROAD",
+            "addrLine3": "A",
+            "cityCode": "ARKALGUD",
+            "stateCode": "MAHARASHTRA"
+        },
+        "branchId": "542458",
+        "branchSolId": "42450"
+    },
+    "customer": {
+        "cif": "19276654",
+        "dob": "1995-10-05",
+        "kyc": {
+            "status": "A",
+            "validity": "2027-05-15",
+            "pan": "ADFPW0116M",
+            "nationalId": "224120656856"
+        }
+    },
+    "isMinor": true,
+    "nominees": [],
+    "gaurdian": {},
+    "declarationDetails": {
+        "isAccepted": false
+    },
+    "investmentContribution": {
+        "currFYContribAmt": "1500",
+        "contribAmt": "1500"
+    },
+    "activeFlag": "true"
+}

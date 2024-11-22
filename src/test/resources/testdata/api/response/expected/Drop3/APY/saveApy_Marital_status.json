@@ -1,0 +1,14 @@
+{
+    "errorId": "0f1d44f8-1279-4e8d-b431-75e057e303d8",
+    "errorAt": "2024-10-11T11:59:24.105679545",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "400",
+            "message": "nominee.validRelationship: Relationship should be spouse when nominee is married",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

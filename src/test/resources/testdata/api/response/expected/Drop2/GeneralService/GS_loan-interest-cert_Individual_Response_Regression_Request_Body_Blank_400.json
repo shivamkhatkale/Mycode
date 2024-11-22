@@ -1,0 +1,20 @@
+[
+    {
+        "errorMessage": "accountNumber must not be null"
+    },
+    {
+        "errorMessage": "endDt must not be null"
+    },
+    {
+        "errorMessage": "startDt must not be null"
+    },
+    {
+        "errorMessage": "interestType must not be null"
+    },
+    {
+        "errorMessage": "cifId must not be null"
+    },
+    {
+        "errorMessage": "solId must not be null"
+    }
+]

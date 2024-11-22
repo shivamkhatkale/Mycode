@@ -1,0 +1,187 @@
+[
+  {
+    "paymentid": "HGAEP0DDF50000036207",
+    "biller_name": "Indian Highways Management Company Ltd FASTag",
+    "biller_category": "FASTag",
+    "billeraccountid": null,
+    "billerId": "INDI00000NATTR",
+    "bill_number": null,
+    "amount": 1000,
+    "status": "PAID",
+    "consumer_number": null,
+    "transaction_id": "HGAEP0DDF50000036207",
+    "payer_name": null,
+    "account": null,
+    "bill_date": null,
+    "authenticators": [
+      {
+        "seq": null,
+        "parameter_name": "Vehicle Registration Number",
+        "value": "JH01QW5468",
+        "data_type": null,
+        "optional": null,
+        "regex": null,
+        "error_message": null,
+        "encryption_required": null,
+        "list_of_values": null
+      }
+    ],
+    "payment_account": {
+      "objectid": "paymentaccount",
+      "payment_method": "BankAccount",
+      "account_number": "XXXXXXXXXXX3125"
+    },
+    "bbps_ref_no": "UN014190BAEAAAAAAA46",
+    "billerLogoUrl": "https://payments.billdesk.com/hg/images/billerlogo/INDI00000NATTR.gif",
+    "autoPayStatus": "Y",
+    "amount_in_words": "one thousand"
+  },
+  {
+    "paymentid": "HGAEP16EBD0000036157",
+    "biller_name": "Indian Highways Management Company Ltd FASTag",
+    "biller_category": "FASTag",
+    "billeraccountid": null,
+    "billerId": "INDI00000NATTR",
+    "bill_number": null,
+    "amount": 1000,
+    "status": "PAID",
+    "consumer_number": null,
+    "transaction_id": "HGAEP16EBD0000036157",
+    "payer_name": null,
+    "account": null,
+    "bill_date": null,
+    "authenticators": [
+      {
+        "seq": null,
+        "parameter_name": "Vehicle Registration Number",
+        "value": "JH01QW5468",
+        "data_type": null,
+        "optional": null,
+        "regex": null,
+        "error_message": null,
+        "encryption_required": null,
+        "list_of_values": null
+      }
+    ],
+    "payment_account": {
+      "objectid": "paymentaccount",
+      "payment_method": "BankAccount",
+      "account_number": "XXXXXXXXXXX3125"
+    },
+    "bbps_ref_no": "UN014190BAEAAAAAAA45",
+    "billerLogoUrl": "https://payments.billdesk.com/hg/images/billerlogo/INDI00000NATTR.gif",
+    "autoPayStatus": "Y",
+    "amount_in_words": "one thousand"
+  },
+  {
+    "paymentid": "HGAEP122BB0000036110",
+    "biller_name": "Tata Sky",
+    "biller_category": "DTH",
+    "billeraccountid": null,
+    "billerId": "TATASKY00NAT01",
+    "bill_number": null,
+    "amount": 920,
+    "status": "PAID",
+    "consumer_number": null,
+    "transaction_id": "HGAEP122BB0000036110",
+    "payer_name": null,
+    "account": null,
+    "bill_date": "08-07-2024 13:48:50",
+    "authenticators": [
+      {
+        "seq": null,
+        "parameter_name": "Subscriber Number",
+        "value": "9028255474",
+        "data_type": null,
+        "optional": null,
+        "regex": null,
+        "error_message": null,
+        "encryption_required": null,
+        "list_of_values": null
+      }
+    ],
+    "payment_account": {
+      "objectid": "paymentaccount",
+      "payment_method": "BankAccount",
+      "account_number": "XXXXXXXXXXX3125"
+    },
+    "bbps_ref_no": "UN014190BAEAAAAAAA41",
+    "billerLogoUrl": "https://payments.billdesk.com/hg/images/billerlogo/TATASKY00NAT01.gif",
+    "autoPayStatus": "Y",
+    "amount_in_words": "nine hundred twenty"
+  },
+  {
+    "paymentid": "HGAEP1488A0000036083",
+    "biller_name": "Tata Sky",
+    "biller_category": "DTH",
+    "billeraccountid": null,
+    "billerId": "TATASKY00NAT01",
+    "bill_number": null,
+    "amount": 920,
+    "status": "PAID",
+    "consumer_number": null,
+    "transaction_id": "HGAEP1488A0000036083",
+    "payer_name": null,
+    "account": null,
+    "bill_date": "08-07-2024 12:22:45",
+    "authenticators": [
+      {
+        "seq": null,
+        "parameter_name": "Subscriber Number",
+        "value": "9028255474",
+        "data_type": null,
+        "optional": null,
+        "regex": null,
+        "error_message": null,
+        "encryption_required": null,
+        "list_of_values": null
+      }
+    ],
+    "payment_account": {
+      "objectid": "paymentaccount",
+      "payment_method": "BankAccount",
+      "account_number": "XXXXXXXXXXX3125"
+    },
+    "bbps_ref_no": "UN014190BAEAAAAAAA4X",
+    "billerLogoUrl": "https://payments.billdesk.com/hg/images/billerlogo/TATASKY00NAT01.gif",
+    "autoPayStatus": "Y",
+    "amount_in_words": "nine hundred twenty"
+  },
+  {
+    "paymentid": "HGAEP0054A0000036078",
+    "biller_name": "Tata Sky",
+    "biller_category": "DTH",
+    "billeraccountid": null,
+    "billerId": "TATASKY00NAT01",
+    "bill_number": null,
+    "amount": 920,
+    "status": "PAID",
+    "consumer_number": null,
+    "transaction_id": "HGAEP0054A0000036078",
+    "payer_name": null,
+    "account": null,
+    "bill_date": "08-07-2024 12:15:22",
+    "authenticators": [
+      {
+        "seq": null,
+        "parameter_name": "Subscriber Number",
+        "value": "9028255474",
+        "data_type": null,
+        "optional": null,
+        "regex": null,
+        "error_message": null,
+        "encryption_required": null,
+        "list_of_values": null
+      }
+    ],
+    "payment_account": {
+      "objectid": "paymentaccount",
+      "payment_method": "BankAccount",
+      "account_number": "XXXXXXXXXXX3125"
+    },
+    "bbps_ref_no": "UN014190BAEAAAAAAA4T",
+    "billerLogoUrl": "https://payments.billdesk.com/hg/images/billerlogo/TATASKY00NAT01.gif",
+    "autoPayStatus": "Y",
+    "amount_in_words": "nine hundred twenty"
+  }
+]

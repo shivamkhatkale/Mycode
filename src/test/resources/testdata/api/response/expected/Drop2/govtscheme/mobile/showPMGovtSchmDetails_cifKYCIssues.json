@@ -1,0 +1,14 @@
+{
+    "errorId": "a4cf3980-dddf-4d4b-8202-d4136ba048b4",
+    "errorAt": "2024-09-10T13:24:30.680131994",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "ACC003",
+            "message": "Complete your KYC!",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "success": true,
+    "data": {
+        "cif": "254061641",
+        "bankName": "SBI",
+        "payeeAccNo": null,
+        "payeeAccType": null,
+        "activeFlag": true,
+        "channel": "MOB",
+        "createdBy": "ADD_PAYEE",
+        "createdDate": "2024-09-03T11:44:47.581",
+        "ifscCode": "SBIN0001594",
+        "internetBankingLimit": 1000000,
+        "mmidNumber": null,
+        "mobileBankingLimit": 1000000,
+        "mobileNumber": null,
+        "modifiedBy": "254061641",
+        "modifiedDate": "2024-09-03T11:49:24.600568986",
+        "nickName": "Avinash",
+        "openingDate": "2024-09-03T11:44:47.581",
+        "payeeName": null,
+        "paymentMethod": "P2A/NEFT/RTGS",
+        "withinBankIndicator": false,
+        "selfAccount": null
+    },
+    "errorDetails": null,
+    "limitUpdated": true
+}

@@ -1,0 +1,14 @@
+{
+  "cif": "634744346",
+  "source": {
+    "acctNum": "                     "
+  },
+  "customer": {
+    "cif": "634744346"
+  },
+  "investmentContribution": {
+    "contribAmt": 250,
+    "contribAcctNum": "                ",
+    "remarks": "Contribution of 250"
+  }
+}

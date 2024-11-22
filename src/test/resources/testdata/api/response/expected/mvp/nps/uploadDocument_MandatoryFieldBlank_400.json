@@ -1,0 +1,14 @@
+{
+    "errorId": "23ae1c32-c656-48b3-8e85-615317568084",
+    "errorAt": "2024-08-16T14:18:17.372087481",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "BAD_REQUEST",
+            "message": "Connection Error : /invst/api/v1/upload",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

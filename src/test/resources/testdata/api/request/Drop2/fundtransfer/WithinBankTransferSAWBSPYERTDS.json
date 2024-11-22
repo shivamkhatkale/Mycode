@@ -1,0 +1,14 @@
+{
+  "cif": "254061641",
+  "amount": 104,
+  "channel": "MOB",
+  "creditAccountNumber": "635302010012456",
+  "debitAccountNumber": "441002010058664",
+  "frequency": "YEARLY",
+  "mode": "WITHINBANK",
+  "numberOfTransfer": 6,
+  "remarks": "TEST RECURRING WITHINBANK",
+  "scheduleType": "RECURRING",
+  "siStartDate": "2025-07-09T09:29:04.297Z",
+  "dateOfThePayEveryMonth": "05"
+}

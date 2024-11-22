@@ -1,0 +1,14 @@
+[
+    {
+        "errorMessage": "endDate must not be null"
+    },
+    {
+        "errorMessage": "startDate must not be null"
+    },
+    {
+        "errorMessage": "cif must not be null"
+    },
+    {
+        "errorMessage": "acctNum must not be null"
+    }
+]

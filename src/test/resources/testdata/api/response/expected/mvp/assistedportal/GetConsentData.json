@@ -1,0 +1,14 @@
+{
+    "requestingJourneyCd": "BFF",
+    "requestingJourneyReferenceId": "53443",
+    "requestingJourneyStage": "assigned",
+    "requestingSolId": "3524",
+    "requestingUserId": "545645747",
+    "requestingForUserCIF": "364",
+    "requestingForUserName": "user",
+    "requestingForUserMobile": "3534345",
+    "consentRequestTitle": "Consent",
+    "consentRequestBody": "Consent",
+    "consentRequestDocumentURL": "http://localhost",
+    "createdBy": "user"
+}

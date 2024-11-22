@@ -1,0 +1,14 @@
+{
+  "errorId": "feeeefd6-83c2-46d2-accf-c4f9fdc592e7",
+  "errorAt": "2024-07-10T11:28:01.661458591",
+  "errorLocation": null,
+  "errors": [
+    {
+      "code": "400",
+      "message": "400 Bad Request from POST http://bbps-biller-management-service.biz-bbps-sit.svc.cluster.local:8080/bbps/updateLinkedBillerDetail/274309887/HGA2A4190AAAAAAANNO9",
+      "values": null,
+      "origmesg": null,
+      "errors": null
+    }
+  ]
+}

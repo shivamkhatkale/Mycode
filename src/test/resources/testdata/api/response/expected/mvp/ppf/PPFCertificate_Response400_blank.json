@@ -1,0 +1,14 @@
+{
+    "errorId": "8277d0c0-fc05-434c-acac-1c31f678810e",
+    "errorAt": "2024-08-01T17:45:33.340725019",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "400",
+            "message": "415 UNSUPPORTED_MEDIA_TYPE \"Content type 'application/octet-stream' not supported for bodyType=com.ubi.dbp.investment.ppf.bff.model.AccountDetailsReq\"",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

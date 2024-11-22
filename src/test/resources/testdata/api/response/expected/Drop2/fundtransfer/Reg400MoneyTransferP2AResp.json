@@ -1,0 +1,7 @@
+{
+    "timestamp": "2024-09-10T15:51:19.508+00:00",
+    "path": "/v1/fund-transfer/imps/initiate/p2a",
+    "status": 400,
+    "error": "Bad Request",
+    "requestId": "d588c0da-337"
+}

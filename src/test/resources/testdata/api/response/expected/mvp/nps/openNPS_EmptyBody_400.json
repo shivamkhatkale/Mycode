@@ -1,0 +1,12 @@
+{
+   "errorId": "e28f22c9-ca93-4937-a50d-f55bdfe4beb5",
+   "errorAt": "2024-08-13T14:24:45.226233532",
+   "errorLocation": null,
+   "errors": [   {
+      "code": "BAD_REQUEST",
+      "message": "Cannot invoke \"com.ubi.dbp.investment.model.Account.getAcctNum()\" because the return value of \"com.ubi.dbp.investment.model.ContributionRequest.getSource()\" is null",
+      "values": null,
+      "origmesg": null,
+      "errors": null
+   }]
+}

@@ -1,0 +1,14 @@
+{
+    "cif": "60466771",
+    "source": {
+        "acctNum": "000110100142473"
+    },
+    "customer": {
+        "cif": "60466771"
+    },
+    "investmentContribution": {
+        "contribAmt": 300,
+        "contribAcctNum": "59070SSA0000000000041",
+        "remarks": "Contribution is not multiple in Rs50"
+    }
+}

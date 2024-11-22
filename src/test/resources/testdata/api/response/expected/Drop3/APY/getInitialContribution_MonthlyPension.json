@@ -1,0 +1,14 @@
+{
+    "errorId": "d3a6e013-6bb9-4360-99db-b77484344d65",
+    "errorAt": "2024-10-07T16:16:42.656190838",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "INVALID_DATA",
+            "message": "Invalid Pension Amount",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

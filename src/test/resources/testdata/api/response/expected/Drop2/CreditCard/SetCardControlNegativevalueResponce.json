@@ -1,0 +1,9 @@
+{
+    "errorId": "96721ff5-4e1d-4769-9551-1851caabfd76",
+    "errorAt": "2024-09-09T09:55:14.300859373",
+    "error": {
+        "code": "500",
+        "title": "",
+        "description": "INTERNAL_SERVER_ERROR"
+    }
+}

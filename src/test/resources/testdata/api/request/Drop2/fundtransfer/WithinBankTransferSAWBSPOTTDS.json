@@ -1,0 +1,11 @@
+{
+  "cif": "254061641",
+  "amount": 1,
+  "channel": "MOB",
+  "creditAccountNumber": "635302010012456",
+  "debitAccountNumber": "441002010058664",
+  "mode": "WITHINBANK",
+  "remarks": "TESTING",
+  "scheduleType": "ONETIME",
+  "siStartDate": "2025-05-30T12:50:39.532Z"
+}

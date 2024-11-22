@@ -1,0 +1,8 @@
+[
+    {
+        "errorMessage": "solId must not be null"
+    },
+    {
+        "errorMessage": "cifId must not be null"
+    }
+]

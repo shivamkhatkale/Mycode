@@ -1,0 +1,14 @@
+{
+    "errorId": "5c3f71eb-2cf9-4181-8ed7-add33883a902",
+    "errorAt": "2024-07-31T05:12:46.050443581",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "500 INTERNAL_SERVER_ERROR",
+            "message": "405 METHOD_NOT_ALLOWED \"Request method 'POST' is not supported.\"",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

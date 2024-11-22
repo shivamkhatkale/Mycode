@@ -1,0 +1,7 @@
+{
+    "timestamp": "2024-07-29T10:45:59.519+00:00",
+    "path": "/v1/fund-transfer/manage-payee/get-payees",
+    "status": 400,
+    "error": "Bad Request",
+    "requestId": "96a8990e-101"
+}

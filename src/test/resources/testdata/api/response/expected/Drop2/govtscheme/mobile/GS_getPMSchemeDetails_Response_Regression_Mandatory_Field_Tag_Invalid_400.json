@@ -1,0 +1,14 @@
+{
+    "errorId": "d729a46a-83ce-4e6e-9fcb-0de2edc63f36",
+    "errorAt": "2024-09-10T14:24:55.168235704",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "BAD_REQUEST",
+            "message": "required key [cif] not found",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

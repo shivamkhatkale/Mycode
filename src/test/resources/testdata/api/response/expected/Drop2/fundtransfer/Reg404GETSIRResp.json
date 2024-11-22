@@ -1,0 +1,8 @@
+{
+    "timestamp": "2024-09-10T21:12:14.903+00:00",
+    "path": "/v1/fund-transfer/get-si-records1",
+    "status": 404,
+    "error": "Not Found",
+    "message": null,
+    "requestId": "87797156-6521"
+}

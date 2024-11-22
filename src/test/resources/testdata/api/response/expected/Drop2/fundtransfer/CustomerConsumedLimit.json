@@ -1,0 +1,16 @@
+{
+    "data": {
+        "cif": "254061641",
+        "channel": "MOB",
+        "customerConsumptionStatuses": [
+            {
+                "mode": "NEFT",
+                "balanceDailyTrnLimit": 985600,
+                "consumedDailyTrnLimit": 14400
+            }
+        ],
+        "date": "2024-09-06T09:58:52.041+00:00"
+    },
+    "errorMessage": null,
+    "success": true
+}

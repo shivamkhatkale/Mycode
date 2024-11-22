@@ -1,0 +1,14 @@
+{
+    "errorId": "11804945-10f6-44b1-9f0c-8facca2e0121",
+    "errorAt": "2024-07-31T12:22:25.324443552",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "400",
+            "message": "415 UNSUPPORTED_MEDIA_TYPE \"Content type 'application/octet-stream' not supported for bodyType=com.ubi.dbp.investment.ppf.model.Ppf\"",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

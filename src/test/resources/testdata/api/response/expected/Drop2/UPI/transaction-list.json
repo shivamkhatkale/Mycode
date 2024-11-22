@@ -1,0 +1,9 @@
+{
+    "code": "00",
+    "result": "Success",
+    "data": {
+        "transactionList": [],
+        "checksum": null
+    },
+    "errorDesc": null
+}

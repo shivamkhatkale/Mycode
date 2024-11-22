@@ -1,0 +1,16 @@
+{
+  "data": {
+    "referenceNumber": "UBINH24311375650",
+    "creditAccountType": "SBA",
+    "debitAccountType": "SBA",
+    "creditAccountName": "TEST RTGS",
+    "fromAccount": "441002010058664",
+    "toAccount": "123456043",
+    "modeOfPayment": "RTGS",
+    "trnxAmount": 200000,
+    "remarks": "Test",
+    "trnxTimestamp": "2024-11-06T17:06:50"
+  },
+  "success": true,
+  "errorMessage": null
+}

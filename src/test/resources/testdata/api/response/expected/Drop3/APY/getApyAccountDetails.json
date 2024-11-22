@@ -1,0 +1,20 @@
+{
+    "cif": "634920834",
+    "beneficiary": null,
+    "customer": null,
+    "source": null,
+    "bankInfo": null,
+    "declarationDetails": null,
+    "displayName": null,
+    "channel": null,
+    "applNum": null,
+    "status": null,
+    "createdBy": null,
+    "createdDate": null,
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "transRefNum": null,
+    "investmentContribution": null,
+    "pran": "500711776877",
+    "consentAvail": false
+}

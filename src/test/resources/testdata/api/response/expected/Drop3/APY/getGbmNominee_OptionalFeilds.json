@@ -1,0 +1,21 @@
+{
+    "errorId": "1251d29e-d29b-467d-b093-77d297026463",
+    "errorAt": "2024-09-27T15:54:46.592084378",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "400",
+            "message": "pran_num: must not be blank",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        },
+        {
+            "code": "400",
+            "message": "pran_num: must not be null",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+   "errorId": "93bdb597-9eb8-4c54-8f2c-9d499bda1d1e",
+   "errorAt": "2024-08-13T06:40:17",
+   "errorLocation": "null",
+   "errors": [   {
+      "code": "CUST_CIF_EMPTY",
+      "message": "Customer CIF is empty.",
+      "values": null,
+      "origmesg": null,
+      "errors": null
+   }]
+}

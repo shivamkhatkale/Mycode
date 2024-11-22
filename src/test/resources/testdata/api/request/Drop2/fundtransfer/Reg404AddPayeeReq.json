@@ -1,0 +1,17 @@
+{
+  "cif": "254061641",
+  "identifierType": "IFSC",
+  "identifierNumber": "123456043",
+  "bankName": "SBI",
+  "payeeAccountNumber": "123456043",
+  "withinBankIndicator": false,
+  "ifscCode": "SBIN0001594",
+  "payeeAccountType": "SBA",
+  "payeeName": "Test Sak",
+  "payeeNickName": "Test ",
+  "setLimitFlag": true,
+  "internetBankingLimit": 10000000,
+  "mobileBankingLimit": 10000000,
+  "createdBy": "User",
+  "overallLimit": 0
+}

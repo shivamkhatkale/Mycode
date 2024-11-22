@@ -1,0 +1,9 @@
+{
+    "success": false,
+    "data": null,
+    "errorDetails": {
+        "timestamp": "2024-09-09T06:14:26.568+00:00",
+        "message": "Payee already exists",
+        "details": "You have already added this account number as a Payee"
+    }
+}

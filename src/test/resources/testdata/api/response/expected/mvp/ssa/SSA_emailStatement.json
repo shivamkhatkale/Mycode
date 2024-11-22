@@ -1,0 +1,14 @@
+{
+    "errorId": "fa7f4a84-4da5-41e2-990c-7a129067d1d2",
+    "errorAt": "2024-11-10T17:53:26",
+    "errorLocation": "null",
+    "errors": [
+        {
+            "code": "ERR_SS_00115",
+            "message": "Document cannot be download as data not available.",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

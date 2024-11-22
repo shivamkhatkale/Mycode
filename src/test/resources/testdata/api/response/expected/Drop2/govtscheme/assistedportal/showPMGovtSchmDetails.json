@@ -1,0 +1,93 @@
+{
+    "custName": "GOGULAMANDA DEVI RAJA RAJESWARI",
+    "fatherOrHusbandName": "VIJAY KUMAR",
+    "dob": "1985-08-15",
+    "cif": "60322703",
+    "contactInfo": {
+        "phoneNum1": "8898648936",
+        "phoneNum2": null,
+        "emailAddr1": "",
+        "emailAddr2": null,
+        "postalAddr": {
+            "addrType": null,
+            "addrLine1": "NEW ALPHA 1E29",
+            "addrLine2": "ABHUDHABI",
+            "addrLine3": "",
+            "addrLine4": null,
+            "pinCode": "534123",
+            "cityCode": "ACHANTA",
+            "stateCode": "ANDHRA PRADESH",
+            "countryCode": "INDIA"
+        }
+    },
+    "accountBalanceResponse": [
+        {
+            "acctNum": "000110100142084",
+            "name": "GOGULAMANDA DEVI RAJA RAJESWARI",
+            "accStatusFlg": "A",
+            "nominee": [
+                {
+                    "id": null,
+                    "fname": "G PRADEEP",
+                    "mname": "",
+                    "lname": "",
+                    "shortname": null,
+                    "dob": null,
+                    "gender": null,
+                    "contactInfo": {
+                        "phoneNum1": null,
+                        "phoneNum2": null,
+                        "emailAddr1": null,
+                        "emailAddr2": null,
+                        "postalAddr": {
+                            "addrType": null,
+                            "addrLine1": "SAME",
+                            "addrLine2": "",
+                            "addrLine3": null,
+                            "addrLine4": null,
+                            "pinCode": "534123",
+                            "cityCode": "ACHAN",
+                            "stateCode": "AP",
+                            "countryCode": "IN",
+                            "city": "ACHANTA",
+                            "state": "ANDHRA PRADESH",
+                            "country": "INDIA"
+                        }
+                    },
+                    "relationShip": "Spouse",
+                    "cif": null,
+                    "sharePercentage": 100,
+                    "relShipId": "007",
+                    "reqNumber": "2019",
+                    "nomAmt": 0,
+                    "guardian": {
+                        "id": null,
+                        "fname": "",
+                        "mname": null,
+                        "lname": "",
+                        "shortname": null,
+                        "dob": null,
+                        "gender": null,
+                        "contactInfo": null,
+                        "relShipId": null,
+                        "relationShip": null,
+                        "sameAddr": false
+                    },
+                    "sameAddr": false,
+                    "minor": false
+                }
+            ],
+            "acctBals": {
+                "balTypeCode": "AVAIL",
+                "amount": 686776.32,
+                "currencyCode": "INR"
+            }
+        }
+    ],
+    "governmentSchemeDetails": {
+        "coverStartDate": "2024-06-06",
+        "coverEndDate": "2025-05-31",
+        "sumAssured": 200000,
+        "premium": 406
+    }
+}

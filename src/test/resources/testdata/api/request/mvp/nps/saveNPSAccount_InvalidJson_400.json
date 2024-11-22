@@ -1,0 +1,151 @@
+{
+  "ci": "38311674",
+  "applNum": "",
+  "customer": {
+    "dob": "1990-10-01T00:00:00"
+  },
+  "source": {
+    "acctNum": "000210100087404"
+  },
+  "acctDetails": {
+    "branchSolId": "00021",
+    "branchDistrict": "KURNOOL",
+    "branchName": "MUNICIPAL MAIN ROAD BRANCH ,ADONI",
+    "branchCode": "800023",
+    "branchAddressline1": "19/1 OPP MUNCIPAL OFFI",
+    "branchAddressline2": "GOOTYLOCALFUND RD",
+    "branchAddressline3": null,
+    "branchCity": "ADONI",
+    "branchState": "ANDHRA PRADESH",
+    "branchAddressPincode": "518301",
+    "combinedRegistration": "N",
+    "declarationIndicator": true,
+    "accountNumber": "000210100087404",
+    "cif": "38311674",
+    "name": "GANTHI CHANDRA",
+    "methodOfReceivingCard": "Physical PRAN Card along with Welcome Kit",
+    "welcomeKitAmount": "40",
+    "status": "ReviewAndSubmit",
+    "contactDetail": {
+      "addressLine1": "SON OF H LAXMANNA",
+      "addressLine2": "17/156/2 KALLUBHAVI",
+      "cityTownVillage": "ADONI",
+      "district": "",
+      "addrStateUnionTerritory": "19",
+      "addressCountry": "IN",
+      "addressPinCode": "518301"
+    },
+    "personDetail": {
+      "title": "Shri",
+      "firstName": "GANTHI CHANDRA",
+      "gender": "Male",
+      "dateOfBirth": "1990-10-01T00:00:00",
+      "placeOfBirth": "Nagpur",
+      "educationQualification": "Graduates",
+      "educationalQualificationCode": "4",
+      "maritalStatus": "Married",
+      "maritalStatusCode": "M",
+      "mobileNumber": "9160927896",
+      "displayNameFlag": "M",
+      "fatherFirstName": "XXXXX",
+      "motherFirstName": "Mehmuda",
+      "spouseFirstName": "Sakku",
+      "epranWelcomekitPhyPran": "1",
+      "pan": "CSHPA1387R",
+      "email": "Vesta43@yahoo.com",
+      "last4DigitsOfAadhaarNum": "1159"
+    },
+    "employmentDetail": {
+      "occupation": "Private Sector",
+      "occupationCode": "03",
+      "incomeRange": "10 Lac to 25 Lac",
+      "incomeRangeCode": "04"
+    },
+    "tier1BankDetail": {
+      "bankAccountType": "Savings",
+      "accountType": "Savings",
+      "bankAccountNumber": "000210100087408",
+      "bankIfscCode": "UBIN0800023"
+    },
+    "tier2BankDetail": {
+      "bankAccountType": "Savings",
+      "accountType": "Savings",
+      "bankAccountNumber": "000210100087408",
+      "bankIfscCode": "UBIN0800023"
+    },
+    "tier1SchemeDetail": [
+      {
+        "accountType": "TIER I",
+        "schemeId": "SM013001",
+        "schemeName": "AXIS PENSION FUND MANAGEMENT LIMITED SCHEME E - TIER I",
+        "pfmId": "PFM013",
+        "schemeType": "E",
+        "schemePrefOption": "V",
+        "riskProfile": "",
+        "percentageOfInvestment": "50"
+      },
+      {
+        "accountType": "TIER I",
+        "schemeId": "SM013002",
+        "schemeName": "AXIS PENSION FUND MANAGEMENT LIMITED SCHEME C - TIER I",
+        "pfmId": "PFM013",
+        "schemeType": "C",
+        "schemePrefOption": "V",
+        "riskProfile": "",
+        "percentageOfInvestment": "25"
+      },
+      {
+        "accountType": "TIER I",
+        "schemeId": "SM013003",
+        "schemeName": "AXIS PENSION FUND MANAGEMENT LIMITED SCHEME G - TIER I",
+        "pfmId": "PFM013",
+        "schemeType": "G",
+        "schemePrefOption": "V",
+        "riskProfile": "",
+        "percentageOfInvestment": "20"
+      },
+      {
+        "accountType": "TIER I",
+        "schemeId": "SM013004",
+        "schemeName": "AXIS PENSION FUND MANAGEMENT LIMITED SCHEME A - TIER I",
+        "pfmId": "PFM013",
+        "schemeType": "A",
+        "schemePrefOption": "V",
+        "riskProfile": "",
+        "percentageOfInvestment": "5"
+      }
+    ],
+    "tier2SchemeDetail": [],
+    "tier1NomineeDetail": [
+      {
+        "firstName": "Sakina",
+        "middleName": "",
+        "lastName": "",
+        "minorFlag": "false",
+        "dateOfBirth": "1993-07-15T00:00:00",
+        "relationship": "Father ",
+        "relationshipCode": "05",
+        "accountType": "T1",
+        "isSameAddr": true,
+        "addressPincode": "518301",
+        "city": "ADONI",
+        "state": "ANDHRA PRADESH",
+        "addressline1": "SON OF H LAXMANNA",
+        "addressline2": "17/156/2 KALLUBHAVI",
+        "addressline3": "",
+        "allocationpercent": "100",
+        "guardianMiddleName": "",
+        "guardianLastName": ""
+      }
+    ],
+    "tier2NomineeDetail": []
+  },
+  "tier1contribution": {
+    "amount": 2000,
+    "remarks": null
+  },
+  "tier2contribution": {
+    "amount": null,
+    "remarks": null
+  }
+}

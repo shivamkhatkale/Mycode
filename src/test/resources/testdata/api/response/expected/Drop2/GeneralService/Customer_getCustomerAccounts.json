@@ -1,0 +1,543 @@
+{
+    "accounts": [
+        {
+            "cif": "264479335",
+            "acctName": "UMESH SINGH LUNTHI",
+            "customerName": "UMESH SINGH LUNTHI",
+            "activeFlag": null,
+            "depositAmount": 0,
+            "interestRate": null,
+            "maturityAmount": 0,
+            "maturityDate": null,
+            "openingDate": null,
+            "operatingInstruction": "001",
+            "schemeCode": "SBSTF",
+            "schemeName": null,
+            "acctStatusFlag": "A",
+            "repaymentAccount": "",
+            "name": "UMESH SINGH LUNTHI",
+            "acctType": "Savings Account",
+            "acctNum": "307102070000199",
+            "acctStatus": {
+                "statusFlg": "A"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "10461393.39"
+                }
+            ],
+            "scheme": {
+                "code": "SBSTF",
+                "type": "SBA",
+                "name": null
+            },
+            "solId": "30290",
+            "emiAmount": "",
+            "accountOpenDate": "2017-06-15 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null,
+            "countryCode": "91",
+            "primaryAccount": false
+        },
+        {
+            "cif": "264479335",
+            "acctName": "UMESH SINGH LUNTHI",
+            "customerName": "UMESH SINGH LUNTHI",
+            "activeFlag": null,
+            "depositAmount": 0,
+            "interestRate": null,
+            "maturityAmount": 0,
+            "maturityDate": null,
+            "openingDate": null,
+            "operatingInstruction": "001",
+            "schemeCode": "SBGEN",
+            "schemeName": null,
+            "acctStatusFlag": "A",
+            "repaymentAccount": "",
+            "name": "UMESH SINGH LUNTHI",
+            "acctType": "Savings Account",
+            "acctNum": "760102010005500",
+            "acctStatus": {
+                "statusFlg": "A"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "10440.24"
+                }
+            ],
+            "scheme": {
+                "code": "SBGEN",
+                "type": "SBA",
+                "name": null
+            },
+            "solId": "76010",
+            "emiAmount": "",
+            "accountOpenDate": "2022-11-28 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null,
+            "countryCode": "91",
+            "primaryAccount": false
+        },
+        {
+            "cif": "264479335",
+            "acctName": "UMESH SINGH LUNTHI",
+            "customerName": "UMESH SINGH LUNTHI",
+            "activeFlag": null,
+            "depositAmount": 0,
+            "interestRate": null,
+            "maturityAmount": 0,
+            "maturityDate": null,
+            "openingDate": null,
+            "operatingInstruction": "001",
+            "schemeCode": "SBGEN",
+            "schemeName": null,
+            "acctStatusFlag": "A",
+            "repaymentAccount": "",
+            "name": "UMESH SINGH LUNTHI",
+            "acctType": "Savings Account",
+            "acctNum": "441002010063745",
+            "acctStatus": {
+                "statusFlg": "A"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "8308"
+                }
+            ],
+            "scheme": {
+                "code": "SBGEN",
+                "type": "SBA",
+                "name": null
+            },
+            "solId": "44100",
+            "emiAmount": "",
+            "accountOpenDate": "2024-06-07 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null,
+            "countryCode": "91",
+            "primaryAccount": false
+        },
+        {
+            "cif": "264479335",
+            "acctName": "UMESH SINGH LUNTHI",
+            "customerName": "UMESH SINGH LUNTHI",
+            "activeFlag": null,
+            "depositAmount": 0,
+            "interestRate": null,
+            "maturityAmount": 0,
+            "maturityDate": null,
+            "openingDate": null,
+            "operatingInstruction": "001",
+            "schemeCode": "SBUBM",
+            "schemeName": null,
+            "acctStatusFlag": "D",
+            "repaymentAccount": "",
+            "name": "UMESH SINGH LUNTHI",
+            "acctType": "Savings Account",
+            "acctNum": "7200167834",
+            "acctStatus": {
+                "statusFlg": "D"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "98.43"
+                }
+            ],
+            "scheme": {
+                "code": "SBUBM",
+                "type": "SBA",
+                "name": null
+            },
+            "solId": "31850",
+            "emiAmount": "",
+            "accountOpenDate": "2016-11-17 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null,
+            "countryCode": "91",
+            "primaryAccount": false
+        },
+        {
+            "cif": "264479335",
+            "acctName": "UMESH SINGH LUNTHI",
+            "customerName": "UMESH SINGH LUNTHI",
+            "activeFlag": null,
+            "depositAmount": 0,
+            "interestRate": null,
+            "maturityAmount": 0,
+            "maturityDate": null,
+            "openingDate": null,
+            "operatingInstruction": "001",
+            "schemeCode": "SBUBM",
+            "schemeName": null,
+            "acctStatusFlag": "D",
+            "repaymentAccount": "",
+            "name": "UMESH SINGH LUNTHI",
+            "acctType": "Savings Account",
+            "acctNum": "7376806051",
+            "acctStatus": {
+                "statusFlg": "D"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "97.43"
+                }
+            ],
+            "scheme": {
+                "code": "SBUBM",
+                "type": "SBA",
+                "name": null
+            },
+            "solId": "31850",
+            "emiAmount": "",
+            "accountOpenDate": "2016-11-17 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null,
+            "countryCode": "91",
+            "primaryAccount": false
+        },
+        {
+            "cif": "264479335",
+            "acctName": "UMESH SINGH LUNTHI",
+            "customerName": "UMESH SINGH LUNTHI",
+            "activeFlag": null,
+            "depositAmount": 0,
+            "interestRate": null,
+            "maturityAmount": 0,
+            "maturityDate": null,
+            "openingDate": null,
+            "operatingInstruction": "001",
+            "schemeCode": "SBUBM",
+            "schemeName": null,
+            "acctStatusFlag": "D",
+            "repaymentAccount": "",
+            "name": "UMESH SINGH LUNTHI",
+            "acctType": "Savings Account",
+            "acctNum": "7379465275",
+            "acctStatus": {
+                "statusFlg": "D"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "97.43"
+                }
+            ],
+            "scheme": {
+                "code": "SBUBM",
+                "type": "SBA",
+                "name": null
+            },
+            "solId": "31850",
+            "emiAmount": "",
+            "accountOpenDate": "2016-11-17 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null,
+            "countryCode": "91",
+            "primaryAccount": false
+        },
+        {
+            "cif": "264479335",
+            "acctName": "UMESH SINGH LUNTHI",
+            "customerName": "UMESH SINGH LUNTHI",
+            "activeFlag": null,
+            "depositAmount": 0,
+            "interestRate": null,
+            "maturityAmount": 0,
+            "maturityDate": null,
+            "openingDate": null,
+            "operatingInstruction": "001",
+            "schemeCode": "SBUBM",
+            "schemeName": null,
+            "acctStatusFlag": "D",
+            "repaymentAccount": "",
+            "name": "UMESH SINGH LUNTHI",
+            "acctType": "Savings Account",
+            "acctNum": "9509829201",
+            "acctStatus": {
+                "statusFlg": "D"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "62"
+                }
+            ],
+            "scheme": {
+                "code": "SBUBM",
+                "type": "SBA",
+                "name": null
+            },
+            "solId": "31850",
+            "emiAmount": "",
+            "accountOpenDate": "2016-11-21 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null,
+            "countryCode": "91",
+            "primaryAccount": false
+        },
+        {
+            "cif": "264479335",
+            "acctName": "UMESH SINGH LUNTHI",
+            "customerName": "UMESH SINGH LUNTHI",
+            "activeFlag": null,
+            "depositAmount": 0,
+            "interestRate": null,
+            "maturityAmount": 0,
+            "maturityDate": null,
+            "openingDate": null,
+            "operatingInstruction": "001",
+            "schemeCode": "SBGEN",
+            "schemeName": null,
+            "acctStatusFlag": "A",
+            "repaymentAccount": "",
+            "name": "UMESH SINGH LUNTHI",
+            "acctType": "Savings Account",
+            "acctNum": "760102010002101",
+            "acctStatus": {
+                "statusFlg": "A"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "7.28"
+                }
+            ],
+            "scheme": {
+                "code": "SBGEN",
+                "type": "SBA",
+                "name": null
+            },
+            "solId": "76010",
+            "emiAmount": "",
+            "accountOpenDate": "2019-02-22 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null,
+            "countryCode": "91",
+            "primaryAccount": false
+        },
+        {
+            "cif": "264479335",
+            "acctName": "UMESH SINGH LUNTHI",
+            "customerName": "UMESH SINGH LUNTHI",
+            "activeFlag": null,
+            "depositAmount": 0,
+            "interestRate": null,
+            "maturityAmount": 0,
+            "maturityDate": null,
+            "openingDate": null,
+            "operatingInstruction": "001",
+            "schemeCode": "SBGEN",
+            "schemeName": null,
+            "acctStatusFlag": "I",
+            "repaymentAccount": "",
+            "name": "UMESH SINGH LUNTHI",
+            "acctType": "Savings Account",
+            "acctNum": "681302010001096",
+            "acctStatus": {
+                "statusFlg": "I"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "0"
+                }
+            ],
+            "scheme": {
+                "code": "SBGEN",
+                "type": "SBA",
+                "name": null
+            },
+            "solId": "68130",
+            "emiAmount": "",
+            "accountOpenDate": "2013-10-17 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null,
+            "countryCode": "91",
+            "primaryAccount": false
+        },
+        {
+            "cif": "264479335",
+            "acctName": "UMESH SINGH LUNTHI",
+            "customerName": "UMESH SINGH LUNTHI",
+            "activeFlag": null,
+            "depositAmount": 0,
+            "interestRate": null,
+            "maturityAmount": 0,
+            "maturityDate": null,
+            "openingDate": null,
+            "operatingInstruction": "007",
+            "schemeCode": "UCCAN",
+            "schemeName": null,
+            "acctStatusFlag": "A",
+            "repaymentAccount": "",
+            "name": "UMESH SINGH LUNTHI",
+            "acctType": "Current Account",
+            "acctNum": "760101010050101",
+            "acctStatus": {
+                "statusFlg": "A"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "2325925.65"
+                }
+            ],
+            "scheme": {
+                "code": "UCCAN",
+                "type": "CAA",
+                "name": null
+            },
+            "solId": "76010",
+            "emiAmount": "",
+            "accountOpenDate": "2017-07-10 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null,
+            "countryCode": "91",
+            "primaryAccount": false
+        },
+        {
+            "cif": "264479335",
+            "acctName": "UMESH SINGH LUNTHI",
+            "customerName": "UMESH SINGH LUNTHI",
+            "activeFlag": null,
+            "depositAmount": 0,
+            "interestRate": null,
+            "maturityAmount": 0,
+            "maturityDate": null,
+            "openingDate": null,
+            "operatingInstruction": "001",
+            "schemeCode": "ODSTF",
+            "schemeName": null,
+            "acctStatusFlag": "A",
+            "repaymentAccount": "",
+            "name": "UMESH SINGH LUNTHI",
+            "acctType": "Overdraft Account",
+            "acctNum": "451104020100021",
+            "acctStatus": {
+                "statusFlg": "A"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "-11285.94"
+                }
+            ],
+            "scheme": {
+                "code": "ODSTF",
+                "type": "ODA",
+                "name": null
+            },
+            "solId": "31010",
+            "emiAmount": "",
+            "accountOpenDate": "2006-04-21 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null,
+            "countryCode": "91",
+            "primaryAccount": false
+        },
+        {
+            "cif": "264479335",
+            "acctName": "UMESH SINGH LUNTHI",
+            "customerName": "UMESH SINGH LUNTHI",
+            "activeFlag": null,
+            "depositAmount": 0,
+            "interestRate": null,
+            "maturityAmount": 0,
+            "maturityDate": null,
+            "openingDate": null,
+            "operatingInstruction": "",
+            "schemeCode": "HL005",
+            "schemeName": null,
+            "acctStatusFlag": "A",
+            "repaymentAccount": "",
+            "name": "UMESH SINGH LUNTHI",
+            "acctType": "Overdraft Account",
+            "acctNum": "760104120000003",
+            "acctStatus": {
+                "statusFlg": "A"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "-883480.9"
+                }
+            ],
+            "scheme": {
+                "code": "HL005",
+                "type": "ODA",
+                "name": null
+            },
+            "solId": "76010",
+            "emiAmount": "",
+            "accountOpenDate": "2021-12-14 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null,
+            "countryCode": "91",
+            "primaryAccount": false
+        },
+        {
+            "cif": "264479335",
+            "acctName": "UMESH SINGH LUNTHI",
+            "customerName": "UMESH SINGH LUNTHI",
+            "activeFlag": null,
+            "depositAmount": 0,
+            "interestRate": null,
+            "maturityAmount": 0,
+            "maturityDate": null,
+            "openingDate": null,
+            "operatingInstruction": "001",
+            "schemeCode": "ODSTF",
+            "schemeName": null,
+            "acctStatusFlag": "A",
+            "repaymentAccount": "",
+            "name": "UMESH SINGH LUNTHI",
+            "acctType": "Overdraft Account",
+            "acctNum": "672004020000002",
+            "acctStatus": {
+                "statusFlg": "A"
+            },
+            "acctBals": [
+                {
+                    "balTypeCode": "AVAIL",
+                    "amount": "-1017113.54"
+                }
+            ],
+            "scheme": {
+                "code": "ODSTF",
+                "type": "ODA",
+                "name": null
+            },
+            "solId": "02212",
+            "emiAmount": "",
+            "accountOpenDate": "2018-12-10 00:00:00",
+            "tdMaturityDate": "",
+            "subscriptionCode": null,
+            "countryCode": "91",
+            "primaryAccount": false
+        }
+    ],
+    "commAddr": {
+        "address1": "MAROL   ANDHERI",
+        "address2": "NEAR SAGUN HOSPITAL",
+        "address3": "MAROL",
+        "city": "MUMBAI",
+        "state": "MAHARASHTRA",
+        "pinCode": "275101",
+        "country": "INDIA"
+    },
+    "permAddr": {
+        "address1": "MAROL   ANDHERI",
+        "address2": "NEAR SAGUN HOSPITAL",
+        "address3": "MAROL",
+        "city": "MUMBAI",
+        "state": "MAHARASHTRA",
+        "pinCode": "275101",
+        "country": "INDIA"
+    },
+    "branchAddr": null
+}

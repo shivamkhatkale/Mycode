@@ -1,0 +1,208 @@
+{
+    "cif": "613748051",
+    "applNum": "",
+    "source": {
+        "acctNum": "363702010015306"
+    },
+    "tier1contribution": {
+        "amount": "500.00",
+        "remarks": "Tier I Contribution"
+    },
+    "tier2contribution": {
+        "amount": "2000.00",
+        "remarks": "Tier II Contribution"
+    },
+   
+    "acctDetails": {
+        "sourceAccountName": "SHAMSUL HUSAIN ALI HUSAIN ANSARI",
+        "name": "SHAMSUL HUSAIN ALI HUSAIN ANSARI",
+        "existingCustomerFlag": "N",
+        "combinedRegistration": "Y",
+        "welcomeKitAmount": 50.0,
+        "methodOfReceivingCard": "methodOfReceivingCard",
+        "riskProfile": "M",
+        "status": "personDetail",
+        "declarationIndicator": true,
+        "personDetail": {
+            "displayNameFlag": "M",
+            "dateOfBirth": "1998-05-11T00:00:00",
+            "title": "Shri",
+            "firstName": "Shamsul",
+            "lastName": "Ansari",
+            "middleName": "Husain",
+            "gender": "Male",
+            "placeOfBirth": "Nagpur",
+            "countryCodeOfBirth": "IN",
+            "maritalStatus": "U",
+            "maritalStatusCode": "M",
+            "mobileNumber": "{{random9DigitNumber}}",
+            "email": "{{$randomEmail}}",
+            "telephoneWithStdCode": "",
+            "fatherFirstName": "Ali",
+            "fatherLastName": "Ansari",
+            "fatherMiddleName": "Husain",
+            "motherFirstName": "Mehmuda",
+            "motherLastName": "Begum",
+            "motherMiddleName": "Ansari",
+            "spouseFirstName": "Sakina",
+            "spouseLastName": "Ansari",
+            "spouseMiddleName": "Shamsul",
+            "educationQualification": "BA",
+            "pan": "{{pan}}",
+            "last4DigitsOfAadhaarNum": "5401",
+            "epranWelcomekitPhyPran": "1"
+        },
+        "tier1NomineeDetail": [
+            {
+                "firstName": "Mehmudaaaaa",
+                "middleName": "Begum",
+                "lastName": "Ansari",
+                "allocationpercent": 100,
+                "relationshipCode": "04",
+                "relationship": "Mother",
+                "minorFlag": false,
+                "dateOfBirth": "1994-05-11T16:30:12",
+                "addressline1": "150 Bilal Nagar, Wanjara Layout,",
+                "addressline2": "Kamptee Road Naka No. 2",
+                "addressline3": "Rahemat Nagar",
+                "addressline4": "Nagpur",
+                "addressPincode": "440026",
+                "cityCode": "",
+                "city": "Nagpur",
+                "districtCode": "",
+                "district": "Nagpur",
+                "stateCode": "MH",
+                "state": "Maharashtra"
+            }
+            
+        ],
+        "tier2NomineeDetail": [
+            {
+                "isSameAddr": false,
+                "firstName": "Aayat",
+                "middleName": "",
+                "lastName": "Ansari",
+                "accountType": "Tier-2",
+                "allocationpercent": 100,
+                "relationshipCode": "03",
+                "relationship": "Daughter",
+                "minorFlag": true,
+                "dateOfBirth": "2021-05-11T16:30:12",
+                "addressline1": "150 Bilal Nagar, Wanjara Layout,",
+                "addressline2": "Kamptee Road Naka No. 2",
+                "addressline3": "Rahemat Nagar",
+                "addressline4": "Nagpur",
+                "addressPincode": "440026",
+                "cityCode": "",
+                "city": "Nagpur",
+                "districtCode": "",
+                "district": "Nagpur",
+                "stateCode": "MH",
+                "state": "Maharashtra",
+                "guardianRelationshipCode": "4",
+                "guardianRelationship": "Mother",
+                "guardianFirstName": "sham",
+                "guardianMiddleName": "asad",
+                "guardianLastName": "asd",
+                "guardianAge": "26",
+                "guardianAddressline1": "150 Bilal Nagar, Wanjara Layout,",
+                "guardianAddressline2": "Kamptee Road Naka No. 2",
+                "guardianAddressline3": "Rahemat Nagar",
+                "guardianAddressline4": "Nagpur",
+                "guardianAddressPincode": "440026",
+                "guardianCityCode": "",
+                "guardianCity": "Nagpur",
+                "guardianDistrictCode": "",
+                "guardianDistrict": "Nagpur",
+                "guardianStateCode": "MH",
+                "guardianState": "Maharashtra",
+                "guardianDateOfBirth": "1967-05-11T16:30:12"
+            }
+        ],
+        "contactDetail": {
+            "addressLine1": "150 Bilal Nagar, Kamptee Road,",
+            "addressLine2": "Naka No. 2, Wanjara Layout",
+            "cityTownVillage": "Nagpur",
+            "district": "Nagpur",
+            "addrStateUnionTerritory": "19",
+            "addressCountry": "IN",
+            "addressPinCode": "440026"
+        },
+        "tier1BankDetail": {
+            "accountType": "Savings",
+            "bankAccountType": "Savings",
+            "bankAccountNumber": "{{$randomBankAccount}}",
+            "bankIfscCode": "{{randomIFSC}}"
+        },
+        "tier2BankDetail": {
+            "accountType": "Savings",
+            "bankAccountType": "Saving",
+            "bankAccountNumber": "{{$randomBankAccount}}",
+            "bankIfscCode": "{{randomIFSC}}",
+            "sameAsTier1Flag": true
+        },
+        "employmentDetail": {
+            "occupationCode": "02",
+            "otherDetails": "Student",
+            "incomeRangeCode": "03"
+        },
+        "tier1SchemeDetail": [
+            {
+                "schemeId": "SM001003",
+                "pfmId": "PFM001",
+                "percentageOfInvestment": "20",
+                "riskProfile": "M",
+                "fundManager":"SBI",
+                "schemeName": "UBI",
+                "accountType": "Tier-1",
+                "schemePrefOption": "V",
+                "schemeType": "E"
+            },
+            {
+                "schemeId": "SM001004",
+                "pfmId": "PFM001",
+                "percentageOfInvestment": "40",
+                "riskProfile": "M",
+                "schemeName": "UBI",
+                "accountType": "Tier-1",
+                "fundManager":"SBI",
+                "schemePrefOption": "V",
+                "schemeType": "E"
+            },
+            {
+                "schemeId": "SM001005",
+                "pfmId": "PFM001",
+                "percentageOfInvestment": "35",
+                "riskProfile": "M",
+                "schemeName": "UBI",
+                "accountType": "Tier-1",
+                "schemePrefOption": "V",
+                "fundManager":"SBI",
+                "schemeType": "E"
+            },
+            {
+                "schemeId": "SM001012",
+                "pfmId": "PFM001",
+                "percentageOfInvestment": "05",
+                "riskProfile": "M",
+                "schemeName": "UBI",
+                "fundManager":"SBI",
+                "accountType": "Tier-1",
+                "schemePrefOption": "V",
+                "schemeType": "E"
+            }
+        ],
+        "tier2SchemeDetail": [
+            {
+                "riskProfile": "M",
+                "accountType": "Tier-2",
+                "schemeId": "SM001006",
+                "schemePrefOption": "A",
+                "pfmId": "PFM001",
+                "schemeName": "UBI",
+                "schemeType": "C",
+                "percentageOfInvestment": "100"
+            }
+        ]
+    }
+}

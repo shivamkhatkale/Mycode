@@ -1,0 +1,14 @@
+{
+    "errorId": "afb95379-7b72-45ca-9dd3-b5179efef12f",
+    "errorAt": "2024-10-09T14:20:25.629346486",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "405 METHOD_NOT_ALLOWED",
+            "message": "Method Not Allowed",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

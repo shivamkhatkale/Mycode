@@ -1,0 +1,1 @@
+{"errorId":"267b42c3-5e69-4e35-98f5-a93f85153069","errorAt":"2024-10-31T17:51:15.914991636","errorLocation":null,"errors":[{"code":"BAD_REQUEST","message":"required key [accountNumber] not found,  required key [applicationFormNumber] not found,  required key [globalTrxnId] not found,  required key [schemeCode] not found","values":null,"origmesg":null,"errors":null}]}

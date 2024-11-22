@@ -1,0 +1,38 @@
+{
+    "code": "00",
+    "result": "SUCCESS",
+    "data": {
+        "acctlist": [
+            {
+                "name": "SIRRA MARTHA",
+                "mmid": "1234567",
+                "uidnum": null,
+                "iin": "107110",
+                "aeba": "N",
+                "mbeba": "Y",
+                "accRefNumber": "000110011016005",
+                "type": "SAVINGS",
+                "vpa": "6006259304@unionbankofindia",
+                "status": "A",
+                "maskedAccnumber": "XXXX6005",
+                "ifsc": "UBIN0556688",
+                "dLength": "4",
+                "dType": "NUM",
+                "atmpinFormat": "FORMAT3|FORMAT2",
+                "atmpinlength": "4",
+                "otpFormat": "NUM",
+                "otpLength": "6",
+                "cmId": null,
+                "internationlActive": "N",
+                "aadharMaskedNumber": null,
+                "vpas": null,
+                "lrn": null,
+                "isDefault": "N",
+                "bankName": "Union Bank of India New",
+                "bankRefUrl": null
+            }
+        ]
+    },
+    "checksum": null,
+    "errorDesc": null
+}

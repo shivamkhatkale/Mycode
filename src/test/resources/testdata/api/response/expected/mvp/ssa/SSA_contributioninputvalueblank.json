@@ -1,0 +1,17 @@
+{
+    "errorId": "1f59ff9b-266a-4202-8c80-58eaa8dbdea4",
+    "errorAt": "2024-08-01T14:05:05.086912",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": null,
+            "message": "Response is empty (null).",
+            "values": null,
+            "origmesg": null,
+            "errors": {
+                "ErrorCode": "RESPONSE_NULL",
+                "ErrorMessage": "Response is empty (null)."
+            }
+        }
+    ]
+}

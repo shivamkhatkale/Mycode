@@ -1,0 +1,8 @@
+{
+    "timestamp": "2024-10-03T11:09:19.620+00:00",
+    "path": "/app/invst/apy/api/v1/getInvestmentAccounts2",
+    "status": 404,
+    "error": "Not Found",
+    "message": null,
+    "requestId": "e9ab5688-3115"
+}

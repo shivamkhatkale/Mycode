@@ -1,0 +1,193 @@
+{
+    "success": true,
+    "errorDetails": null,
+    "traceId": null,
+    "statusCode": "SUCCESS",
+    "statusDescription": "Transactions fetched successfully",
+    "totalTransaction": 15,
+    "txnDetails": [
+        {
+            "title": "2024-01-07",
+            "data": [
+                {
+                    "transactionparticular": "569402010001849:Int.Pd:01-10-2023 to 31-12-2023",
+                    "amount": 9.0,
+                    "creditDebitFlag": "C",
+                    "transactionId": "S28571360",
+                    "balAmount": 3451.50,
+                    "postedDateTime": "2024-01-07T09:38:56"
+                }
+            ]
+        },
+        {
+            "title": "2024-01-05",
+            "data": [
+                {
+                    "transactionparticular": "MOBFT from: DEEPAK MISHRA/400601709181",
+                    "amount": 1.0,
+                    "creditDebitFlag": "C",
+                    "transactionId": "S79214954",
+                    "balAmount": 3442.50,
+                    "postedDateTime": "2024-01-06T01:04:14"
+                }
+            ]
+        },
+        {
+            "title": "2023-12-25",
+            "data": [
+                {
+                    "transactionparticular": "UPIAB/335955977284/CR/ASHOK KU/ICIC/ashokmeera071@",
+                    "amount": 2287.0,
+                    "creditDebitFlag": "C",
+                    "transactionId": "S98552303",
+                    "balAmount": 3441.50,
+                    "postedDateTime": "2023-12-25T16:47:31"
+                }
+            ]
+        },
+        {
+            "title": "2023-11-30",
+            "data": [
+                {
+                    "transactionparticular": "MOBFT to: SRI SUN LIGHT ENTERP/333417789096",
+                    "amount": 1.0,
+                    "creditDebitFlag": "D",
+                    "transactionId": "S42934479",
+                    "balAmount": 1154.50,
+                    "postedDateTime": "2023-11-30T17:53:34"
+                }
+            ]
+        },
+        {
+            "title": "2023-10-13",
+            "data": [
+                {
+                    "transactionparticular": "IMPSAR/328602925281/SBIN0006674/34557435855",
+                    "amount": 10.0,
+                    "creditDebitFlag": "C",
+                    "transactionId": "S31296144",
+                    "balAmount": 1155.50,
+                    "postedDateTime": "2023-10-13T02:14:45"
+                },
+                {
+                    "transactionparticular": "IMPSAR/328602925281/SBIN0006674/34557435855",
+                    "amount": 10.0,
+                    "creditDebitFlag": "D",
+                    "transactionId": "S31294899",
+                    "balAmount": 1145.50,
+                    "postedDateTime": "2023-10-13T02:14:44"
+                }
+            ]
+        },
+        {
+            "title": "2023-10-05",
+            "data": [
+                {
+                    "transactionparticular": "569402010001849:Int.Pd:01-07-2023 to 30-09-2023",
+                    "amount": 7.0,
+                    "creditDebitFlag": "C",
+                    "transactionId": "S16056445",
+                    "balAmount": 1155.50,
+                    "postedDateTime": "2023-10-05T13:24:53"
+                }
+            ]
+        },
+        {
+            "title": "2023-10-01",
+            "data": [
+                {
+                    "transactionparticular": "MOBFT to: DEEPAK MISHRA/327406290272",
+                    "amount": 10000.0,
+                    "creditDebitFlag": "D",
+                    "transactionId": "S43069006",
+                    "balAmount": 1148.50,
+                    "postedDateTime": "2023-10-01T06:13:05"
+                },
+                {
+                    "transactionparticular": "MOBFT from: DEEPAK MISHRA/327406276823",
+                    "amount": 10000.0,
+                    "creditDebitFlag": "C",
+                    "transactionId": "S43056900",
+                    "balAmount": 11148.50,
+                    "postedDateTime": "2023-10-01T06:09:52"
+                }
+            ]
+        },
+        {
+            "title": "2023-08-25",
+            "data": [
+                {
+                    "transactionparticular": "MOBFT from: DEEPAK MISHRA/323717091710",
+                    "amount": 200.0,
+                    "creditDebitFlag": "C",
+                    "transactionId": "S42795086",
+                    "balAmount": 1148.50,
+                    "postedDateTime": "2023-08-25T17:08:44"
+                }
+            ]
+        },
+        {
+            "title": "2023-08-23",
+            "data": [
+                {
+                    "transactionparticular": "MOBFT to: DEEPAK MISHRA/323516666062",
+                    "amount": 4.0,
+                    "creditDebitFlag": "D",
+                    "transactionId": "S69937730",
+                    "balAmount": 948.50,
+                    "postedDateTime": "2023-08-23T16:54:51"
+                },
+                {
+                    "transactionparticular": "MOBFT to: DEEPAK MISHRA/323514348335",
+                    "amount": 5.0,
+                    "creditDebitFlag": "D",
+                    "transactionId": "S65810278",
+                    "balAmount": 952.50,
+                    "postedDateTime": "2023-08-23T14:51:13"
+                }
+            ]
+        },
+        {
+            "title": "2023-08-11",
+            "data": [
+                {
+                    "transactionparticular": "MOBBILL PAYMENT/322302122585",
+                    "amount": 100.0,
+                    "creditDebitFlag": "D",
+                    "transactionId": "S17793578",
+                    "balAmount": 957.50,
+                    "postedDateTime": "2023-08-11T02:55:21"
+                }
+            ]
+        },
+        {
+            "title": "2023-07-04",
+            "data": [
+                {
+                    "transactionparticular": "569402010001849:Int.Pd:01-04-2023 to 30-06-2023",
+                    "amount": 7.0,
+                    "creditDebitFlag": "C",
+                    "transactionId": "S67554606",
+                    "balAmount": 1057.50,
+                    "postedDateTime": "2023-07-04T10:26:06"
+                }
+            ]
+        },
+        {
+            "title": "2023-06-30",
+            "data": [
+                {
+                    "transactionparticular": "MOBFT from: DEEPAK MISHRA/318104793097",
+                    "amount": 1.0,
+                    "creditDebitFlag": "C",
+                    "transactionId": "S17828173",
+                    "balAmount": 1050.50,
+                    "postedDateTime": "2023-06-30T04:30:06"
+                }
+            ]
+        }
+    ],
+    "page": 0,
+    "size": 0,
+    "totalPages": 2147483647
+}

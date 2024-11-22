@@ -1,0 +1,9 @@
+{
+    "errorId": "0c167971-6b3d-4e1a-9d72-10d623ca3406",
+    "errorAt": "2024-09-11T13:11:04.916494976",
+    "error": {
+        "code": "BAD_REQUEST",
+        "result": "required key [accountNumber] not found,  required key [amount] not found,  required key [mobileNo] not found",
+        "data": null
+    }
+}

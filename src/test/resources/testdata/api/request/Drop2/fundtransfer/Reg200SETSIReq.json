@@ -1,0 +1,13 @@
+{
+    "cif": "254061641",
+    "channel": "MOB",
+    "creditAccountNumber": "123456043",
+    "debitAccountNumber": "441002010058664",
+    "mode": "NEFT",
+    "frequency": "MONTHLY",
+    "numberOfTransfer": "2",
+    "scheduleType": "RECURRING",
+    "siStartDate": "2025-11-06T00:00:00.000Z",
+    "remarks": "SI-Monthly Test Akshay",
+    "amount": "12.34"
+}

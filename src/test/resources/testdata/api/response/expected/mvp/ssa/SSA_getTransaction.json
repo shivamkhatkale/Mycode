@@ -1,0 +1,89 @@
+{
+    "hasMoreData": null,
+    "transactions": [
+        {
+            "acctNum": "59070SSA000000000041",
+            "transactionDate": "2024-11-09",
+            "amount": 250.0,
+            "valueDate": "2024-11-11",
+            "transactionCurrencyCode": "INR"
+        },
+        {
+            "acctNum": "59070SSA000000000041",
+            "transactionDate": "2024-11-09",
+            "amount": 250.0,
+            "valueDate": "2024-11-11",
+            "transactionCurrencyCode": "INR"
+        },
+        {
+            "acctNum": "59070SSA000000000041",
+            "transactionDate": "2024-11-08",
+            "amount": 250.0,
+            "valueDate": "2024-11-08",
+            "transactionCurrencyCode": "INR"
+        },
+        {
+            "acctNum": "59070SSA000000000041",
+            "transactionDate": "2024-11-08",
+            "amount": 250.0,
+            "valueDate": "2024-11-08",
+            "transactionCurrencyCode": "INR"
+        },
+        {
+            "acctNum": "59070SSA000000000041",
+            "transactionDate": "2024-10-30",
+            "amount": 500.0,
+            "valueDate": "2024-10-30",
+            "transactionCurrencyCode": "INR"
+        },
+        {
+            "acctNum": "59070SSA000000000041",
+            "transactionDate": "2024-10-28",
+            "amount": 400.0,
+            "valueDate": "2024-10-28",
+            "transactionCurrencyCode": "INR"
+        },
+        {
+            "acctNum": "59070SSA000000000041",
+            "transactionDate": "2024-10-25",
+            "amount": 250.0,
+            "valueDate": "2024-10-25",
+            "transactionCurrencyCode": "INR"
+        },
+        {
+            "acctNum": "59070SSA000000000041",
+            "transactionDate": "2024-10-25",
+            "amount": 250.0,
+            "valueDate": "2024-10-25",
+            "transactionCurrencyCode": "INR"
+        },
+        {
+            "acctNum": "59070SSA000000000041",
+            "transactionDate": "2024-10-25",
+            "amount": 250.0,
+            "valueDate": "2024-10-25",
+            "transactionCurrencyCode": "INR"
+        },
+        {
+            "acctNum": "59070SSA000000000041",
+            "transactionDate": "2024-10-23",
+            "amount": 250.0,
+            "valueDate": "2024-10-23",
+            "transactionCurrencyCode": "INR"
+        },
+        {
+            "acctNum": "59070SSA000000000041",
+            "transactionDate": "2024-10-23",
+            "amount": 250.0,
+            "valueDate": "2024-10-23",
+            "transactionCurrencyCode": "INR"
+        },
+        {
+            "acctNum": "59070SSA000000000041",
+            "transactionDate": "2024-10-17",
+            "amount": 250.0,
+            "valueDate": "2024-10-17",
+            "transactionCurrencyCode": "INR"
+        }
+    ]
+}

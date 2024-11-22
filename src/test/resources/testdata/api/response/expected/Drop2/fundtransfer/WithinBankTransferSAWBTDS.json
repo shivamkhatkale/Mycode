@@ -1,0 +1,21 @@
+{
+  "data": {
+    "cif": "254061641",
+    "creditAccountType": "SBA",
+    "debitAccountType": "SBA",
+    "creditAccountNumber": "635302010012456",
+    "payeeName": "SANDESH SANJAY DESAI",
+    "debitAccountNumber": "441002010058664",
+    "debitAccountName": "HARMANJIT SINGH SO RANJIT SINGH",
+    "amount": 1010,
+    "mode": "UNION BANK OF INDIA",
+    "remarks": "Testing account",
+    "txnId": "552396633246",
+    "txnDate": "2024-11-06T13:20:56",
+    "ledgerBalance": "0000000264409949",
+    "availableBalance": "0000000264394149",
+    "withinBank": true
+  },
+  "errorMessage": null,
+  "success": true
+}

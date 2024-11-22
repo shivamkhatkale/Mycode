@@ -1,0 +1,14 @@
+{
+    "errorId": "ddd7194c-4889-4a33-b83c-54247ce8eb81",
+    "errorAt": "2024-09-10T11:36:54.575679559",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "PM003",
+            "message": "PMJJBY Account already exists",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

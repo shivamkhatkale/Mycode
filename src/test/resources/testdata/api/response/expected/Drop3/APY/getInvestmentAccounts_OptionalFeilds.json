@@ -1,0 +1,14 @@
+{
+    "errorId": "892a579e-d949-439d-881f-553794dc3516",
+    "errorAt": "2024-10-03T16:34:24.260517176",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "CUST_NOT_INIT",
+            "message": "Customer id is not initialized (empty).",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+   "cif": "634739412",
+   "accountNumber": "635302010013115",
+   "transactionId": "617166375370",
+   "customerName": "SHAMSUL HUSAIN ALI HUSAIN ANSARI",
+   "contributionAmountTierI": 500.0,
+   "contributionAmountTierII": 1000.0,
+   "debitAccountNumber": "635302010013115",
+   "tierIRemarks": null,
+   "tierIIRemarks": null,
+   "status": null,
+   "contributionCharges": 7.5,
+   "gstAmount": 270.0,
+   "totalAmountDebited": 2177.5,
+   "paymentTxnDate": "2024-08-09T13:02:52.444",
+   "pran": "110119490172",
+   "oneTimeRegistrationCharges": 400,
+   "methodOfReceivingCard": "methodOfReceivingCard",
+   "welcomeKitAmount": 50.0
+}

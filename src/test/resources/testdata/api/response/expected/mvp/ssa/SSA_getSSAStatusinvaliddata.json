@@ -1,0 +1,14 @@
+{
+    "errorId": "4a394780-8488-4b61-9e69-b0dee91397ee",
+    "errorAt": "2024-07-29T10:20:54.885248784",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "ERR_GE_1999",
+            "message": "Unable to process the request. Kindly try later after some time",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

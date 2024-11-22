@@ -1,0 +1,7 @@
+{
+    "errors": {
+        "code": "01",
+        "result": "device not available or already de-registered",
+        "message": null
+    }
+}

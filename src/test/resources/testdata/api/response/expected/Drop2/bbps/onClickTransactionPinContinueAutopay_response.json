@@ -1,0 +1,40 @@
+{
+  "sourceId": "UBI02",
+  "paymentId": "HGAEP0F8A20000038285",
+  "transaction_id": "HGAEP0F8A20000038285",
+  "objectId": "payment",
+  "currency": "356",
+  "billerId": "BSNL00000NATHL",
+  "validationId": "HGE1VT5J3Y5Y4PDDXARO",
+  "sourceRefNo": "386580770098",
+  "paymentAmount": "1",
+  "biller_name": "BSNL Prepaid",
+  "billerCategory": "Mobile Prepaid",
+  "authenticators": [
+    {
+      "parameterName": "Mobile Number",
+      "value": "9011022208"
+    },
+    {
+      "parameterName": "Circle",
+      "value": "Haryana"
+    },
+    {
+      "parameterName": "Id",
+      "value": "HARTOPUP10"
+    }
+  ],
+  "paymentType": "instapay",
+  "txnDateTime": "10-07-2024 17:03:01",
+  "billerApprovalCode": "\"e56771af0f484ecca0706aa1ea78c2fd",
+  "billerStatus": "SUCCESS",
+  "paymentAccount": {
+    "objectId": "paymentaccount",
+    "paymentMethod": "BankAccount",
+    "accountNumber": "XXXXXXXXXXX3125"
+  },
+  "status": "PAID",
+  "couConvFee": "0.00",
+  "bouConvFee": "0.00",
+  "bbps_ref_no": "UN014192BAEAAAAAABA0"
+}

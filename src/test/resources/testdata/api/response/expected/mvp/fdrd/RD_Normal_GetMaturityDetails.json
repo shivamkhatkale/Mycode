@@ -1,0 +1,15 @@
+{
+    "cif": "2005946706",
+    "maturityAmount": "3789.00",
+    "depositAmount": "620.0",
+    "interestRate": "6.35",
+    "depositTerm": {
+        "year": null,
+        "month": 6,
+        "day": 0
+    },
+    "maturityDate": null,
+    "interestPayoutType": "Maturity",
+    "interestPayoutAmount": "69.00",
+    "totalInterestPayoutAmount": "69.00"
+}

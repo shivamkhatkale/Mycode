@@ -1,0 +1,8 @@
+[
+    {
+        "errorMessage": "repDate must not be null"
+    },
+    {
+        "errorMessage": "acctId must not be null"
+    }
+]

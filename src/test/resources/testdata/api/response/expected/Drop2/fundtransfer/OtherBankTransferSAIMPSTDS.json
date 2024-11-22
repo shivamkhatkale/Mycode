@@ -1,0 +1,10 @@
+{
+    "data": null,
+    "success": false,
+    "errorMessage": {
+        "code": "500",
+        "message": "FAILED",
+        "details": "Amount less than minimum per transaction limit for mode: RTGS",
+        "errors": null
+    }
+}

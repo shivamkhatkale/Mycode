@@ -1,0 +1,14 @@
+{
+    "errorId": "e792cdbe-a46f-4008-8f6a-b2510bef0502",
+    "errorAt": "2024-09-10T09:39:59.947267297",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "BAD_REQUEST",
+            "message": "required key [schemeCode] not found",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

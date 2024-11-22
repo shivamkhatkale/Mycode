@@ -1,0 +1,16 @@
+{
+    "cif": "2005946706",
+    "journeyName": "Investment",
+    "subJourneyName": "PPF",
+    "transactionDate": "2024-07-11T13:57:39.659",
+    "applicationFormNumber": "483323519657",
+    "channel": "MOBILE",
+    "failureReason": "",
+    "journeyProgressName": "",
+    "journeyTask": "OPEN",
+    "journeyTaskRequestDate": "2024-07-11T13:57:39.659",
+    "remarks": "Save",
+    "transactionRefNumber": null,
+    "transactionStatus": true,
+    "journeyStatus": "DRAFT"
+}

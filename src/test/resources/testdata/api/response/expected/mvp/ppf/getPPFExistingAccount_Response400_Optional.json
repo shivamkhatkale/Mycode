@@ -1,0 +1,14 @@
+{
+    "errorId": "1e94e563-0888-45cf-9f68-f88395b92fa0",
+    "errorAt": "2024-08-01T18:33:42.051164084",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "CIF_NOT_PRESENT",
+            "message": "Cif id is not Present (empty).",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

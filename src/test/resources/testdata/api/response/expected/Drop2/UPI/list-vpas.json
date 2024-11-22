@@ -1,0 +1,62 @@
+{
+    "code": "00",
+    "data": {
+        "isBlocked": "NO",
+        "listVpa": [
+            {
+                "account": [
+                    {
+                        "accRefNumber": "000110011016005",
+                        "aeba": "N",
+                        "atmpinFormat": "FORMAT3|FORMAT2",
+                        "atmpinlength": "4",
+                        "balance": null,
+                        "balTime": null,
+                        "bankName": "Union Bank of India New",
+                        "bankRefUrl": "https://10.1.27.133:443",
+                        "dLength": "4",
+                        "dType": "NUM",
+                        "firconsentflag": null,
+                        "ifsc": "UBIN0556688",
+                        "iin": "107110",
+                        "isDefault": "Y",
+                        "lrn": null,
+                        "maskedAccnumber": "XXXX6005",
+                        "mbeba": "Y",
+                        "mmid": "1234567",
+                        "name": "SIRRA MARTHA",
+                        "otpFormat": "NUM",
+                        "otpLength": "6",
+                        "partyId": null,
+                        "status": "A",
+                        "type": "SAVINGS",
+                        "uidnum": null,
+                        "vpa": "6006259304@unionbankofindia",
+                        "vpas": null
+                    }
+                ],
+                "primary": true,
+                "upiNumber": [
+                    {
+                        "createDate": "2024-09-02 12:37:45.209",
+                        "status": "ACTIVE",
+                        "updatedDate": "2024-09-05 18:18:08.592",
+                        "upiId": "6006259304@unionbankofindia",
+                        "upiNumber": "331231123"
+                    },
+                    {
+                        "createDate": "2024-09-02 12:37:57.962",
+                        "status": "DEREGISTER",
+                        "updatedDate": "2024-09-02 12:37:57.962",
+                        "upiId": "6006259304@unionbankofindia",
+                        "upiNumber": "332357423"
+                    }
+                ],
+                "vpa": "6006259304@unionbankofindia"
+            }
+        ],
+        "profileVpa": "6006259304@unionbankofindia"
+    },
+    "errorDesc": null,
+    "result": "Success"
+}

@@ -1,0 +1,14 @@
+{
+    "errorId": "534d04eb-1b30-4f4a-9976-ad08b5c03245",
+    "errorAt": "2024-09-06T06:12:32.365275",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "CBS_ERROR",
+            "message": "Customer ID is not valid.",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

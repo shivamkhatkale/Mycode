@@ -1,0 +1,14 @@
+{
+    "errorId": "f18f721a-74c6-4baf-8b6e-b31a07527126",
+    "errorAt": "2024-11-11T17:05:06",
+    "errorLocation": "null",
+    "errors": [
+        {
+            "code": "ERR_SS_00113",
+            "message": "Kindly Visit Branch (2 or more account already exist).",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

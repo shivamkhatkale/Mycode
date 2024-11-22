@@ -1,0 +1,21 @@
+{
+    "code": "00",
+    "result": "SUCCESS",
+    "data": null,
+    "errorDesc": null,
+    "upiRc": null,
+    "upiIrc": null,
+    "riskScoreValue": null,
+    "remitterRespCode": null,
+    "beneRespCode": null,
+    "remitterReversalRespCode": null,
+    "beneReversalRespCode": null,
+    "txnId": "UBIe577b4fda7fe4de0bfa269775b290a36",
+    "rrn": "411318004727",
+    "amount": "59.00",
+    "remarks": "Investment",
+    "orderId": null,
+    "txnDate": "2024-09-03T16:16:36.806352320",
+    "completeDateTime": null,
+    "expiryDateTime": null
+}

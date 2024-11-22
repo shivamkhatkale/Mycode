@@ -1,0 +1,94 @@
+{
+  
+    "custTitle": "shri",
+     "cif":"2020120719",
+    "applicationFormNumber": "447135363159",
+    "isIncomeTaxPayer": "N",
+    "source": {
+       
+        "acctNum": "000112010000753",
+        "scheme": {
+            "code": "SBGEN",
+            "type": "SBA",
+            "name": null
+        }
+    },
+    "bankInfo": {
+        "address": {
+            "addrLine1": "123 Main St",
+            "addrLine2": "Suite 100",
+            "addrLine3": "Building 4",
+            "addrLine4": "Tech Park",
+            "pinCode": "123456",
+            "cityCode": "C001",
+            "city": "Sample City",
+            "stateCode": "S001",
+            "state": "Sample State"
+        },
+        "branchId": "BR001",
+        "branchSolId": "31740",
+        "branchName": "Main Branch",
+        "workingHrs": "9 AM - 5 PM",
+        "workingDays": "Mon-Fri"
+    },
+    "monthlyPensionAmount": 3000,
+    "contrubutionFrequency": "M",
+    "monthlyPayablepremium": 500,
+    "contributionPeriod": 20,
+    "isAgreedToDebit": true,
+    "nominee": {
+        "maritialStatus": "N",
+        "relationship": "Sibling",
+        "nomineeName": "John Doe",
+        "dateOfBirth": "2000-01-01T00:00:00",
+        "isSameAddr": true,
+        "nomineeAddress": {
+            "addrLine1": "123 Nominee St",
+            "addrLine2": "Suite 200",
+            "addrLine3": "",
+            "addrLine4": "",
+            "pinCode": "654321",
+            "cityCode": "C002",
+            "city": "Nominee City",
+            "stateCode": "S002",
+            "state": "Nominee State"
+        },
+        "allocationPercent": 100.00,
+        "minorFlag": true,
+        "guardianName": "Shivam",
+        "guardianRelationship": "Father",
+        "guardianDateOfBirth": "2000-01-01T00:00:00",
+        "guardianAddress": {
+            "addrLine1": "123 Main St",
+            "addrLine2": "Suite 100",
+            "addrLine3": "Building 4",
+            "addrLine4": "Tech Park",
+            "pinCode": "410206",
+            "cityCode": "C001",
+            "city": "Sample City",
+            "stateCode": "S001",
+            "state": "Sample State"
+        }
+    },
+    "customer": {
+        "cif": "620157487",
+        "name": "Jane Doe",
+        "gender": "Male",
+        "dateOfBirth": "1980-05-15T00:00:00",
+        "kyc": {
+            "nationalId": 991688558965
+        },
+        "mobileNumber": 9010883977,
+        "address": {
+            "addrLine1": "123 Main St",
+            "addrLine2": "Suite 100",
+            "addrLine3": "Building 4",
+            "addrLine4": "Tech Park",
+            "pinCode": "123456",
+            "cityCode": "C001",
+            "city": "Sample City",
+            "stateCode": "S001",
+            "state": "Sample State"
+        }
+    }
+}

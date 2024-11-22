@@ -1,0 +1,299 @@
+{
+    "custName": "PRERNA DIPLAV DONGRE",
+    "fatherOrHusbandName": "ASHOK MESHRAM",
+    "dob": "1990-12-07",
+    "contactInfo": {
+        "phoneNum1": "9930703721",
+        "phoneNum2": null,
+        "emailAddr1": "prernameshram69@gmail.com",
+        "emailAddr2": null,
+        "postalAddr": {
+            "addrType": null,
+            "addrLine1": "B 8 SBI OFFICERS QUARTERS IRLA LANE",
+            "addrLine2": "NR VELANKINI CHURCH VILE PARLE WEST MUMBAI",
+            "addrLine3": "",
+            "addrLine4": null,
+            "pinCode": "400056",
+            "cityCode": "MUMBAI",
+            "stateCode": "MAHARASHTRA",
+            "countryCode": "INDIA"
+        }
+    },
+    "accountBalanceResponse": [
+        {
+            "acctNum": "312202010000382",
+            "name": "PRERNA DIPLAV DONGRE",
+            "accStatusFlg": "D",
+            "nominee": [],
+            "acctBals": null
+        },
+        {
+            "acctNum": "312202170002398",
+            "name": "PRERNA DIPLAV DONGRE",
+            "accStatusFlg": "D",
+            "nominee": [],
+            "acctBals": null
+        },
+        {
+            "acctNum": "408802010007722",
+            "name": "PRERNA DIPLAV DONGRE",
+            "accStatusFlg": "D",
+            "nominee": [],
+            "acctBals": null
+        },
+        {
+            "acctNum": "470202070011019",
+            "name": "PRERNA DIPLAV DONGRE",
+            "accStatusFlg": "A",
+            "nominee": [
+                {
+                    "id": null,
+                    "fname": "RITA ASHOK MESHRAM",
+                    "mname": "",
+                    "lname": "",
+                    "shortname": null,
+                    "dob": null,
+                    "gender": null,
+                    "contactInfo": {
+                        "phoneNum1": null,
+                        "phoneNum2": null,
+                        "emailAddr1": null,
+                        "emailAddr2": null,
+                        "postalAddr": {
+                            "addrType": null,
+                            "addrLine1": "RAJAN APARTMENT LAXMI NAGAR WARDHA",
+                            "addrLine2": "TAL WARDHA DIST WARDHA",
+                            "addrLine3": null,
+                            "addrLine4": null,
+                            "pinCode": "413208",
+                            "cityCode": "WARD",
+                            "stateCode": "MAH",
+                            "countryCode": "IN",
+                            "city": "WARDHA",
+                            "state": "MAHARASHTRA",
+                            "country": "INDIA"
+                        }
+                    },
+                    "relationShip": "Mother",
+                    "cif": null,
+                    "sharePercentage": 100,
+                    "relShipId": "002",
+                    "reqNumber": "4702017371037",
+                    "nomAmt": 0,
+                    "guardian": {
+                        "id": null,
+                        "fname": "",
+                        "mname": null,
+                        "lname": "",
+                        "shortname": null,
+                        "dob": null,
+                        "gender": null,
+                        "contactInfo": null,
+                        "relShipId": null,
+                        "relationShip": null,
+                        "sameAddr": false
+                    },
+                    "minor": false,
+                    "sameAddr": false
+                }
+            ],
+            "acctBals": {
+                "balTypeCode": "AVAIL",
+                "amount": 20475.99,
+                "currencyCode": "INR"
+            }
+        },
+        {
+            "acctNum": "312202010000412",
+            "name": "PRERNA DIPLAV DONGRE",
+            "accStatusFlg": "A",
+            "nominee": [
+                {
+                    "id": null,
+                    "fname": "SAURABH PARESHBHAI PATEL",
+                    "mname": "",
+                    "lname": "",
+                    "shortname": null,
+                    "dob": null,
+                    "gender": null,
+                    "contactInfo": {
+                        "phoneNum1": null,
+                        "phoneNum2": null,
+                        "emailAddr1": null,
+                        "emailAddr2": null,
+                        "postalAddr": {
+                            "addrType": null,
+                            "addrLine1": "SAME AS INA /C",
+                            "addrLine2": "",
+                            "addrLine3": null,
+                            "addrLine4": null,
+                            "pinCode": "388470",
+                            "cityCode": "ANA",
+                            "stateCode": "GUJ",
+                            "countryCode": "IN",
+                            "city": "ANAND",
+                            "state": "GUJARAT",
+                            "country": "INDIA"
+                        }
+                    },
+                    "relationShip": "Grandson",
+                    "cif": null,
+                    "sharePercentage": 100,
+                    "relShipId": "043",
+                    "reqNumber": "3122018872462",
+                    "nomAmt": 0,
+                    "guardian": {
+                        "id": null,
+                        "fname": "",
+                        "mname": null,
+                        "lname": "",
+                        "shortname": null,
+                        "dob": null,
+                        "gender": null,
+                        "contactInfo": null,
+                        "relShipId": null,
+                        "relationShip": null,
+                        "sameAddr": false
+                    },
+                    "minor": false,
+                    "sameAddr": false
+                }
+            ],
+            "acctBals": {
+                "balTypeCode": "AVAIL",
+                "amount": 230169.33,
+                "currencyCode": "INR"
+            }
+        },
+        {
+            "acctNum": "608902070000010",
+            "name": "PRERNA DIPLAV DONGRE",
+            "accStatusFlg": "A",
+            "nominee": [
+                {
+                    "id": null,
+                    "fname": "RITA ASHOK MEHSRAM",
+                    "mname": "",
+                    "lname": "",
+                    "shortname": null,
+                    "dob": null,
+                    "gender": null,
+                    "contactInfo": {
+                        "phoneNum1": null,
+                        "phoneNum2": null,
+                        "emailAddr1": null,
+                        "emailAddr2": null,
+                        "postalAddr": {
+                            "addrType": null,
+                            "addrLine1": "RAJAN APPT FALT NO 17 NEAR",
+                            "addrLine2": "BHANTI STUPALAXMI NAGAR",
+                            "addrLine3": null,
+                            "addrLine4": null,
+                            "pinCode": "442001",
+                            "cityCode": "WARD",
+                            "stateCode": "MAH",
+                            "countryCode": "IN",
+                            "city": "WARDHA",
+                            "state": "MAHARASHTRA",
+                            "country": "INDIA"
+                        }
+                    },
+                    "relationShip": "Mother",
+                    "cif": null,
+                    "sharePercentage": 100,
+                    "relShipId": "002",
+                    "reqNumber": "8030022223918",
+                    "nomAmt": 0,
+                    "guardian": {
+                        "id": null,
+                        "fname": "",
+                        "mname": null,
+                        "lname": "",
+                        "shortname": null,
+                        "dob": null,
+                        "gender": null,
+                        "contactInfo": null,
+                        "relShipId": null,
+                        "relationShip": null,
+                        "sameAddr": false
+                    },
+                    "minor": false,
+                    "sameAddr": false
+                }
+            ],
+            "acctBals": {
+                "balTypeCode": "AVAIL",
+                "amount": 3979.38,
+                "currencyCode": "INR"
+            }
+        },
+        {
+            "acctNum": "303202010908239",
+            "name": "PRERNA DIPLAV DONGRE",
+            "accStatusFlg": "A",
+            "nominee": [
+                {
+                    "id": null,
+                    "fname": "PUJA",
+                    "mname": "",
+                    "lname": "",
+                    "shortname": null,
+                    "dob": null,
+                    "gender": null,
+                    "contactInfo": {
+                        "phoneNum1": null,
+                        "phoneNum2": null,
+                        "emailAddr1": null,
+                        "emailAddr2": null,
+                        "postalAddr": {
+                            "addrType": null,
+                            "addrLine1": "VILLAGE LANGARPUR  POST BILARIAGANJ",
+                            "addrLine2": "DIST AZAMGARH",
+                            "addrLine3": null,
+                            "addrLine4": null,
+                            "pinCode": "276121",
+                            "cityCode": "AZA",
+                            "stateCode": "UP",
+                            "countryCode": "IN",
+                            "city": "AZAMGARH",
+                            "state": "UTTAR PRADESH",
+                            "country": "INDIA"
+                        }
+                    },
+                    "relationShip": "Daughter",
+                    "cif": null,
+                    "sharePercentage": 100,
+                    "relShipId": "005",
+                    "reqNumber": "3032016093774",
+                    "nomAmt": 0,
+                    "guardian": {
+                        "id": null,
+                        "fname": "",
+                        "mname": null,
+                        "lname": "",
+                        "shortname": null,
+                        "dob": null,
+                        "gender": null,
+                        "contactInfo": null,
+                        "relShipId": null,
+                        "relationShip": null,
+                        "sameAddr": false
+                    },
+                    "minor": false,
+                    "sameAddr": false
+                }
+            ],
+            "acctBals": {
+                "balTypeCode": "AVAIL",
+                "amount": 1310337.71,
+                "currencyCode": "INR"
+            }
+        }
+    ],
+    "governmentSchemeDetails": {
+        "coverStartDate": "2024-07-01",
+        "coverEndDate": "2025-05-31",
+        "sumAssured": 200000,
+        "premium": 406
+    }
+}

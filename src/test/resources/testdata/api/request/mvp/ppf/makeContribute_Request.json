@@ -1,0 +1,15 @@
+{
+    "referenceNum": null,
+    "rqType": "CONTRIBUTION",
+    "cif": "274309887",
+    "source": {
+        "acctNum": "569202010009483"
+    },
+    "customer": {
+        "cif": "274309887"
+    },
+    "investmentContribution": {
+        "contribAmt": 500,
+        "contribAcctNum": "56920PPF000000000145"
+    }
+}

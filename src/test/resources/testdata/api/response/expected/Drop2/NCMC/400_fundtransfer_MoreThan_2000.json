@@ -1,0 +1,9 @@
+{
+    "errorId": "62cff135-61a1-4818-b9ec-c3605c6a74f4",
+    "errorAt": "2024-09-12T11:05:13.882232217",
+    "error": {
+        "code": "Transaction not permitted to card holder",
+        "result": "Transaction not permitted to card holder",
+        "data": null
+    }
+}

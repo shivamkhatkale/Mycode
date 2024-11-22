@@ -1,0 +1,14 @@
+{
+  "errorId": "3be1e0a4-7cdb-4230-8a7f-6b284f6332e6",
+  "errorAt": "2024-07-10T11:27:57.349625251",
+  "errorLocation": null,
+  "errors": [
+    {
+      "code": "400",
+      "message": "400 Bad Request from GET http://bbps-bill-management-service.biz-bbps-sit.svc.cluster.local:8080/bbps/getCurrentNDueBills/274309887?billerid=VODA00000NAT96",
+      "values": null,
+      "origmesg": null,
+      "errors": null
+    }
+  ]
+}

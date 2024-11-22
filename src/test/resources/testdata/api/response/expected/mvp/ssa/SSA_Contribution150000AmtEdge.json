@@ -1,0 +1,24 @@
+{
+    "cif": "634744346",
+    "applNum": "834538748708",
+    "remarks": "Contribution of 150000",
+    "accts": [
+        {
+            "acctNum": "63530SSA000000000096",
+            "name": "Joy Jagdale  ",
+            "acctStatus": {
+                "statusFlg": "SUCCESS"
+            },
+            "maturityDate": "2045-03-26"
+        }
+    ],
+    "investmentContribution": {
+        "paymentTxnId": "834538748",
+        "contribAmt": 150000,
+        "channelTxnId": "834538748708",
+        "contribAcctNum": "635302010013119",
+        "paymentTxnDate": "2024-07-16T12:23:34.71"
+    },
+    "contribStatus": "COMPLETE",
+    "message": "Financial transaction has been approved"
+}

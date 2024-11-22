@@ -1,0 +1,29 @@
+{
+  "errorId": "c5280a70-81cb-471a-b1de-83a311b806d4",
+  "errorAt": "2024-07-10T11:27:39.341207318",
+  "errorLocation": null,
+  "errors": [
+    {
+      "code": "400",
+      "message": "400 Bad Request from POST http://bbps-mobile-recharge-service.biz-bbps-sit.svc.cluster.local:8080/bbps/query/v1/getRecentMobileRecharge",
+      "values": null,
+      "origmesg": null,
+      "errors": null
+    }
+  ]
+}{
+    "service_provider": {
+        "header_details": {
+            "recharge_type": "Mobile"
+        },
+        "recent_recharges": [
+            {
+                "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/BSNL00000NATHL.gif",
+                "service_provider_name": "BSNL Prepaid",
+                "mobile_number": 9011022208,
+                "last_bill_paid_on": "11-07-2024 20:11:14",
+                "last_bill_paid_amount": "1.00"
+            }
+        ]
+    }
+}

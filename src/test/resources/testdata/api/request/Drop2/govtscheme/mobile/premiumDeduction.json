@@ -1,0 +1,12 @@
+{
+    "schemeCode": "PMJJBY",
+    "accountNumber": "470202070011019",
+    "cif": "264479335",
+    "applicationFormNumber": "117841101228",
+   "urn": "JNS-PMJJBY-23-24-00000100331-631",
+    "globalTrxnId": "abcd123",
+    "channelId": "MB",
+    "transactionAmount": "123",
+    "branchCode": "1234567",
+    "email": "randeep.kaur1@ibm.com"
+}

@@ -1,0 +1,27 @@
+{
+    "cif": "274309887",
+    "bankInfo": {
+        "address": {
+            "pinCode": "552160",
+            "addrLine1": "MALAKPURVILLAGE,DHANORAPOST&TEHSIL,JYOTDHANORA",
+            "addrLine2": "DHANORA",
+            "addrLine3": null,
+            "state": "UTTAR PRADESH",
+            "city": "DHANORA",
+            "cityCode": null,
+            "stateCode": null
+        },
+        "branchName": "MALAKPUR",
+        "branchId": "828220",
+        "branchSolId": "28221",
+        "workingDays": "Monday to Friday, 1st, 3rd and 5th Saturday",
+        "workingHrs": "10.00 a.m - 4.00 p.m"
+    },
+    "customer": {
+        "cif": "274309887"
+        
+    },
+    "birthType": "F",
+    "birthOrder": "SECOND",
+    "channel": "DBP"
+}

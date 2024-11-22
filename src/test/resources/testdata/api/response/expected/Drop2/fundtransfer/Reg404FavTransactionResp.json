@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "cif": "634919845",
+            "paymentTxnId": "234624044096",
+            "amount": 1000,
+            "createdBy": "FUNDTRANSFER",
+            "createdDate": "2024-07-04T14:43:55.978",
+            "creditAccountNumber": "038510100012002",
+            "debitAccountNumber": "441001010032134",
+            "paymentTxnDate": "2024-07-04T14:43:55",
+            "paymentTxnStatus": "SUCCESS",
+            "remarks": "Investment"
+        },
+        {
+            "cif": "634919845",
+            "paymentTxnId": "UBINJ24177448871",
+            "amount": 1000,
+            "createdBy": "FUNDTRANSFER",
+            "createdDate": "2024-06-25T11:24:03.372",
+            "creditAccountNumber": "123456042",
+            "debitAccountNumber": "441001010032134",
+            "paymentTxnDate": "2024-06-25T11:23:58",
+            "paymentTxnStatus": "SUCCESS",
+            "remarks": "Rent"
+        },
+        {
+            "cif": "634919845",
+            "paymentTxnId": "UBINJ24194460277",
+            "amount": 1200,
+            "createdBy": "FUNDTRANSFER",
+            "createdDate": "2024-07-12T12:35:25.599",
+            "creditAccountNumber": "123456043",
+            "debitAccountNumber": "441001010032134",
+            "paymentTxnDate": "2024-07-12T12:35:17",
+            "paymentTxnStatus": "SUCCESS",
+            "remarks": ""
+        }
+    ],
+    "errorDetails": null,
+    "success": true
+}

@@ -1,0 +1,8 @@
+{
+    "timestamp": "2024-09-04T10:29:23.280+00:00",
+    "path": "/v1/debit-card/ncmcfullStatment1",
+    "status": 404,
+    "error": "Not Found",
+    "message": null,
+    "requestId": "4ea60054-100"
+}

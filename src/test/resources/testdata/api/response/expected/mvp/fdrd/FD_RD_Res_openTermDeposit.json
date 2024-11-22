@@ -1,0 +1,15 @@
+{
+    "opsStatus": "SUCCESS",
+    "transRefNumber": "141154925942",
+    "applicationFrmNum": "974129942574",
+    "entity": {
+        "depositStatus": "PENDING",
+        "depositAmount": 12500.00,
+        "interestRate": 6.75,
+        "maturityAmount": 12445.00,
+        "maturityDate": "2024-08-23",
+        "interestPayoutType": "Maturity",
+        "interestPayoutAmount": 248.00
+    },
+    "errorMessage": null
+}

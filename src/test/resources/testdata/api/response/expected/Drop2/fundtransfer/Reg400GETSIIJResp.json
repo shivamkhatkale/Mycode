@@ -1,0 +1,7 @@
+{
+    "timestamp": "2024-09-10T20:22:15.638+00:00",
+    "path": "/v1/fund-transfer/get-si",
+    "status": 400,
+    "error": "Bad Request",
+    "requestId": "e4235787-6493"
+}

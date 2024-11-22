@@ -1,0 +1,14 @@
+{
+    "errorId": "e34a3fb8-8ff0-4140-80fc-a024cb83c1ce",
+    "errorAt": "2024-09-10T09:51:34.841768718",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "BAD_REQUEST",
+            "message": "schemeCode string [DMJJBS] does not match pattern ^(PMJJBY|PMSBY)$",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+{
+    "errorCode": null,
+    "errorMessage": "{\"timestamp\":\"2024-08-22T03:51:46.037+00:00\",\"path\":\"/cheque-biz/stop-cheque-payment\",\"status\":500,\"error\":\"Internal Server Error\",\"requestId\":\"110f3489-62\"}"
+}

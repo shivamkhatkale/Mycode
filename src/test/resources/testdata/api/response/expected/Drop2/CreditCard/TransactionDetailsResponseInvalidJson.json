@@ -1,0 +1,1 @@
+{"errorId":"c689e845-6395-4d7c-9c97-7b7f420f49e4","errorAt":"2024-11-02T03:41:09.026921133","error":{"code":"BAD_REQUEST","title":null,"description":"txnType expected minLength 1, actual 0, txnType string [] does not match pattern ([PR]), ccAccountId expected minLength 1, actual 0, ccAccountId string [] does not match pattern ^[0-9]+$"}}

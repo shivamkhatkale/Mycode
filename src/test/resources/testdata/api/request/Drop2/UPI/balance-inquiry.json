@@ -1,0 +1,39 @@
+{
+	"cif":"29087674",
+    "vpa": "6006259304@unionbankofindia",
+    "customerId": "916006259304",
+    "txnid": "UBI74d9bd6f80ae40f38f79351f5ac0ac7b",
+    "ac": {
+        "name": "SIRRA MARTHA",
+        "accRefNumber": "000110011016005",
+        "type": "SAVINGS",
+        "ifsc": "UBIN0556688",
+        "atmpinlength": "4",
+        "otpLength": "6",
+        "isDefault": "Y",
+        "vpa": "6006259304@unionbankofindia"
+    },
+    "device": {
+        "mobile": "916006259304",
+        "location": "Hyderabad,Hyderabad,India",
+        "type": "MOB",
+        "id": "cf690b346f1559de",
+        "os": "android",
+        "app": "com.ibm.uboinpci",
+        "ip": "10.0.0.0",
+        "capability": "5245454545242454542454545445",
+        "geocode": "17.5194149,78.4835413"
+    },
+    "initmode": "00",
+    "pupose": "00",
+    "credCode": "NPCI",
+    "txnNote": "SetOTPPin",
+    "refUrl": "http://www.unionbank.com",
+    "credType": "NUM",
+    "credValue": "2.3-v1.8|fxPvwm8ps77OKzrWj/GvZ9p0s9T1r+vipI/uVyvoE+z99ks2nRnjvjjbm1ZeLY1GZsqkYZ8MkBwjUij7lX3QigUk+uUmUDpEJLIIS6g0IMo3lyaq3H9DKdvB/oEtnbX50DomhIW9+In8h2SI9hyibio1pwqFCE7hDYPi58br1lbIAqnEU4u2ooa4BF5fG/ny0BtDoRICXnWYr88NGcSJcgvUvex/6AK63LhziZcU688jP4ifTPJMCCrNO9GBr2BKfvz7Ms/BsWBVBJkM85lubERo4ARGiA3jrb/9fXzMEOezJmb7M7ms0bwIYWFSfupzadxEZKWHl0DhkwNFYdrcJA==",
+    "balEnqType": "BalEnq",
+    "upiVer": "2.0",
+    "credKi": "20150822",
+    "credSubType": "MPIN",
+    "refId": "UBI74d9bd6f80ae40f38f79351f5ac0ac7b"
+}

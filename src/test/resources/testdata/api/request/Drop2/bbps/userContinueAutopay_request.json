@@ -1,0 +1,33 @@
+{
+    "billerid": "SGL000000GUJ01",
+    "short_name": "GasProvider12",
+    "authenticators": [
+        {
+            "parameter_name": "Customer ID",
+            "value": "500008431234"
+        }
+    ],
+    "autopay_status": "N",
+    "cif": "274309887",
+    "billerAccountId": "HGA2A4194AAAAAAANOAF",
+    "payment_account": {
+        "payment_method": "BankAccount",
+        "account_number": "569203030009075"
+    },
+    "customer": {
+        "mobile": "98XXX0XX00",
+        "email": "MXYXNXTXIXEXI@BILLDESK.COM"
+    },
+    "metadata": {
+        "agent": {
+            "agentid": "UN01UN02INB000000001",
+            "sub_agentid": null
+        },
+        "device": {
+            "init_channel": "InternetBanking",
+            "ip": "124.124.1.1",
+            "mac": "11-AC-58-21-1B-AA"
+        },
+        "additional_info": null
+    }
+}

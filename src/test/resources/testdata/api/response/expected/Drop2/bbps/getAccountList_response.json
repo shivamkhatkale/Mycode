@@ -1,0 +1,23 @@
+[
+  {
+    "bankLogoUrl": "https://hcl-dx-dev-haproxy.hcl-dx-dev.svc.cluster.local/wps/wcm/myconnect/805214a1-7bad-4982-a563-9331e5d5593a/ubihome_logo_without+backgroud.png?MOD=AJPERES",
+    "customerName": "JEETENDRA YADAV",
+    "acctNum": "134210028900002",
+    "acctType": "SBA",
+    "depositAmount": 0
+  },
+  {
+    "bankLogoUrl": "https://hcl-dx-dev-haproxy.hcl-dx-dev.svc.cluster.local/wps/wcm/myconnect/805214a1-7bad-4982-a563-9331e5d5593a/ubihome_logo_without+backgroud.png?MOD=AJPERES",
+    "customerName": "JEETENDRA YADAV",
+    "acctNum": "134210012000160",
+    "acctType": "SBA",
+    "depositAmount": 0
+  },
+  {
+    "bankLogoUrl": "https://hcl-dx-dev-haproxy.hcl-dx-dev.svc.cluster.local/wps/wcm/myconnect/805214a1-7bad-4982-a563-9331e5d5593a/ubihome_logo_without+backgroud.png?MOD=AJPERES",
+    "customerName": "JEETENDRA YADAV",
+    "acctNum": "117910012003125",
+    "acctType": "SBA",
+    "depositAmount": 4186362.39
+  }
+]

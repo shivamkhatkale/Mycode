@@ -1,0 +1,24 @@
+{
+  "data": {
+    "cif": "254061641",
+    "referenceNumber": "AA4835876",
+    "amount": 104,
+    "creditAccountNumber": "635302010012456",
+    "debitAccountNumber": "441002010058664",
+    "creditAccountName": null,
+    "debitAccountName": null,
+    "frequency": "YEARLY",
+    "mode": "WITHINBANK",
+    "numberOfTransfer": 6,
+    "initialNumberOfTransfers": null,
+    "remarks": "TEST RECURRING WITHINBANK",
+    "scheduleDate": null,
+    "scheduleType": "RECURRING",
+    "siStartDate": "2025-07-09T09:29:04.297",
+    "siEndDate": "2030-07-09T09:29:04.297",
+    "status": "SCHEDULED",
+    "trnxTimestamp": "2024-11-06T15:23:55.272830901"
+  },
+  "success": true,
+  "errorMessage": null
+}

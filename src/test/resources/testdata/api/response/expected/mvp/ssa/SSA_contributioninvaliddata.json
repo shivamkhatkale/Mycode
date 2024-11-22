@@ -1,0 +1,14 @@
+{
+    "errorId": "371c42d7-b619-416e-a7b4-f1f01df287e9",
+    "errorAt": "2024-08-01T14:09:13.17627674",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "ERR_GE_1999",
+            "message": "{\"errorId\": \"228f6188-eb51-41c3-af3e-014e56809c08\", \"errorAt\": \"2024-08-01 14:09:13\", \"errorLocation\": \"null\", \"errors\":[{\"code\":\"ERR_CU_00999\",\"message\":\"Technical error occurred while processing your request. Kindly try after some time.\"}]}",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

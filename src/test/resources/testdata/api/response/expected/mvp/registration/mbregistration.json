@@ -1,0 +1,7 @@
+{
+    "response": {
+        "message": "Perfect! Your SIM binding was successful.",
+        "migrated": false
+    },
+    "respcode": "201"
+}

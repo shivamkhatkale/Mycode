@@ -1,0 +1,10 @@
+{
+    "cif": "634920834",
+    "investmentContribution": {
+        "monthlyPensionAmt": "3000",
+        "contribFrequency": "Monthly"
+    },
+    "customer": {
+        "dob": "2000-01-01"
+    }
+}

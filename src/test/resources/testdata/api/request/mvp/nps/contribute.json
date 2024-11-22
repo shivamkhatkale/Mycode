@@ -1,0 +1,15 @@
+{
+  "cif": "634739412",
+  "applNum": "954214206402",
+  "source": {
+    "acctNum": "635302010013115"
+  },
+  "tier1contribution": {
+    "amount": "2000.00",
+    "remarks": "Tier 1 Contrbution Remarks Added"
+  },
+  "tier2contribution": {
+    "amount": "2000.00",
+    "remarks": "Tier 2 Contrbution Remarks Added"
+  }
+}

@@ -1,0 +1,4 @@
+{
+    "errorCode": null,
+    "errorMessage": "{\"timestamp\":\"2024-10-30T15:01:28.458+00:00\",\"status\":500,\"error\":\"Internal Server Error\",\"path\":\"/generalqueryservices/individualLoansCertificate\"}"
+}

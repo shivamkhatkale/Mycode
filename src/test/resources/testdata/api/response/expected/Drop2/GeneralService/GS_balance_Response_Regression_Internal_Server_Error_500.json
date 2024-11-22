@@ -1,0 +1,4 @@
+{
+    "errorCode": null,
+    "errorMessage": "{\"timestamp\":\"2024-09-26T13:36:33.528+00:00\",\"status\":500,\"error\":\"Internal Server Error\",\"path\":\"/generalqueryservices/balance\"}"
+}

@@ -1,0 +1,19 @@
+{
+    "schemeCode": "PMJJBY",
+    "cif": "29067463",
+    "applicationFormNumber": "551187075817",
+    "customerName": "exampleNameQwerty12345 exampleFatherOrHusbandName",
+    "accountNumber": "635303040000632",
+    "accountName": "exampleNameQwerty12345 exampleFatherOrHusbandName",
+    "dateOfBirth": "2013-01-01",
+    "date": "10-Jul-2024 12:14:25",
+    "bankName": "Union Bank Of India",
+    "schemeDetails": {
+        "coverStartDate": "2024-05-02",
+        "coverEndDate": "2024-05-02",
+        "sumAssured": 1000.00,
+        "premium": 100.00
+    },
+    "status": "CREATED",
+    "transRefNumber": null
+}

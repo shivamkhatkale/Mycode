@@ -1,0 +1,6 @@
+{
+    "timestamp": "2024-07-26T11:56:09.522+00:00",
+    "status": 405,
+    "error": "Method Not Allowed",
+    "path": "/v1/fund-transfer/manage-payee/get-payees"
+}

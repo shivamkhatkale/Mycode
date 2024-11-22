@@ -1,0 +1,35 @@
+{
+  "header_details": {
+    "service_provider_name": "Indian Highways Management Company Ltd FASTag"
+  },
+  "payment_details": {
+    "account_details": [
+      {
+        "bank_logo_url": "https://hcl-dx-dev-haproxy.hcl-dx-dev.svc.cluster.local/wps/wcm/myconnect/805214a1-7bad-4982-a563-9331e5d5593a/ubihome_logo_without+backgroud.png?MOD=AJPERES",
+        "account_holder_name": "JEETENDRA YADAV",
+        "account_type": "SBA",
+        "account_number": "134210028900002",
+        "depositAmount": 0
+      },
+      {
+        "bank_logo_url": "https://hcl-dx-dev-haproxy.hcl-dx-dev.svc.cluster.local/wps/wcm/myconnect/805214a1-7bad-4982-a563-9331e5d5593a/ubihome_logo_without+backgroud.png?MOD=AJPERES",
+        "account_holder_name": "JEETENDRA YADAV",
+        "account_type": "SBA",
+        "account_number": "134210012000160",
+        "depositAmount": 0
+      },
+      {
+        "bank_logo_url": "https://hcl-dx-dev-haproxy.hcl-dx-dev.svc.cluster.local/wps/wcm/myconnect/805214a1-7bad-4982-a563-9331e5d5593a/ubihome_logo_without+backgroud.png?MOD=AJPERES",
+        "account_holder_name": "JEETENDRA YADAV",
+        "account_type": "SBA",
+        "account_number": "117910012003125",
+        "depositAmount": 4188437.39
+      }
+    ],
+    "vehicle_number": "JH01QW5468",
+    "fastag_balance": 150,
+    "customer_name": "JEETENDRA YADAV",
+    "validationid": "HGE1VT55UW5Y2H0RLHEK",
+    "billerId": "INDI00000NATTR"
+  }
+}

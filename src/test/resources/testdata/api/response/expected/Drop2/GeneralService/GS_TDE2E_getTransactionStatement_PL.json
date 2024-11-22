@@ -1,0 +1,108 @@
+{
+    "totalTransactions": 10,
+    "transactions": {
+        "2024-02-07": [
+            {
+                "transactionparticular": "760106680000010:N Int.:07-01-2024 to 06-02-2024",
+                "amount": 11850.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S89622565",
+                "postedDateTime": "2024-02-07T06:32:34",
+                "balAmount": -1134695.13
+            }
+        ],
+        "2024-02-05": [
+            {
+                "transactionparticular": "EMIUBI/04022024/MUKESH KUMAR A",
+                "amount": 12700.0,
+                "creditDebitFlag": "C",
+                "transactionId": "S25251211",
+                "postedDateTime": "2024-02-05T17:47:26",
+                "balAmount": -1122845.13
+            }
+        ],
+        "2024-01-07": [
+            {
+                "transactionparticular": "760106680000010:N Int.:07-12-2023 to 06-01-2024",
+                "amount": 11859.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S24191492",
+                "postedDateTime": "2024-01-07T06:25:28",
+                "balAmount": -1135545.13
+            }
+        ],
+        "2024-01-04": [
+            {
+                "transactionparticular": "EMIUBI/04012024/MUKESH KUMAR A",
+                "amount": 12700.0,
+                "creditDebitFlag": "C",
+                "transactionId": "S14932276",
+                "postedDateTime": "2024-01-04T16:11:27",
+                "balAmount": -1123686.13
+            }
+        ],
+        "2023-12-07": [
+            {
+                "transactionparticular": "760106680000010:N Int.:07-11-2023 to 06-12-2023",
+                "amount": 11488.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S5683117",
+                "postedDateTime": "2023-12-07T06:04:20",
+                "balAmount": -1136386.13
+            }
+        ],
+        "2023-12-04": [
+            {
+                "transactionparticular": "EMIUBI/04122023/MUKESH KUMAR A",
+                "amount": 12700.0,
+                "creditDebitFlag": "C",
+                "transactionId": "S5062285",
+                "postedDateTime": "2023-12-04T16:32:27",
+                "balAmount": -1124898.13
+            }
+        ],
+        "2023-11-07": [
+            {
+                "transactionparticular": "760106680000010:N Int.:07-10-2023 to 06-11-2023",
+                "amount": 11880.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S12005185",
+                "postedDateTime": "2023-11-07T05:42:04",
+                "balAmount": -1137598.13
+            }
+        ],
+        "2023-11-04": [
+            {
+                "transactionparticular": "EMIUBI/04112023/MUKESH KUMAR A",
+                "amount": 12700.0,
+                "creditDebitFlag": "C",
+                "transactionId": "S7082296",
+                "postedDateTime": "2023-11-04T15:12:37",
+                "balAmount": -1125718.13
+            }
+        ],
+        "2023-10-07": [
+            {
+                "transactionparticular": "760106680000010:N Int.:07-09-2023 to 06-10-2023",
+                "amount": 11508.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S85687650",
+                "postedDateTime": "2023-10-07T06:13:47",
+                "balAmount": -1138418.13
+            }
+        ],
+        "2023-10-04": [
+            {
+                "transactionparticular": "EMIA/04.10.2023/MUKESH KUMAR A",
+                "amount": 12700.0,
+                "creditDebitFlag": "C",
+                "transactionId": "S83836810",
+                "postedDateTime": "2023-10-04T18:09:49",
+                "balAmount": -1126910.13
+            }
+        ]
+    },
+    "page": 0,
+    "size": 0,
+    "totalPages": 0
+}

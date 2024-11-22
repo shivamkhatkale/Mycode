@@ -1,0 +1,44 @@
+[
+    {
+        "atmId": "NMUM34011111111",
+        "branchName": null,
+        "city": "MUMBAI SUBURBAN",
+        "latitude": "19.08127",
+        "longitude": "72.88151",
+        "location": "LBSMARGKURLAWEST",
+        "address": "161/1-S, B WING, SANGAM APARTMENT, LBS MARG, KURLA WEST MUMBAI",
+        "distance": "0.7097171085411289",
+        "status": true,
+        "pincode": null,
+        "workingdays": "Monday to Sunday",
+        "workinghrs": "07:00am to 11:00pm"
+    },
+    {
+        "atmId": "NMUM32311111111",
+        "branchName": null,
+        "city": "MUMBAI SUBURBAN",
+        "latitude": "19.06274",
+        "longitude": "72.88168",
+        "location": "NEHRUNAGAR",
+        "address": "SHOP NO.1 NEHRU NAGAR S.G. BARVE MARG KURLA EAST MUMBAI MAHARASHTRA-400024",
+        "distance": "1.53262423101545",
+        "status": true,
+        "pincode": null,
+        "workingdays": "Monday to Sunday",
+        "workinghrs": "07:00am to 11:00pm"
+    },
+    {
+        "atmId": "WMUM42601111111",
+        "branchName": null,
+        "city": "MUMBAI SUBURBAN",
+        "latitude": "19.067369",
+        "longitude": "72.89398",
+        "location": "TILAKNAGAR",
+        "address": "shop no. 3, gr flr, bldg 66, dhananjay chs, chembur 3",
+        "distance": "1.9616859967431297",
+        "status": true,
+        "pincode": null,
+        "workingdays": "Monday to Sunday",
+        "workinghrs": "07:00am to 11:00pm"
+    }
+]

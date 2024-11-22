@@ -1,0 +1,14 @@
+{
+    "errorId": "e2a98216-007d-4da6-9126-fe0d021829c9",
+    "errorAt": null,
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "INTERNAL_ERROR",
+            "message": "Cannot invoke \"com.ubi.dbp.docstore.dataaccess.entity.DocStore.getDocPartKeyId()\" because \"doc\" is null",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

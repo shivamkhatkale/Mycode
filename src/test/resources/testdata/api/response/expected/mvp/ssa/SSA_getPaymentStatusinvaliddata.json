@@ -1,0 +1,14 @@
+{
+    "errorId": "8923b05c-04e2-4583-ba9e-5bfb311d5a19",
+    "errorAt": "2024-08-02T06:51:58.009170866",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "ERR_GE_1999",
+            "message": "{\"errorId\": \"731f35b5-21af-4fb5-969f-d15549ed1a8a\", \"errorAt\": \"2024-08-02 06:51:57\", \"errorLocation\": \"null\", \"errors\":[{\"code\":\"ERR_SS_00131\",\"message\":\"Please provide valid input to open the Sukanya Samriddhi account\"}]}",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

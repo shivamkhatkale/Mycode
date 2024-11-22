@@ -1,0 +1,13 @@
+{
+  "cif": "254061641",
+  "amount": 223,
+  "channel": "MOB",
+
+  "debitAccountNumber": "441002010058664",
+  "frequency": "YEARLY",
+  "mode": "NEFT",
+  "numberOfTransfer": 6,
+  "remarks": "TEST RECURRING NEFT",
+  "scheduleType": "RECURRING",
+  "siStartDate": "2025-06-05T09:33:50.534Z"
+}

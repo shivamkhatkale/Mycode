@@ -1,0 +1,16 @@
+{
+    "cif": "2005946706",
+    "journeyName": "TDA",
+    "subJourneyName": "FDSC",
+    "transactionDate": "2024-07-09T10:47:11.958",
+    "applicationFormNumber": "791934221819",
+    "channel": "",
+    "failureReason": "",
+    "journeyProgressName": "",
+    "journeyTask": "OPEN",
+    "journeyTaskRequestDate": "2024-07-09T05:17:11.961",
+    "remarks": "",
+    "transactionRefNumber": null,
+    "transactionStatus": false,
+    "journeyStatus": "DRAFT"
+}

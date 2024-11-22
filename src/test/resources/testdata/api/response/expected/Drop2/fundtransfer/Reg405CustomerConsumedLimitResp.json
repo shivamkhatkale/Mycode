@@ -1,0 +1,14 @@
+{
+    "errorId": "7c9321ed-a069-49ff-84e2-023072d4c740",
+    "errorAt": "2024-09-10T19:46:50.688483631",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "METHOD_NOT_ALLOWED",
+            "message": "405",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

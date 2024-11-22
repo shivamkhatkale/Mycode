@@ -1,0 +1,14 @@
+{
+  "errorId": "0c578153-261a-48cd-826a-5b6b05b3038d",
+  "errorAt": "2024-07-10T11:28:36.316430275",
+  "errorLocation": null,
+  "errors": [
+    {
+      "code": "400",
+      "message": "400 Bad Request from DELETE http://bbps-biller-management-service.biz-bbps-dev.svc.cluster.local:8080/bbps/UnlinkBiller/274309887/HGA2A4148AAAAAAAHNDR",
+      "values": null,
+      "origmesg": null,
+      "errors": null
+    }
+  ]
+}

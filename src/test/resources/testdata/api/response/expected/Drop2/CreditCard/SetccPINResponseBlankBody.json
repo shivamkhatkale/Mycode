@@ -1,0 +1,9 @@
+{
+    "errorId": "eeebb3fd-5d50-4833-9ece-e9a58d841676",
+    "errorAt": "2024-08-05T16:32:01.675436862",
+    "error": {
+        "code": "BAD_REQUEST",
+        "title": null,
+        "description": "required key [cardAmId] not found,  required key [ccAccountId] not found,  required key [ccPin] not found,  required key [cif] not found"
+    }
+}

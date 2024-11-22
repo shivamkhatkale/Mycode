@@ -1,0 +1,14 @@
+{
+  "errorId": "b5af1899-a388-4add-95a0-4ec162520f08",
+  "errorAt": "2024-07-10T11:28:12.207929508",
+  "errorLocation": null,
+  "errors": [
+    {
+      "code": "400",
+      "message": "500 Internal Server Error from POST http://bbps-dashboard-service.biz-bbps-sit.svc.cluster.local:8080/bbps/getDashboardDetails",
+      "values": null,
+      "origmesg": null,
+      "errors": null
+    }
+  ]
+}

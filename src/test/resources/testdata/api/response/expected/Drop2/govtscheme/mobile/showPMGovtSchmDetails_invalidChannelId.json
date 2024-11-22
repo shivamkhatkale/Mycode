@@ -1,0 +1,14 @@
+{
+    "errorId": "04d1e8e5-4fa6-49a7-ae64-b4cc4b293f40",
+    "errorAt": "2024-09-10T10:01:53.853160615",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "BAD_REQUEST",
+            "message": "channelId string [MJA] does not match pattern ^(BC|ATM|MB|EB|SMS|WHATSAPP|BRANCH|TAB|CSP|WEBSITE|MISSCALL|DBU)$",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

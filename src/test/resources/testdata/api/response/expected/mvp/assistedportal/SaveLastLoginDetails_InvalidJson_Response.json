@@ -1,0 +1,7 @@
+{
+    "timestamp": "2024-07-31T06:01:20.844+00:00",
+    "path": "/web/login-details/v1/save-last-login-details",
+    "status": 400,
+    "error": "Bad Request",
+    "requestId": "ac78d7f8-1061"
+}

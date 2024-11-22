@@ -1,0 +1,8 @@
+{
+    "timestamp": "2024-08-01T07:43:36.909+00:00",
+    "path": "/v1/fund-transfer/manage-payee/delete1",
+    "status": 404,
+    "error": "Not Found",
+    "message": null,
+    "requestId": "61e0ce37-306"
+}

@@ -1,0 +1,8 @@
+{
+    "timestamp": "2024-09-10T20:02:10.802+00:00",
+    "path": "/v1/fund-transfer/set-si1",
+    "status": 404,
+    "error": "Not Found",
+    "message": null,
+    "requestId": "fec97daa-6481"
+}

@@ -1,0 +1,23 @@
+{
+  "payment_details": {
+    "amount": "920",
+    "amount_in_words": "nine hundred twenty",
+    "payment_status": "PAID",
+    "payment_date_time": "2024-07-10T16:56:49"
+  },
+  "service_details": {
+    "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/TATASKY00NAT01.gif",
+    "service_provider_name": "1234",
+    "registered_number": "9028255474"
+  },
+  "transaction_details": {
+    "transaction_id": "723946973807",
+    "bbps_ref_no": "UN014192BAEAAAAAABAX",
+    "account_details": {
+      "bank_logo_url": "https://hcl-dx-dev-haproxy.hcl-dx-dev.svc.cluster.local/wps/wcm/myconnect/805214a1-7bad-4982-a563-9331e5d5593a/ubihome_logo_without+backgroud.png?MOD=AJPERES",
+      "account_holder_name": "JEETENDRA YADAV",
+      "account_number": "117910012003125",
+      "account_type": "SBA"
+    }
+  }
+}

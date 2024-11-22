@@ -1,0 +1,1 @@
+{"errorId":"db1ebfee-d386-444f-af13-5b85b1626cc4","errorAt":"2024-11-02T03:25:41.040704224","error":{"code":"BAD_REQUEST","title":null,"description":"ccAccountId expected minLength 1, actual 0, ccAccountId string [] does not match pattern ^[0-9]+$,  required key [txnType] not found"}}

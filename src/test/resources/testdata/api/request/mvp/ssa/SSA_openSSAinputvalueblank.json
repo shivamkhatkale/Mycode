@@ -1,0 +1,56 @@
+{
+    "cif": "       ",
+    "applNum":"          ",
+    "channel": "DBP",
+    "birthType": "F",
+    "birthOrder": "SECOND",
+    "source": {
+        "acctNum": "           "
+    },
+    "bankInfo": {
+        "address": {
+            "pinCode": "400049",
+            "addrLine1": "New medeline road",
+            "addrLine2": "Opp BKC drive",
+            "addrLine3": "Bandra",
+            "cityCode": "MUM",
+            "city": "Mumbai",
+            "stateCode": "MAH",
+            "state": "Maharashtra"
+        },
+        "branchId": "31790",
+        "branchSolId": "31790",
+        "branchName": "Shivansh Ka Ghar"
+    },
+    "customer": {
+        "cif": "274309887"
+    },
+    "beneficiary": {
+        "dob": "2021-02-20",
+        "fname": "Sampada",
+        "mname": "J",
+        "lname": "Smith",
+        "relShipId": "Father",
+        "isSameAddr":true,
+        "contactInfo": {
+            "postalAddr": {
+                "addrLine1": "New medeline road",
+                "addrLine2": "Opp BKC drive",
+                "addrLine3": "Bandra",
+                "pinCode": "400049",
+                "cityCode": "MUM",
+                "city": "Mumbai",
+                "stateCode": "MAH",
+                "state": "Maharashtra"
+            }
+        }
+    },
+    "declarationDetails": {
+        "declarationText": [
+            "I hereby declare the info is correct",
+            "I am FATCA complaint",
+            "Only one account is present for girl-child"
+        ],
+        "isAccepted": true
+    }
+}

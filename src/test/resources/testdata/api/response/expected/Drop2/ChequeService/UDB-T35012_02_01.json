@@ -1,0 +1,6 @@
+{
+    "error": {
+        "errorCode": null,
+        "errorMessage": "Transaction not permitted to card holder"
+    }
+}

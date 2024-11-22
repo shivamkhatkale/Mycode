@@ -1,0 +1,29 @@
+{
+    "opsStatus": "SUCCESS",
+    "transRefNumber": "199511619704",
+    "errorMessage": null,
+    "entity": {
+        "cif": "274309887",
+        "applNum": null,
+        "investmentContribution": {
+            "currFYContribAmt": null,
+            "contribAcctNum": "56920PPF000000000145",
+            "paymentType": null,
+            "tierType": null,
+            "invstPoolAcctNum": "317902840074000",
+            "invstPoolAcctBranchId": "00911",
+            "contribAmt": 500,
+            "penaltyAmt": null,
+            "remarks": null,
+            "paymentTxnId": null,
+            "channelTxnId": "588149314602",
+            "systemTxnId": null,
+            "paymentTxnStatus": null,
+            "systemTxnStatus": null,
+            "tranParticulars": null,
+            "paymentTxnDate": null,
+            "tranDate": null,
+            "systemTxnDate": null
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+   "errorId": "f3fa3b75-7eb9-4573-8e47-91e3fdbe4267",
+   "errorAt": "2024-08-16T13:51:56.102753011",
+   "errorLocation": null,
+   "errors": [   {
+      "code": "BAD_REQUEST",
+      "message": "Cannot invoke \"com.ubi.dbp.investment.model.DocUploadReqCmd.getDocTypeCode()\" because the return value of \"com.ubi.dbp.investment.model.DocumentReq.getDocUploadReq()\" is null",
+      "values": null,
+      "origmesg": null,
+      "errors": null
+   }]
+}

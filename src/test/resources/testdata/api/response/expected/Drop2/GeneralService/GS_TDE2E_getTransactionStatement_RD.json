@@ -1,0 +1,18 @@
+{
+    "totalTransactions": 1,
+    "transactions": {
+        "2023-09-23": [
+            {
+                "transactionparticular": "302903270000044  Int:991.00 and TAX:0.00.",
+                "amount": 991.0,
+                "creditDebitFlag": "C",
+                "transactionId": "S15824067",
+                "postedDateTime": "2023-09-23T10:38:30",
+                "balAmount": 26557.00
+            }
+        ]
+    },
+    "page": 0,
+    "size": 0,
+    "totalPages": 0
+}

@@ -1,0 +1,14 @@
+{
+    "errorId": "a4a7a512-d235-4a9d-bd11-6e4d2964c216",
+    "errorAt": "2024-09-10T14:26:44.596674062",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "AC005",
+            "message": "No active Savings Account",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

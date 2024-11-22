@@ -1,0 +1,7 @@
+{
+    "timestamp": "2024-09-10T11:54:59.200+00:00",
+    "path": "/v1/fund-transfer/manage-payee/get-fev-transactions",
+    "status": 400,
+    "error": "Bad Request",
+    "requestId": "fdc13704-5990"
+}

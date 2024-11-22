@@ -1,0 +1,11 @@
+{
+    "response": {
+        "mechanism": "urn:ibm:security:authentication:asf:mechanism:macotp",
+        "stateId": "0OugsDKM7zM2kDixjqqcfWERIeRDXchaArkDjKuio0L0qasdpljKsp8muWNWYqQeELFu4HPTapGEMroZegAUUYEu6zXjsGSPlF8F9L7qUG60qdDCrfdqajgp34ggH1Bu",
+        "location": "/mga/sps/apiauthsvc/policy/generateverifyotp?StateId=0OugsDKM7zM2kDixjqqcfWERIeRDXchaArkDjKuio0L0qasdpljKsp8muWNWYqQeELFu4HPTapGEMroZegAUUYEu6zXjsGSPlF8F9L7qUG60qdDCrfdqajgp34ggH1Bu",
+        "hint": "7962",
+        "sentTo": "",
+        "mappingRuleData": ""
+    },
+    "respcode": "200"
+}

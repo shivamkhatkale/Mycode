@@ -1,0 +1,92 @@
+{
+    "ongoingIpoResponseList": [
+        {
+            "name": "EQUITAS HOLDINGS LIMITED",
+            "symbol": "EQUITAS",
+            "floorprice": "1.00",
+            "ceilingprice": "5.00",
+            "minbidqty": "1",
+            "closedate": "2024-09-29 17:30:00",
+            "opendate": "2023-12-18 18:30:00",
+            "issuesize": "197880429.0000",
+            "categories": [
+                {
+                    "minvalue": "1.0000",
+                    "maxValue": "200000.0000",
+                    "discounttype": "3",
+                    "discountvalue": "0.1000",
+                    "name": "Employees",
+                    "category": "EMP"
+                },
+                {
+                    "minvalue": "1.0000",
+                    "maxValue": "1450000070.0000",
+                    "discounttype": "2",
+                    "discountvalue": "1.0000",
+                    "name": "Retail Individual Investors",
+                    "category": "IND"
+                },
+                {
+                    "minvalue": "200001.0000",
+                    "maxValue": "21766847190.0000",
+                    "discounttype": "1",
+                    "discountvalue": "0.0000",
+                    "name": "Non Institutional Investors",
+                    "category": "NOH"
+                },
+                {
+                    "minvalue": "1.0000",
+                    "maxValue": "500000.0000",
+                    "discounttype": "1",
+                    "discountvalue": "0.0000",
+                    "name": "Policy Holders",
+                    "category": "POL"
+                },
+                {
+                    "minvalue": "1.0000",
+                    "maxValue": "200000.0000",
+                    "discounttype": "1",
+                    "discountvalue": "0.0000",
+                    "name": "Eligible ShareHolders",
+                    "category": "SHA"
+                }
+            ]
+        },
+        {
+            "name": "orientech",
+            "symbol": "ORIENTTECH",
+            "floorprice": "195",
+            "ceilingprice": "206",
+            "minbidqty": "72",
+            "closedate": "2024-10-10 00:00:00",
+            "opendate": "2024-09-30 00:00:00",
+            "issuesize": "10753846",
+            "categories": [
+                {
+                    "minvalue": "234567777",
+                    "maxValue": "2345678888",
+                    "discounttype": "3",
+                    "discountvalue": "10",
+                    "name": "Employees",
+                    "category": "EMP"
+                },
+                {
+                    "minvalue": "234567777",
+                    "maxValue": "2345678888",
+                    "discounttype": "2",
+                    "discountvalue": "22",
+                    "name": "Retail Individual Investors",
+                    "category": "IND"
+                },
+                {
+                    "minvalue": "234567777",
+                    "maxValue": "2345678888",
+                    "discounttype": "1",
+                    "discountvalue": "0",
+                    "name": "Non Institutional Investors",
+                    "category": "NOH"
+                }
+            ]
+        }
+    ]
+}

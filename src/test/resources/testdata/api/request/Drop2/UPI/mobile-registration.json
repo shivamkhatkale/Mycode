@@ -1,0 +1,84 @@
+{
+	"cif":"29087674",
+    "customerId": "919713373552",
+    "card": "",
+    "expiry": "",
+    "txnId": "UBIc00ac1cefbca4ffa9ca27004de993910",
+    "ac": {
+        "name": "BHUPENDRA SINGH SO KAMAN SINGH",
+        "accRefNumber": "411602011005609",
+        "type": "SAVINGS",
+        "ifsc": "UBIN0556688",
+        "atmpinlength": "4",
+        "otpLength": "6",
+        "isDefault": "N",
+        "vpa": "bhupendra.singh@unionbankofindia"
+    },
+    "device": {
+        "mobile": "919713373552",
+        "location": "Hyderabad,Hyderabad,India",
+        "type": "MOB",
+        "id": "be6fc24c578d0ccb",
+        "os": "android",
+        "app": "com.ibm.uboinpci",
+        "ip": "10.0.0.0",
+        "capability": "5245454545242454542454545445",
+        "geocode": "17.5194149,78.4835413"
+    },
+    "cardcred": {
+        "data": {
+            "code": "NPCI",
+            "encryptedBase64String": "2.3-v1.8|r/Vz0gyib2c19zRG+OKC9y+FfMWV/lwxm0h66gHe0ncI78OcTA9PSnfa76qtEZdZlilslUbor7ocyBMbawFePeX+pQh5KnCC+do/+y+o9KhYABJ8GDBdVUoDUmEhZdR4Di55yOAc0YY9hRLijiZfLklfD7/Zxl6MTuIvz7EPIv3KV6O+7ogzP8HszuDMOsYZOf4YeByMY/Bjwsz9axnwg6e+bVqf74XOdgKM1algSIsvLyg7upqEivWRiOmF9pGaCE4T5UG7mWzo8VpUM0AafJzM4FvIErxHYkGzNlmWDwjz1ryXsbvBfTHdEXJvOf1BtxFjYWPaYdUUMrk7IhyjEA==",
+            "hmac": null,
+            "ki": "20150822",
+            "oda": null,
+            "pid": null,
+            "skey": null,
+            "type": null
+        },
+        "subType": "CARDDETAILS",
+        "type": "CARD"
+    },
+    "otpcred": {
+        "data": {
+            "code": "NPCI",
+            "encryptedBase64String": "2.3-v1.8|AaePRXZlj3KWjuAknd1+El6LJotKvGaCnH546OZgrvc3z1MjwvFdyqKWtr2+KpCtCcpf3AibrWGfLwdsPT2nI390X9eO8ebP+8TD5arLUokcdWNBtdC3Pr9BBgueWdCKxSNsRbX5w3Yuwp1cdhn7GswFn7MFiIuphugTFbwUjs+wDrtiJG7YzAHGVZWy7ztVZhegHvC4e+cl0KDkdjPGG8D2LYDGi+0hjJbURp2yA+zziq/Z4nouvTgYiJG/GGn7x9MfNfs4oYpAD+7BonW05YnSUSRec4nCAiL5BhpQm2z6SjnDbhKTsSGSQorfx4n/uB8rlebXjtjZpmq8qTIrnw==",
+            "hmac": null,
+            "ki": "20150822",
+            "oda": null,
+            "pid": null,
+            "skey": null,
+            "type": null
+        },
+        "subType": "SMS",
+        "type": "OTP"
+    },
+    "mpincred": {
+        "data": {
+            "code": "NPCI",
+            "encryptedBase64String": "2.3-v1.8|VkUm+Pj7MOuKKHq1qxHxIuqIO6Wp9yW5cTFW/4Yu0jzdNPZTjtKFjVug7UfyH76UrWZ4ZlVdGONeYolcfy+JRxcHI+H3SrpFCfRZSBSn7FExCfXQPwfMmwylIqWhkz36ODqb6OPb0EfO+z44wJanr7TiVCb4Jb78wPAS2xPOshKbhO397xQiRJCXy7r8oFySRnrcDRbCi3YkojdXW++Uo9wwIOuSWzcz5MhQ90N4RfHE37OsHBaztGq28S2DQTX3itWgHlOgNazzby32ax1qQU5sAs3dCu2fXZ7IPj/y/xf1pahH1Rjd0kjdAeUZlcWK1C9ygNlzr2fHHipnGuIlmw==",
+            "hmac": null,
+            "ki": "20150822",
+            "oda": null,
+            "pid": null,
+            "skey": null,
+            "type": null
+        },
+        "subType": "MPIN",
+        "type": "PIN"
+    },
+    "atmpincred": {
+        "data": {
+            "code": "NPCI",
+            "encryptedBase64String": "2.3-v1.8|itMRHtGc5jp9u38Y0+CbnlJVzUfiZdcB7OTk4r6rDYaYQKRufBa+DXa7JEZHDgqAT8nZWYObdnV+pEA0o3wLskd5WUpPJtMAHAyb16OH3AzA4gDVy9ppzQmysu1JziQ4LePVdB1hU8n2NxXiNjdiAOQvnBXIt2CE9UIZ/fZr9S2GL3bXECoVxaSW3xYyiXKrR+EfzHTJEYdlLCgEmrkbw3kPXm48nd1MOQ/8KskxKUeTff88vy2j1J9j/lFgVT05iHwZP8PpGCU22dCX+WiWbG3aVWq/XL1LpTqbbvWQ3A/l2fpjNMu6+Kb8/81nO3tVqdiYhXUd1vZqstTqUZ2Ehg==",
+            "hmac": null,
+            "ki": "20150822",
+            "oda": null,
+            "pid": null,
+            "skey": null,
+            "type": null
+        },
+        "subType": "ATMPIN",
+        "type": "PIN"
+    }
+}

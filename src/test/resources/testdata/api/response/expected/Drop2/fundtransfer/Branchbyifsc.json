@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "ifscCode": "INDB0000213",
+      "activeFlag": true,
+      "bankName": "INDUS IND BANK LTD",
+      "branchCity": ".",
+      "branchName": "BOMMASSANDRA",
+      "branchState": ".",
+      "id": "91bb3653-dc0f-4c9f-aae4-974978cd96d4",
+      "unionBankFlag": null
+    }
+  ],
+  "errorDetails": null,
+  "success": true
+}

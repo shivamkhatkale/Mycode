@@ -1,0 +1,16 @@
+{
+    "ci": "46395174",
+    "applNum": "442980654275",
+    "source": {
+        "acctNum": "000110100088801"
+    },
+    "tier1contribution": {
+        "amount": "700.00",
+        "pran": "110004835320",
+        "remarks": "Tier 1 Contrbution Remarks Added"
+    },
+    "tier2contribution": {
+        "amount": null,
+        "remarks": null
+    }
+}

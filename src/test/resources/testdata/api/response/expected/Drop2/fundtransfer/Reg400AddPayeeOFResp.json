@@ -1,0 +1,9 @@
+{
+  "data": null,
+  "errorDetails": {
+    "timestamp": "2024-11-06T12:08:54.739+00:00",
+    "message": "ACCT_NOT_INIT",
+    "details": "Account is not initialized."
+  },
+  "success": false
+}

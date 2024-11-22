@@ -1,0 +1,1 @@
+{"errorId":"1d6e6a95-6e67-48d5-9bb3-d26e6965b1db","errorAt":"2024-11-01T13:12:02.111865104","errorLocation":null,"errors":[{"code":"BAD_REQUEST","message":"applicationFormNumber expected minLength 1, actual 0, accountNumber expected minLength 1, actual 0","values":null,"origmesg":null,"errors":null}]}

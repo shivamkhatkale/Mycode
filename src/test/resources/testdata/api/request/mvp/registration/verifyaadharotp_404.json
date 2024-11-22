@@ -1,0 +1,9 @@
+{
+  "cif": "634743269",
+  "aadharnumber": "284203767239",
+  "aadharotp": "000000",
+  "allowedfailure": 3,
+  "blockinghours": 24,
+  "txn": "000032",
+  "communicationId": "test"
+}

@@ -1,0 +1,44 @@
+{
+    "pfmSchemeDetails": [
+        {
+            "activeFlag": true,
+            "channel": "NA",
+            "id": "5cba5a9b-2647-4c96-b1e7-eb0a45b0ff9d",
+            "pfmId": "PFM003",
+            "schemeId": "SM003005",
+            "schemeName": "LIC Pension Fund Scheme E - Tier I",
+            "schemetype": "E",
+            "tierType": "TIER I"
+        },
+        {
+            "activeFlag": true,
+            "channel": "NA",
+            "id": "df6ebe2d-5b83-4969-bb08-c9ffd4aef3cb",
+            "pfmId": "PFM003",
+            "schemeId": "SM003006",
+            "schemeName": "LIC Pension Fund Scheme C - Tier I",
+            "schemetype": "C",
+            "tierType": "TIER I"
+        },
+        {
+            "activeFlag": true,
+            "channel": "NA",
+            "id": "8471c950-7fde-4f83-9550-32b85a04a731",
+            "pfmId": "PFM003",
+            "schemeId": "SM003007",
+            "schemeName": "LIC Pension Fund Scheme G - Tier I",
+            "schemetype": "G",
+            "tierType": "TIER I"
+        },
+        {
+            "activeFlag": true,
+            "channel": "NA",
+            "id": "d5a91390-efea-4927-b3ac-c285e7abadb8",
+            "pfmId": "PFM003",
+            "schemeId": "SM003012",
+            "schemeName": "LIC Pension Fund Scheme A - Tier I",
+            "schemetype": "A",
+            "tierType": "TIER I"
+        }
+    ]
+}

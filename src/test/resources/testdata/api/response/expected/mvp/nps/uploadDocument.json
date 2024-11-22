@@ -1,0 +1,17 @@
+{
+    "entity": {
+        "remarks": "Nps Doc",
+        "documents": [
+            {
+                "docRefno": "23088867983808",
+                "name": "23088867983808",
+                "type": "photo",
+                "url": "46395174/NPS/402996410153_POI_photo.jpeg"
+            }
+        ]
+    },
+    "opsStatus": "SUCCESS",
+    "transRefNumber": null,
+    "applicationFrmNum": "402996410153",
+    "errors": null
+}

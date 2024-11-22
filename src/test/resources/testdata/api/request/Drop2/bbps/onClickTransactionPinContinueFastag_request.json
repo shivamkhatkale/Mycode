@@ -1,0 +1,26 @@
+{
+  "cif": "04989529",
+  "solId": "11791",
+  "customerParamName": "Vehicle Registration Number",
+  "device": {
+    "ip": "124.124.1.1",
+    "mac": "11-AC-58-21-1B-AA"
+  },
+  "payment_details": {
+    "amount": 1000,
+    "validationid": "HGE1VT5EAN38PNK4X5HT",
+    "billerid": "INDI00000NATTR",
+    "service_provider_name": "Indian Highways Management Company Ltd FASTag",
+    "vehicle_number": "JH01QW5468",
+    "fastag_balance": 298,
+    "customer_name": "JEETENDRA YADAV",
+    "account_details": {
+      "bank_logo_url": "image_url",
+      "account_holder_name": "JEETENDRA YADAV",
+      "account_type": "Saving Account",
+      "account_number": "117910012003125"
+    }
+  },
+  "terms_conditions_accepted": true,
+  "transaction_pin": 1234
+}

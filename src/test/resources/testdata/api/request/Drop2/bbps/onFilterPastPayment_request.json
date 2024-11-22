@@ -1,0 +1,21 @@
+{
+  "biller_category": [
+    "Utilities",
+    "Internet",
+    "Mobile",
+    "Insurance"
+  ],
+  "amount_range": [
+    {
+      "min": 900,
+      "max": 1000
+    }
+  ],
+  "date": [
+    {
+      "min": "07-07-2024",
+      "max": "08-07-2024"
+    }
+  ],
+  "cif": "04989529"
+}

@@ -1,0 +1,8 @@
+{
+  "timestamp": "2024-09-05T05:32:27.242+00:00",
+  "path": "/app/invst/nps/api/v1/downloadNPSStateme",
+  "status": 404,
+  "error": "Not Found",
+  "message": null,
+  "requestId": "c318c13f-1317"
+}

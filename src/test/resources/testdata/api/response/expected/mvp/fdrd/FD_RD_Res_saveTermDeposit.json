@@ -1,0 +1,15 @@
+{
+    "opsStatus": "SUCCESS",
+    "transRefNumber": "300825172770",
+    "applicationFrmNum": "807033613056",
+    "entity": {
+        "depositStatus": "DRAFT",
+        "depositAmount": 90000,
+        "interestRate": 6.5,
+        "maturityAmount": 90000,
+        "maturityDate": null,
+        "interestPayoutType": "Maturity",
+        "interestPayoutAmount": 8.00
+    },
+    "errorMessage": null
+}

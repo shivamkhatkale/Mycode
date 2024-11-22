@@ -1,0 +1,14 @@
+{
+    "errorId": "243988e8-20d5-465d-b694-983df0af21a6",
+    "errorAt": "2024-07-31T05:33:39.834253989",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "500 INTERNAL_SERVER_ERROR",
+            "message": "405 METHOD_NOT_ALLOWED \"Request method 'GET' is not supported.\"",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

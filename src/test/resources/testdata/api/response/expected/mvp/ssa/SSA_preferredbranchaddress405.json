@@ -1,0 +1,7 @@
+{
+    "timestamp": "2024-07-24T10:01:33.500+00:00",
+    "path": "/master/findBranch",
+    "status": 405,
+    "error": "Method Not Allowed",
+    "requestId": "d06166b1-12029"
+}

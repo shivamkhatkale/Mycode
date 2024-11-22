@@ -1,0 +1,14 @@
+{
+  "errorId": "faeea342-9f80-4afc-8dda-56cda13d01f4",
+  "errorAt": "2024-07-10T11:28:05.06273872",
+  "errorLocation": null,
+  "errors": [
+    {
+      "code": "400",
+      "message": "400 Bad Request from GET http://bbps-biller-management-service.biz-bbps-sit.svc.cluster.local:8080/bbps/GetBillerAccount/274309887/HGA2A4148AAAAAAAHNDR",
+      "values": null,
+      "origmesg": null,
+      "errors": null
+    }
+  ]
+}

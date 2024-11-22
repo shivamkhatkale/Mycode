@@ -1,0 +1,12 @@
+{
+    "debitAccount": "441002010058664",
+    "cif": "254061641",
+    "accountType": "SBA",
+    "creditAccount": "10122SSA000000000006",
+    "solId": "44100",
+    "trnxType": "FUNDTRANSFER",
+    "payeeName" : "Sandesh Sanjay Desai",
+    "amount":1000,
+    "remarks": "Testing account",
+    "quickTransfer": true
+}

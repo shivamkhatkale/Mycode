@@ -1,0 +1,9 @@
+{
+    "data": null,
+    "errorDetails": {
+        "timestamp": "2024-09-10T13:37:49.492+00:00",
+        "message": "CUST_NOT_INIT",
+        "details": "Customer id is empty or not valid"
+    },
+    "success": false
+}

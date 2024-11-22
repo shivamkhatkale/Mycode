@@ -1,0 +1,16 @@
+{
+    "schemeCode": "PMJJBY",
+    "cif": "29067463",
+    "applicationFormNumber": "551187075817",
+    "transactionId": null,
+    "customerName": null,
+    "accountNumber": "635303040000632",
+    "schemeDetails": {
+        "coverStartDate": "2024-05-02",
+        "coverEndDate": "2024-05-02",
+        "sumAssured": 1000.00,
+        "premium": 100.00
+    },
+    "certificateName": "PMJJBY Certificate.pdf",
+    "certificateIndicator": false
+}

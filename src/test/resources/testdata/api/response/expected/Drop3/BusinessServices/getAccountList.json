@@ -1,0 +1,2210 @@
+[
+    {
+        "id": "1",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000837",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.9608661E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.9608661E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000844",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.9545106E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.9545106E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000949",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 5002513.0
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 5002513.0
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000901",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.01672346E8
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.01672346E8
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000783",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.04276776E8
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.04276776E8
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000855",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.9481552E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.9481552E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "545803030011019",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 2.0099116E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 2.0099116E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "545803030005903",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 9416256.0
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 9416256.0
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000325",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.2554443E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.2554443E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "545803030011887",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.9137432E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.9137432E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "accountType": "CCA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "503405010030030",
+        "scheme": {
+            "type": "CCA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": -1.993519495E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 64805.05
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "545803030011295",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.9952759E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.9952759E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000854",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.9495676E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.9495676E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000896",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.9286425E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.9286425E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "15",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000659",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 2.0002764E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 2.0002764E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "16",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000798",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.9658493E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.9658493E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "17",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000477",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.105811E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 263972.0
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "18",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "401603030150286",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 9037932.0
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1492932.0
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "19",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "503403030001382",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.1635679E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.1635679E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "20",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000944",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.6530401E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 30401.0
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "21",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000479",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.1056626E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 263891.0
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "22",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000841",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.956276E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.956276E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "23",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "545803030011885",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.9140597E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.9140597E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "24",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000495",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.6443052E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 392171.0
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "25",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000842",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.955923E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.955923E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "26",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "503403030001385",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.1635778E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.1635778E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "27",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "545803030011880",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.9143763E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.9143763E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "28",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000948",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.0008375E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.0008375E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "29",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000852",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.9502737E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.9502737E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "30",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000871",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.0213336E8
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.0213336E8
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "31",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000540",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.6167273E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.6167273E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "32",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "401603030150280",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.1631774E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.1631774E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "33",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000732",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.5666913E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.5666913E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "34",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "545803030011876",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.01577627E8
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.01577627E8
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "35",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "503403030001384",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.1635779E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.1635779E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "37",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000516",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.6359206E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.6359206E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "36",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "503403030001387",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 6464267.0
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1409817.0
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "38",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "545803030005901",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 9416258.0
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 5518702.0
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "39",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000795",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.9665657E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.9665657E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "40",
+        "accountType": "CAA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "545801010050656",
+        "scheme": {
+            "type": "CAA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 87984.85
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 87984.85
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "41",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000894",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.9296132E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.9296132E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "42",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "401603030150287",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 9037933.0
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1975204.4
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "43",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "545803030011799",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.0226246E8
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.0226246E8
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "44",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000851",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.9509799E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.9509799E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "45",
+        "accountType": "CAA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "503401010031061",
+        "scheme": {
+            "type": "CAA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 259132.95
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 259132.95
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "46",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000796",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.9662075E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.9662075E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "47",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000494",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.6445258E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 392293.0
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "48",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "545803030011305",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.9942757E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.9942757E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "49",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000483",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.1053652E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 263726.0
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "50",
+        "accountType": "CAA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "300801010521082",
+        "scheme": {
+            "type": "CAA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 106559.89
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 106559.89
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "51",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "401603030150278",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.1633724E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.1633724E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "52",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000327",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.2546409E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.2546409E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "53",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000515",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.6368032E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 390102.0
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "54",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "545803030011839",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 2.0213549E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 2.0213549E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "55",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000475",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.1080136E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.1080136E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "56",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000838",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.9594537E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.9594537E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "57",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "401603030150294",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 7098887.0
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1598887.0
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "58",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000794",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.9672822E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.9672822E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "59",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "545803030011022",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.5865431E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.5865431E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "60",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "401603030149923",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 6836282.0
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 204147.0
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "61",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000501",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.6416573E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 390705.0
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "62",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000900",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.01678577E8
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.01678577E8
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "63",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000658",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 2.000943E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 2.000943E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "64",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "503403030001383",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.163568E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.163568E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "65",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000848",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.9538045E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.9538045E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "66",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000840",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.9587476E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.9587476E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "67",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "545803030011835",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.01961274E8
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.01961274E8
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "68",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "545803030011888",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.91311E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.91311E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "69",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000731",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.5675396E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.5675396E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "70",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "545803030005902",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 9416260.0
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 9416260.0
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "71",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "545803030005905",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 9416257.0
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1416257.0
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "72",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000511",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.0923788E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 260720.0
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "73",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000538",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.0795945E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.0795945E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "74",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "401603030150293",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 7098885.0
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1598885.0
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "75",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "545803030005904",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 9416263.0
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 9416263.0
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "76",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000866",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.02358712E8
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.02358712E8
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "77",
+        "accountType": "CAA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "567701010050086",
+        "scheme": {
+            "type": "CAA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 979007.15
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 979007.15
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "78",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000857",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.9470961E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.9470961E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "80",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "545803030011304",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.9946089E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.9946089E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "79",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000481",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.1055138E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 263808.0
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "81",
+        "accountType": "CAA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "391701010029093",
+        "scheme": {
+            "type": "CAA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 419969.24
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 419969.24
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "83",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000500",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.641878E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 390828.0
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "82",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000326",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.2550425E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.2550425E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "84",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000525",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.6265115E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.6265115E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "85",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000524",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.627818E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.627818E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "86",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "401603030150289",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 9036441.0
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1561263.8
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "87",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "401603030150279",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.1633731E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.1633731E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "88",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000895",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.9292897E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.9292897E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "89",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "545803030011016",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 2.0099115E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 2.0099115E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "90",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "545803030005900",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 9416283.0
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 9416283.0
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "91",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "503403030001386",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 1.163578E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 1.163578E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    },
+    {
+        "id": "92",
+        "accountType": "TDA",
+        "name": "S K SAMANTA AND COMPANY PVT LTD",
+        "panNumber": "AAECS4244F",
+        "acctNum": "688403030000647",
+        "scheme": {
+            "type": "TDA"
+        },
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 2.0022766E7
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 2.0022766E7
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.0
+            }
+        ]
+    }
+]

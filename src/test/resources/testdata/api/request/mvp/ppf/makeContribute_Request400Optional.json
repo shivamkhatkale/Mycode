@@ -1,0 +1,15 @@
+{
+    "referenceNum": null,
+    "rqType": "CONTRIBUTION",
+    "cif": "",
+    "source": {
+        "acctNum": ""
+    },
+    "customer": {
+        "cif": ""
+    },
+    "investmentContribution": {
+        "contribAmt": 500,
+        "contribAcctNum": ""
+    }
+}

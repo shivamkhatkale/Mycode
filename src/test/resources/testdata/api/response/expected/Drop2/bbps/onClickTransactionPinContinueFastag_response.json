@@ -1,0 +1,24 @@
+{
+  "payment_details": {
+    "amount": "1000",
+    "amount_in_words": "one thousand",
+    "payment_status": "PENDING",
+    "payment_date_time": "2024-07-10T16:55:23",
+    "balance": ""
+  },
+  "service_details": {
+    "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/INDI00000NATTR.gif",
+    "service_provider_name": "Indian Highways Management Company Ltd FASTag",
+    "vehicle_number": "JH01QW5468"
+  },
+  "transaction_details": {
+    "transaction_id": "292304155047",
+    "bbps_ref_no": "",
+    "account_details": {
+      "bank_logo_url": "https://hcl-dx-dev-haproxy.hcl-dx-dev.svc.cluster.local/wps/wcm/myconnect/805214a1-7bad-4982-a563-9331e5d5593a/ubihome_logo_without+backgroud.png?MOD=AJPERES",
+      "account_holder_name": "JEETENDRA YADAV",
+      "account_number": "117910012003125",
+      "account_type": "Saving Account"
+    }
+  }
+}

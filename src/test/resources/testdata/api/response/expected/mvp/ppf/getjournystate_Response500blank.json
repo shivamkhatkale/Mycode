@@ -1,0 +1,14 @@
+{
+    "errorId": "63f23e11-82b8-4ff4-a4d2-ccee3e6ec76d",
+    "errorAt": "2024-08-01T14:11:10.441465782",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "ERR_GE_1999",
+            "message": "415 UNSUPPORTED_MEDIA_TYPE \"Content type 'application/octet-stream' not supported for bodyType=com.ubi.dbp.deposits.bff.dto.TDJourneyStateReq\"",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "errorId": "9dc321d9-cbdb-4b7d-8c10-6c100b2faa91",
+    "errorAt": null,
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "INVALID_CONTRIBUTION_AMT",
+            "message": "Minimum deposit amount allowed is Rs. 500",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

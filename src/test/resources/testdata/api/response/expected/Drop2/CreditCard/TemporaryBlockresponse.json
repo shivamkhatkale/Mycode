@@ -1,0 +1,11 @@
+
+
+{
+  "errorId": "751a187d-fb03-458c-81ab-8cbf8ef284e5",
+  "errorAt": "2024-10-30T10:32:02.821942552",
+  "error": {
+    "code": "BAD_REQUEST",
+    "title": null,
+    "description": "txnStat expected minLength 1, actual 0, txnStat string [] does not match pattern (ON|OFF), ccAccountId expected minLength 1, actual 0, ccAccountId string [] does not match pattern ^[0-9]+$"
+  }
+}

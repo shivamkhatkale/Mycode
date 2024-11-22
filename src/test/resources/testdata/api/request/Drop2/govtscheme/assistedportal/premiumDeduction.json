@@ -1,0 +1,12 @@
+{
+    "schemeCode": "PMJJBY",
+    "accountNumber": "635303040000632",
+    "cif": "29067463",
+    "applicationFormNumber": "551187075817",
+    "urn": "JNS-PMJJBY-23-24-00000004219-531",
+    "globalTrxnId": "abcd123",
+    "channelId": "BRANCH",
+    "transactionAmount": "123",
+    "branchCode": "1234567",
+    "email":"a"
+}

@@ -1,0 +1,1 @@
+{"errorId":"610b71ff-e5b7-4c5b-b08f-c95b9827812b","errorAt":"2024-11-01T05:42:30.154147837","error":{"code":"BAD_REQUEST","title":null,"description":"debitAccount expected minLength 1, actual 0, solId expected minLength 5, actual 0, solId string [] does not match pattern \\d{5}, ccAccountId expected minLength 1, actual 0,  required key [amount] not found"}}

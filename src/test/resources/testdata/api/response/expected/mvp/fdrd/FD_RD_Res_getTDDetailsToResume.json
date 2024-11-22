@@ -1,0 +1,61 @@
+{
+    "source": {
+        "cif": "2005946706",
+        "acctNum": "520101041229211",
+        "name": "SAMPADA NARESH WADKAR"
+    },
+    "cif": "2005946706",
+    "acctNum": null,
+    "name": null,
+    "scheme": {
+        "type": "TDA",
+        "code": "TD003",
+        "name": "DRIC Scheme"
+    },
+    "applicationFrmNum": "862508924347",
+    "subType": "FDSC",
+    "depositStatus": "DRAFT",
+    "subTypeCode": "Regular_FD",
+    "maturityAmount": 12445.00,
+    "depositAmount": 1000,
+    "interestRate": 6.75,
+    "depositTerm": {
+        "year": 0,
+        "month": 12,
+        "day": 0
+    },
+    "startDate": null,
+    "rdSiStartDate": null,
+    "maturityDate": null,
+    "interestPayoutType": "Maturity",
+    "interestPayoutAmount": 8.00,
+    "transRefNumber": "579027964556",
+    "renewalDtls": {
+        "maturityInstruction": "Closure",
+        "maturityIndicator": ""
+    },
+    "operatingInstruction": "Sole_Ownership",
+    "nominee": [
+        {
+            "relShipId": "Brother",
+            "minor": false,
+            "fname": "vikas k",
+            "mname": "",
+            "lname": "",
+            "dob": "2020-02-06",
+            "sameAddr": false,
+            "contactInfo": {
+                "postalAddr": {
+                    "addrLine1": "dfsdaffd",
+                    "addrLine2": "sssss",
+                    "addrLine3": "sss",
+                    "addrLine4": "",
+                    "pinCode": "421501",
+                    "cityCode": "am berna",
+                    "stateCode": "thane"
+                }
+            },
+            "guardian": null
+        }
+    ]
+}

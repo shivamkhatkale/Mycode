@@ -1,0 +1,6 @@
+{
+    "error": {
+        "errorCode": null,
+        "errorMessage": "Duration between start date and end date should not be more than 366 days"
+    }
+}

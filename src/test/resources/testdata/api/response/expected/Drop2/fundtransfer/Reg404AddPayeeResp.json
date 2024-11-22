@@ -1,0 +1,8 @@
+{
+    "timestamp": "2024-09-09T14:10:00.548+00:00",
+    "path": "/v1/fund-transfer/manage-payee/add1",
+    "status": 404,
+    "error": "Not Found",
+    "message": null,
+    "requestId": "a5150508-5388"
+}

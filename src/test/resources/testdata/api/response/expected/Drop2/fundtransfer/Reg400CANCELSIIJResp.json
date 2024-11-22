@@ -1,0 +1,7 @@
+{
+    "timestamp": "2024-09-10T21:31:30.817+00:00",
+    "path": "/v1/fund-transfer/cancel-si",
+    "status": 400,
+    "error": "Bad Request",
+    "requestId": "55a192f0-6528"
+}

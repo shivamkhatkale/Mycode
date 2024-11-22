@@ -1,0 +1,36 @@
+{
+    "opsStatus": "Success",
+    "applicationFrmNum": "242948946732",
+    "entity": {
+        "cif": "60466771",
+        "applNum": "242948946732",
+        "accts": [
+            {
+                "acctNum": "",
+                "name": "Scarlet  gupta",
+                "acctStatus": {
+                    "statusFlg": "PENDING_APPROVAL"
+                },
+                "bankInfo": {
+                    "address": {
+                        "addrLine1": "New medeline road",
+                        "addrLine2": "Opp BKC drive",
+                        "addrLine3": "Bandra",
+                        "addrLine4": "",
+                        "pinCode": "400049",
+                        "cityCode": "MUM",
+                        "stateCode": "MH"
+                    },
+                    "branchId": "31790",
+                    "branchSolId": "31790",
+                    "branchName": "BKC Bandra E",
+                    "workingDays": "Mon to fri",
+                    "workingHrs": "9 to 5"
+                }
+            }
+        ],
+        "txnId": "INETSSA44441",
+        "relationWithChild": "Father",
+        "birthType": "SINGLE"
+    }
+}

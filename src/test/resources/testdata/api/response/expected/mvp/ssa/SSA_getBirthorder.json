@@ -1,0 +1,25 @@
+{
+    "error": null,
+    "statusCode": "0",
+    "statusMessage": "Success",
+    "data": [
+        {
+            "error": null,
+            "name": "birth_order",
+            "rows": [
+                {
+                    "code": "F",
+                    "value": "First Child",
+                    "parentCode": null,
+                    "displayOrder": null
+                },
+                {
+                    "code": "S",
+                    "value": "Second Child",
+                    "parentCode": null,
+                    "displayOrder": null
+                }
+            ]
+        }
+    ]
+}

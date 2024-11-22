@@ -1,0 +1,7 @@
+{
+    "timestamp": "2024-09-10T13:56:50.775+00:00",
+    "path": "/v1/fund-transfer/get-customer-consumed-limit",
+    "status": 400,
+    "error": "Bad Request",
+    "requestId": "e97302ed-6368"
+}

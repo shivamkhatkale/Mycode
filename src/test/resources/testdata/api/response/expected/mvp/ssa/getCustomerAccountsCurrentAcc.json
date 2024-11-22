@@ -1,0 +1,134 @@
+[
+    {
+        "cif": "634919845",
+        "acctNum": "441002010063746",
+        "acctName": "YOGESH CHORAT",
+        "customerName": "YOGESH CHORAT",
+        "acctType": "SBA",
+        "subscriptionCode": null,
+        "activeFlag": false,
+        "depositAmount": 0,
+        "interestRate": null,
+        "maturityAmount": 0,
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 0.00
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 0.00
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.00
+            }
+        ],
+        "maturityDate": null,
+        "openingDate": null,
+        "operatingInstruction": "001",
+        "schemeCode": "SBGEN",
+        "schemeName": null,
+        "acctStatus": "A",
+        "repaymentAccount": ""
+    },
+    {
+        "cif": "634919845",
+        "acctNum": "441002010063744",
+        "acctName": "YOGESH CHORAT",
+        "customerName": "YOGESH CHORAT",
+        "acctType": "SBA",
+        "subscriptionCode": null,
+        "activeFlag": false,
+        "depositAmount": 0,
+        "interestRate": null,
+        "maturityAmount": 0,
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 0.00
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 5055603.88
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 5055615.88
+            }
+        ],
+        "maturityDate": null,
+        "openingDate": null,
+        "operatingInstruction": "001",
+        "schemeCode": "SBGEN",
+        "schemeName": null,
+        "acctStatus": "A",
+        "repaymentAccount": ""
+    },
+    {
+        "cif": "634919845",
+        "acctNum": "441001010032134",
+        "acctName": "YOGESH CHORAT",
+        "customerName": "YOGESH CHORAT",
+        "acctType": "CAA",
+        "subscriptionCode": null,
+        "activeFlag": false,
+        "depositAmount": 0,
+        "interestRate": null,
+        "maturityAmount": 0,
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 0.00
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 2372182.80
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 2372190.80
+            }
+        ],
+        "maturityDate": null,
+        "openingDate": null,
+        "operatingInstruction": "001",
+        "schemeCode": "CAGEN",
+        "schemeName": null,
+        "acctStatus": "A",
+        "repaymentAccount": ""
+    },
+    {
+        "cif": "634919845",
+        "acctNum": "441002010063747",
+        "acctName": "YOGESH CHORAT",
+        "customerName": "YOGESH CHORAT",
+        "acctType": "SBA",
+        "subscriptionCode": null,
+        "activeFlag": false,
+        "depositAmount": 0,
+        "interestRate": null,
+        "maturityAmount": 0,
+        "acctBals": [
+            {
+                "balTypeCode": "EFFAVL",
+                "amount": 0.00
+            },
+            {
+                "balTypeCode": "AVAIL",
+                "amount": 0.00
+            },
+            {
+                "balTypeCode": "LEDGER",
+                "amount": 0.00
+            }
+        ],
+        "maturityDate": null,
+        "openingDate": null,
+        "operatingInstruction": "001",
+        "schemeCode": "SBGEN",
+        "schemeName": null,
+        "acctStatus": "A",
+        "repaymentAccount": ""
+    }
+]

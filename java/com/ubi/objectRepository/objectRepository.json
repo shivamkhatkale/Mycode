@@ -1,0 +1,124 @@
+{
+    "MFAPage": [
+    {
+      "name" : "SelectEnglish",
+      "locator" : "xpath",
+       "value" : "//android.widget.TextView[@resource-id=\"textId\" and @text=\"English\"]"
+    },
+    {
+      "name" : "ContinueButton",
+      "locator" : "xpath",
+      "value" : "//android.widget.Button[@content-desc=\"Continue\"]"
+    },
+    {
+      "name" : "Symbol",
+      "locator" : "xpath",
+      "value" : "(//android.widget.TextView[@text=\"󰄱\"])[1]"
+    },
+    {
+      "name" : "AllowPermission",
+      "locator" : "xpath",
+      "value" : "//android.widget.Button[@resource-id=\"com.android.permissioncontroller:id/permission_allow_foreground_only_button\"]"
+    },
+    {
+      "name" : "AllowPermissionAgain",
+      "locator" : "xpath",
+      "value" : "//android.widget.Button[@resource-id=\"com.android.permissioncontroller:id/permission_allow_button\"]"
+    },
+    {
+      "name" : "Symbol2",
+      "locator" : "xpath",
+      "value" : "//android.widget.TextView[@text=\"󰄱\"]"
+    },
+    {
+      "name" : "DownloadTC",
+      "locator" : "xpath",
+      "value" : "//android.widget.TextView[@resource-id=\"button-text\"]"
+    },
+    {
+      "name" : "PermissionAllowDTC",
+      "locator" : "xpath",
+      "value" : "//android.widget.Button[@resource-id=\"com.android.permissioncontroller:id/permission_allow_button\"]"
+    },
+    {
+      "name" : "LetsGetStarted",
+      "locator" : "xpath",
+      "value" : "//android.widget.Button[@content-desc=\"Let's get started\"]"
+    },
+    {
+      "name" : "AllowDTC",
+      "locator" : "xpath",
+      "value" : "//android.widget.FrameLayout[@resource-id=\"android:id/content\"]/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[2]/android.view.ViewGroup[2]"
+    },
+    {
+      "name" : "ChooseSim1",
+      "locator" : "xpath",
+      "value" : "//android.widget.FrameLayout[@resource-id=\"android:id/content\"]/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[1]/android.view.ViewGroup"
+    },
+    {
+      "name" : "ContinueSim",
+      "locator" : "xpath",
+      "value" : "//android.widget.Button[@content-desc=\"Continue\"]"
+    },
+    {
+      "name" : "ContinueSim",
+      "locator" : "xpath",
+      "value" : "//android.widget.Button[@content-desc=\"Continue\"]"
+    },
+    {
+      "name" : "Icon",
+      "locator" : "xpath",
+      "value" : ""
+    },
+    {
+      "name" : "EnterLoginPin1",
+      "locator" : "xpath",
+      "value" : "//android.widget.EditText[@resource-id=\"otpInputText0\"]"
+    },
+    {
+      "name" : "EnterLoginPin2",
+      "locator" : "xpath",
+      "value" : "//android.widget.EditText[@resource-id=\"otpInputText1\"]"
+    },
+    {
+      "name" : "EnterLoginPin3",
+      "locator" : "xpath",
+      "value" : "//android.widget.EditText[@resource-id=\"otpInputText2\"]"
+    },
+    {
+      "name" : "EnterLoginPin4",
+      "locator" : "xpath",
+      "value" : "//android.widget.EditText[@resource-id=\"otpInputText3\"]"
+    }
+    
+    ],
+    "DashboardPage": [
+      {
+        "name" : "Accounts",
+        "locator" : "xpath",
+         "value" : "//android.view.View[@content-desc=\"Accounts\"]/com.horcrux.svg.SvgView/com.horcrux.svg.l/com.horcrux.svg.q/com.horcrux.svg.u"
+      },
+      {
+        "name" : "",
+        "locator" : "",
+        "value" : ""
+      },
+      {
+        "name" : "Home",
+        "locator" : "xpath",
+         "value" : "//android.view.View[@content-desc=\"Home\"]/android.view.ViewGroup/com.horcrux.svg.SvgView/com.horcrux.svg.l/com.horcrux.svg.q/com.horcrux.svg.u"
+      }
+      ],
+     "DepositPage": [
+    {
+      "name" : "AddDeposit",
+      "locator" : "xpath",
+       "value" : "//android.widget.TextView[@resource-id=\"textId\" and @text=\"+Add Account\"]"
+    },
+    {
+      "name" : "FixedDeposit",
+      "locator" : "xpath",
+      "value" : "//android.view.ViewGroup[@content-desc=\"Fixed Deposit\"]"
+    }
+    ]
+  }

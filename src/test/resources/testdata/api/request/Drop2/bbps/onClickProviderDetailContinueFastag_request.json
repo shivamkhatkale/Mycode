@@ -1,0 +1,13 @@
+{
+  "cif": "04989529",
+  "customerId": "04989529",
+  "billerId": "INDI00000NATTR",
+  "customerParamName": "Vehicle Registration Number",
+  "vehicle_details": {
+    "vehicle_number": "JH01QW5468"
+  },
+  "device": {
+    "ip": "124.124.1.1",
+    "mac": "11-AC-58-21-1B-AA"
+  }
+}

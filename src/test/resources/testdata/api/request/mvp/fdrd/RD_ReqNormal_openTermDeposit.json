@@ -1,0 +1,79 @@
+{
+    "source": {
+        "cif": "623822504",
+        "acctNum": "000112010001022",
+        "scheme": {
+            "code": "SBA",
+            "type": "Savings"
+        }
+    },
+    "cif": "623822504",
+    "applicationFrmNum": "189741364046",
+    "nickName": "RD-1",
+    "scheme": {
+        "type": "TDA"
+    },
+    "subType": "RDSC",
+    "subTypeCode": "Regular_RD",
+    "maturityAmount": "620.0",
+    "depositAmount": "620.0",
+    "interestRate": "6.5",
+    "depositTerm": {
+        "year": "0",
+        "month": "6",
+        "day": "0"
+    },
+    "startDate": "2023-09-20",
+    "maturityDate": "2024-08-23",
+    "interestPayoutType": "Maturity",
+    "interestPayoutAmount": "248.00",
+    "operatingInstruction": "Sole_Ownership",
+    "renewalDtls": {
+        "maturityIndicator": "",
+        "maturityInstruction": "Closure"
+    },
+    "nominee": [
+        {
+            "fname": "vikas k",
+            "mname": "",
+            "lname": "",
+            "relShipId": "Brother",
+            "dob": "2020-02-06",
+            "contactInfo": {
+                "phoneNum1": "",
+                "emailAddr1": "",
+                "postalAddr": {
+                    "addrType": "",
+                    "addrLine1": "dfsdaffd",
+                    "addrLine2": "sssss",
+                    "addrLine3": "sss",
+                    "addrLine4": "",
+                    "pinCode": "421501",
+                    "cityCode": "am berna",
+                    "stateCode": "thane",
+                    "countryCode": "IN"
+                }
+            },
+            "guardian": {
+                "relShipId": "Father",
+                "fname": "vishal",
+                "mname": "",
+                "lname": "",
+                "dob": "1981-05-14",
+                "contactInfo": {
+                    "postalAddr": {
+                        "addrType": "",
+                        "addrLine1": "50/N, KAILASHNAGAR",
+                        "addrLine2": "P.O HRIDAYPUR, P.S BARASAT",
+                        "addrLine3": "",
+                        "addrLine4": null,
+                        "pinCode": "700127",
+                        "cityCode": "NORTH 24 PARGANAS",
+                        "stateCode": "WEST BENGAL",
+                        "countryCode": "IN"
+                    }
+                }
+            }
+        }
+    ]
+}

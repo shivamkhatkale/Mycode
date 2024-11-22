@@ -1,0 +1,14 @@
+{
+    "errorId": "6882a3bb-303b-4b4f-af47-004aa11f3012",
+    "errorAt": "2024-10-07T16:11:59.979992903",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "400",
+            "message": "contrubutionFrequency: Enter valid contribution frequency",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

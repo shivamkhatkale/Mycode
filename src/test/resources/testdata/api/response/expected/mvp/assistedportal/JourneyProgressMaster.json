@@ -1,0 +1,704 @@
+[
+    {
+        "journeyName": "GOVTSCHEME",
+        "subJourneyName": "NPS",
+        "journeyTask": "COMPLETE",
+        "journeyProgressCode": "4",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Account creation",
+        "journeyProgressName": "ACCOUNTCREATION"
+    },
+    {
+        "journeyName": "GOVTSCHEME",
+        "subJourneyName": "NPS",
+        "journeyTask": "OPEN",
+        "journeyProgressCode": "1",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Product selection & login",
+        "journeyProgressName": "LOGIN"
+    },
+    {
+        "journeyName": "GOVTSCHEME",
+        "subJourneyName": "NPS",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "2",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Application review",
+        "journeyProgressName": "APPREVIEW"
+    },
+    {
+        "journeyName": "GOVTSCHEME",
+        "subJourneyName": "NPS",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "3",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Funding",
+        "journeyProgressName": "FUNDING"
+    },
+    {
+        "journeyName": "GOVTSCHEME",
+        "subJourneyName": "PPF",
+        "journeyTask": "COMPLETE",
+        "journeyProgressCode": "4",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Account creation",
+        "journeyProgressName": "ACCOUNTCREATION"
+    },
+    {
+        "journeyName": "GOVTSCHEME",
+        "subJourneyName": "PPF",
+        "journeyTask": "OPEN",
+        "journeyProgressCode": "1",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Product selection & login",
+        "journeyProgressName": "LOGIN"
+    },
+    {
+        "journeyName": "GOVTSCHEME",
+        "subJourneyName": "PPF",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "2",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Application review",
+        "journeyProgressName": "APPREVIEW"
+    },
+    {
+        "journeyName": "GOVTSCHEME",
+        "subJourneyName": "PPF",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "3",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Funding",
+        "journeyProgressName": "FUNDING"
+    },
+    {
+        "journeyName": "GOVTSCHEME",
+        "subJourneyName": "SSA",
+        "journeyTask": "COMPLETE",
+        "journeyProgressCode": "5",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Account creation",
+        "journeyProgressName": "ACCOUNTCREATION"
+    },
+    {
+        "journeyName": "GOVTSCHEME",
+        "subJourneyName": "SSA",
+        "journeyTask": "OPEN",
+        "journeyProgressCode": "1",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Product selection & login",
+        "journeyProgressName": "LOGIN"
+    },
+    {
+        "journeyName": "GOVTSCHEME",
+        "subJourneyName": "SSA",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "2",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Application review",
+        "journeyProgressName": "APPREVIEW"
+    },
+    {
+        "journeyName": "GOVTSCHEME",
+        "subJourneyName": "SSA",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "3",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Funding",
+        "journeyProgressName": "FUNDING"
+    },
+    {
+        "journeyName": "GOVTSCHEME",
+        "subJourneyName": "SSA",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "4",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Compliances",
+        "journeyProgressName": "COMPLIANCE"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "EL",
+        "journeyTask": "COMPLETE",
+        "journeyProgressCode": "14",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Disbursal",
+        "journeyProgressName": "DISBURSEMENT"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "EL",
+        "journeyTask": "OPEN",
+        "journeyProgressCode": "1",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Login",
+        "journeyProgressName": "LOGIN"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "EL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "10",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Documentation & signing",
+        "journeyProgressName": "DOCUMENTATION"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "EL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "11",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Account creation",
+        "journeyProgressName": "ACCOUNTCREATION"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "EL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "12",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Mandate set up",
+        "journeyProgressName": "MANDATE"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "EL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "13",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Pre disbursement compliance",
+        "journeyProgressName": "PREDISBURSEMENT"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "EL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "2",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Personal/employment/business/income details",
+        "journeyProgressName": "PERSONALDETAILS"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "EL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "3",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Loan details & assessment",
+        "journeyProgressName": "LOANDETAILS"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "EL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "4",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "IPA",
+        "journeyProgressName": "IPA"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "EL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "5",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Application review",
+        "journeyProgressName": "APPREVIEW"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "EL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "6",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Liveliness / v-KYC",
+        "journeyProgressName": "VKYC"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "EL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "7",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Due diligence",
+        "journeyProgressName": "DUEDELIGENCE"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "EL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "8",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "TSR & valuation",
+        "journeyProgressName": "TSR"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "EL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "9",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Final sanction",
+        "journeyProgressName": "SANCTION"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "HL",
+        "journeyTask": "COMPLETE",
+        "journeyProgressCode": "13",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Disbursal",
+        "journeyProgressName": "DISBURSEMENT"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "HL",
+        "journeyTask": "OPEN",
+        "journeyProgressCode": "1",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Login",
+        "journeyProgressName": "LOGIN"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "HL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "10",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Account creation",
+        "journeyProgressName": "ACCOUNTCREATION"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "HL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "11",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Mandate set up",
+        "journeyProgressName": "MANDATE"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "HL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "12",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Pre disbursement compliance",
+        "journeyProgressName": "PREDISBURSEMENT"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "HL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "2",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Personal/employment/business/income details",
+        "journeyProgressName": "PERSONALDETAILS"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "HL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "3",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Loan details & assessment",
+        "journeyProgressName": "LOANDETAILS"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "HL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "4",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Application review",
+        "journeyProgressName": "APPREVIEW"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "HL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "5",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Liveliness / v-KYC",
+        "journeyProgressName": "VKYC"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "HL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "6",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Due diligence",
+        "journeyProgressName": "DUEDELIGENCE"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "HL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "7",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "TSR & valuation",
+        "journeyProgressName": "TSR"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "HL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "8",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Final sanction",
+        "journeyProgressName": "SANCTION"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "HL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "9",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Documentation & signing",
+        "journeyProgressName": "DOCUMENTATION"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "PQBL",
+        "journeyTask": "COMPLETE",
+        "journeyProgressCode": "10",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Disbursal",
+        "journeyProgressName": "DISBURSEMENT"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "PQBL",
+        "journeyTask": "OPEN",
+        "journeyProgressCode": "1",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Login",
+        "journeyProgressName": "LOGIN"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "PQBL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "2",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Personal/employment/business/income details",
+        "journeyProgressName": "PERSONALDETAILS"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "PQBL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "3",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Loan details & assessment",
+        "journeyProgressName": "LOANDETAILS"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "PQBL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "4",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Application review",
+        "journeyProgressName": "APPREVIEW"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "PQBL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "5",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Final sanction",
+        "journeyProgressName": "SANCTION"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "PQBL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "6",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Documentation & signing",
+        "journeyProgressName": "DOCUMENTATION"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "PQBL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "7",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Account creation",
+        "journeyProgressName": "ACCOUNTCREATION"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "PQBL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "8",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Mandate set up",
+        "journeyProgressName": "MANDATE"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "PQBL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "9",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Pre disbursement compliance",
+        "journeyProgressName": "PREDISBURSEMENT"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "VL",
+        "journeyTask": "COMPLETE",
+        "journeyProgressCode": "13",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Disbursal",
+        "journeyProgressName": "DISBURSEMENT"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "VL",
+        "journeyTask": "OPEN",
+        "journeyProgressCode": "1",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Login",
+        "journeyProgressName": "LOGIN"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "VL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "10",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Account creation",
+        "journeyProgressName": "ACCOUNTCREATION"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "VL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "11",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Mandate set up",
+        "journeyProgressName": "MANDATE"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "VL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "12",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Pre disbursement compliance",
+        "journeyProgressName": "PREDISBURSEMENT"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "VL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "2",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Personal/employment/business/income details",
+        "journeyProgressName": "PERSONALDETAILS"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "VL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "3",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Loan details & assessment",
+        "journeyProgressName": "LOANDETAILS"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "VL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "4",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "IPA",
+        "journeyProgressName": "IPA"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "VL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "5",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Application review",
+        "journeyProgressName": "APPREVIEW"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "VL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "6",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Liveliness / v-KYC",
+        "journeyProgressName": "VKYC"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "VL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "7",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Due diligence",
+        "journeyProgressName": "DUEDELIGENCE"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "VL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "8",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Final sanction",
+        "journeyProgressName": "SANCTION"
+    },
+    {
+        "journeyName": "LENDING",
+        "subJourneyName": "VL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "9",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Documentation & signing",
+        "journeyProgressName": "DOCUMENTATION"
+    },
+    {
+        "journeyName": "LIABILITY",
+        "subJourneyName": "FD",
+        "journeyTask": "COMPLETE",
+        "journeyProgressCode": "3",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Funding",
+        "journeyProgressName": "FUNDING"
+    },
+    {
+        "journeyName": "LIABILITY",
+        "subJourneyName": "FD",
+        "journeyTask": "OPEN",
+        "journeyProgressCode": "1",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Product selection & login",
+        "journeyProgressName": "LOGIN"
+    },
+    {
+        "journeyName": "LIABILITY",
+        "subJourneyName": "FD",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "2",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Application review",
+        "journeyProgressName": "APPREVIEW"
+    },
+    {
+        "journeyName": "LIABILITY",
+        "subJourneyName": "FD",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "3",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Account creation",
+        "journeyProgressName": "ACCOUNTCREATION"
+    },
+    {
+        "journeyName": "LIABILITY",
+        "subJourneyName": "RD",
+        "journeyTask": "COMPLETE",
+        "journeyProgressCode": "3",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Funding",
+        "journeyProgressName": "FUNDING"
+    },
+    {
+        "journeyName": "LIABILITY",
+        "subJourneyName": "RD",
+        "journeyTask": "OPEN",
+        "journeyProgressCode": "1",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Product selection & login",
+        "journeyProgressName": "LOGIN"
+    },
+    {
+        "journeyName": "LIABILITY",
+        "subJourneyName": "RD",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "2",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Application review",
+        "journeyProgressName": "APPREVIEW"
+    },
+    {
+        "journeyName": "LIABILITY",
+        "subJourneyName": "RD",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "3",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "Account creation",
+        "journeyProgressName": "ACCOUNTCREATION"
+    },
+    {
+        "journeyName": "TDA",
+        "subJourneyName": "ALL",
+        "journeyTask": "CLOSE",
+        "journeyProgressCode": "C",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "User has completed his journey",
+        "journeyProgressName": "COMPLETE"
+    },
+    {
+        "journeyName": "TDA",
+        "subJourneyName": "ALL",
+        "journeyTask": "CLOSE",
+        "journeyProgressCode": "I",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "user is progressing his journey",
+        "journeyProgressName": "INPROGRESS"
+    },
+    {
+        "journeyName": "TDA",
+        "subJourneyName": "ALL",
+        "journeyTask": "OPEN",
+        "journeyProgressCode": "C",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "User has completed his journey",
+        "journeyProgressName": "COMPLETE"
+    },
+    {
+        "journeyName": "TDA",
+        "subJourneyName": "ALL",
+        "journeyTask": "OPEN",
+        "journeyProgressCode": "I",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "user is progressing his journey",
+        "journeyProgressName": "INPROGRESS"
+    },
+    {
+        "journeyName": "TDA",
+        "subJourneyName": "ALL",
+        "journeyTask": "PREVIEW",
+        "journeyProgressCode": "D",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "user can preview",
+        "journeyProgressName": "DRAFT"
+    },
+    {
+        "journeyName": "TDA",
+        "subJourneyName": "ALL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "C",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "User has completed his journey",
+        "journeyProgressName": "COMPLETE"
+    },
+    {
+        "journeyName": "TDA",
+        "subJourneyName": "ALL",
+        "journeyTask": "UPDATE",
+        "journeyProgressCode": "I",
+        "channel": "Digital Platform",
+        "journeyProgressDescription": "user is progressing his journey",
+        "journeyProgressName": "INPROGRESS"
+    }
+]

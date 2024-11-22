@@ -1,0 +1,96 @@
+{
+    "totalTransactions": 10,
+    "transactions": {
+        "2024-03-29": [
+            {
+                "transactionparticular": "Loan Ins Premium on limit     1079000.00",
+                "amount": 2750.16,
+                "creditDebitFlag": "D",
+                "transactionId": "S96851866",
+                "postedDateTime": "2024-03-29T13:21:03",
+                "balAmount": -1078996.58
+            }
+        ],
+        "2024-03-01": [
+            {
+                "transactionparticular": "Salary for FEB24",
+                "amount": 64648.2,
+                "creditDebitFlag": "C",
+                "transactionId": "S96786024",
+                "postedDateTime": "2024-03-01T16:47:32",
+                "balAmount": -1076246.42
+            }
+        ],
+        "2024-02-02": [
+            {
+                "transactionparticular": "IMPSAR/403318941837/Ankit aU/2401260955727616",
+                "amount": 200.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S4039006",
+                "postedDateTime": "2024-02-02T18:13:55",
+                "balAmount": -1140894.62
+            },
+            {
+                "transactionparticular": "IMPSAR/403305759037/Ankit aU/2401260955727616",
+                "amount": 200.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S74178608",
+                "postedDateTime": "2024-02-02T05:18:55",
+                "balAmount": -1140694.62
+            }
+        ],
+        "2024-02-01": [
+            {
+                "transactionparticular": "IMPSAR/403213585678/Ankit aU/2401260955727616",
+                "amount": 77000.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S45168103",
+                "postedDateTime": "2024-02-01T13:48:40",
+                "balAmount": -1140494.62
+            },
+            {
+                "transactionparticular": "IMPSAR/403213585419/Ankit aU/2401260955727616",
+                "amount": 1.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S45124348",
+                "postedDateTime": "2024-02-01T13:47:49",
+                "balAmount": -1063494.62
+            },
+            {
+                "transactionparticular": "IMPSAR/403211537599/Shubham Bisht/31762484697",
+                "amount": 20000.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S38090037",
+                "postedDateTime": "2024-02-01T11:20:20",
+                "balAmount": -1063493.62
+            },
+            {
+                "transactionparticular": "IMPSAR/403211536971/Akash Negi/50100617564952",
+                "amount": 30000.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S37992139",
+                "postedDateTime": "2024-02-01T11:18:14",
+                "balAmount": -1043493.62
+            },
+            {
+                "transactionparticular": "FEST ADV/FEB-2024/724020",
+                "amount": 122900.0,
+                "creditDebitFlag": "C",
+                "transactionId": "S37855207",
+                "postedDateTime": "2024-02-01T11:15:29",
+                "balAmount": -1013493.62
+            },
+            {
+                "transactionparticular": "CONV/JAN-2024/724020",
+                "amount": 4631.4,
+                "creditDebitFlag": "C",
+                "transactionId": "S36590553",
+                "postedDateTime": "2024-02-01T10:48:15",
+                "balAmount": -1136393.62
+            }
+        ]
+    },
+    "page": 0,
+    "size": 0,
+    "totalPages": 0
+}

@@ -1,0 +1,7 @@
+{
+    "timestamp": "2024-08-16T08:41:39.699+00:00",
+    "path": "/app/invst/nps/api/v1/uploadDocument",
+    "status": 500,
+    "error": "Internal Server Error",
+    "requestId": "fa845360-1242"
+}

@@ -1,0 +1,348 @@
+{
+    "totalTransactions": 584,
+    "transactions": {
+        "2023-07-22": [
+            {
+                "transactionparticular": "UPIAR/320368295709/DR/TRENT LI/YESB/trentzudio@ybl",
+                "amount": 2907.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S28868613",
+                "postedDateTime": "2023-07-22T21:37:56",
+                "balAmount": 1694.69
+            },
+            {
+                "transactionparticular": "UPIAR/320360888523/DR/PRADEEP /PYTM/paytmqr2810050",
+                "amount": 20.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S21046386",
+                "postedDateTime": "2023-07-22T18:41:06",
+                "balAmount": 4601.69
+            },
+            {
+                "transactionparticular": "6522023029005541/000000004550/307102070000199",
+                "amount": 5000.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S19043007",
+                "postedDateTime": "2023-07-22T17:53:15",
+                "balAmount": 4621.69
+            },
+            {
+                "transactionparticular": "UPIAR/320342447336/DR/Mangal S/FDRL/bharatpe.90064",
+                "amount": 3350.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S1721920",
+                "postedDateTime": "2023-07-22T08:19:24",
+                "balAmount": 9621.69
+            }
+        ],
+        "2023-07-21": [
+            {
+                "transactionparticular": "UPIAR/320239108515/DR/VENDIMAN/YESB/vendimanvilepa",
+                "amount": 100.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S98382237",
+                "postedDateTime": "2023-07-21T22:49:37",
+                "balAmount": 12971.69
+            },
+            {
+                "transactionparticular": "UPIAR/320239070583/DR/VENDIMAN/YESB/vendimanvilepa",
+                "amount": 20.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S98360651",
+                "postedDateTime": "2023-07-21T22:47:36",
+                "balAmount": 13071.69
+            },
+            {
+                "transactionparticular": "UPIAR/320234796516/DR/DHANVANT/YESB/q597842160@ybl",
+                "amount": 160.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S94312650",
+                "postedDateTime": "2023-07-21T20:32:33",
+                "balAmount": 13091.69
+            },
+            {
+                "transactionparticular": "UPIAR/320224541231/DR/SUJITH J/UBIN/8693089799@ybl",
+                "amount": 48.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S82957639",
+                "postedDateTime": "2023-07-21T16:10:15",
+                "balAmount": 13251.69
+            },
+            {
+                "transactionparticular": "UPIAR/320224474555/DR/SHREE MA/YESB/rzpswfshreemah",
+                "amount": 750.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S82878576",
+                "postedDateTime": "2023-07-21T16:07:55",
+                "balAmount": 13299.69
+            },
+            {
+                "transactionparticular": "UPIAR/320223583998/DR/DEEPAK  /SBIN/cadeepakjoshi2",
+                "amount": 2000.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S81866488",
+                "postedDateTime": "2023-07-21T15:35:46",
+                "balAmount": 14049.69
+            },
+            {
+                "transactionparticular": "UPIAR/320220978781/DR/Miss JAG/MAHB/jagruti.birwad",
+                "amount": 1000.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S79067706",
+                "postedDateTime": "2023-07-21T14:07:06",
+                "balAmount": 16049.69
+            },
+            {
+                "transactionparticular": "UPIAR/320212571905/DR/HARIKESH/PYTM/paytmqr1e3p7yo",
+                "amount": 20.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S69862043",
+                "postedDateTime": "2023-07-21T09:30:34",
+                "balAmount": 17049.69
+            },
+            {
+                "transactionparticular": "UPIAR/320212551151/DR/HARIKESH/PYTM/paytmqr1e3p7yo",
+                "amount": 20.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S69841701",
+                "postedDateTime": "2023-07-21T09:29:45",
+                "balAmount": 17069.69
+            }
+        ],
+        "2023-07-20": [
+            {
+                "transactionparticular": "UPIAR/320182390585/DR/SUJITH J/UBIN/8693089799@ybl",
+                "amount": 126.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S47916522",
+                "postedDateTime": "2023-07-20T16:00:21",
+                "balAmount": 17089.69
+            }
+        ],
+        "2023-07-19": [
+            {
+                "transactionparticular": "MOBFT from: UMESH SINGH LUNTHI/320011793164",
+                "amount": 15000.0,
+                "creditDebitFlag": "C",
+                "transactionId": "S3713037",
+                "postedDateTime": "2023-07-19T11:27:18",
+                "balAmount": 17215.69
+            }
+        ],
+        "2023-07-13": [
+            {
+                "transactionparticular": "UPIAR/319414663361/DR/IRCTC Ap/PYTM/paytm-irctcapp",
+                "amount": 2043.6,
+                "creditDebitFlag": "D",
+                "transactionId": "S93030255",
+                "postedDateTime": "2023-07-13T10:07:16",
+                "balAmount": 2215.69
+            }
+        ],
+        "2023-07-12": [
+            {
+                "transactionparticular": "MOBFT from: UMESH SINGH LUNTHI/319319314395",
+                "amount": 4000.0,
+                "creditDebitFlag": "C",
+                "transactionId": "S78743521",
+                "postedDateTime": "2023-07-12T19:46:31",
+                "balAmount": 4259.29
+            },
+            {
+                "transactionparticular": "UPIAR/319392350341/DR/N GAURAV/ICIC/gaurav.kabtiya",
+                "amount": 1500.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S77999468",
+                "postedDateTime": "2023-07-12T19:33:05",
+                "balAmount": 259.29
+            },
+            {
+                "transactionparticular": "UPIAR/319367297714/DR/MOHD   S/KKBK/9849607030@ybl",
+                "amount": 242.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S50388072",
+                "postedDateTime": "2023-07-12T05:20:12",
+                "balAmount": 1759.29
+            }
+        ],
+        "2023-07-11": [
+            {
+                "transactionparticular": "0311-30290-11/07/2023",
+                "amount": 8000.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S38725088",
+                "postedDateTime": "2023-07-11T18:45:52",
+                "balAmount": 2001.29
+            },
+            {
+                "transactionparticular": "UPIAR/319242957511/DR/KAVERI S/HDFC/kaveri.metkari",
+                "amount": 900.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S24875167",
+                "postedDateTime": "2023-07-11T12:43:56",
+                "balAmount": 10001.29
+            },
+            {
+                "transactionparticular": "UPIAR/319249262315/DR/Paytm IR/ICIC/irctc-paytm@ic",
+                "amount": 226.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S24110674",
+                "postedDateTime": "2023-07-11T12:24:21",
+                "balAmount": 10901.29
+            },
+            {
+                "transactionparticular": "UPIAR/319238513800/DR/Nagendra/PYTM/paytmqrebfg8ig",
+                "amount": 20.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S19789866",
+                "postedDateTime": "2023-07-11T10:27:52",
+                "balAmount": 11127.29
+            }
+        ],
+        "2023-07-10": [
+            {
+                "transactionparticular": "UPIAR/319141525856/DR/Mr UMESH/CBIN/9760494496@ybl",
+                "amount": 700.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S4084436",
+                "postedDateTime": "2023-07-10T19:40:52",
+                "balAmount": 11147.29
+            },
+            {
+                "transactionparticular": "MOBFT from: UMESH SINGH LUNTHI/319117640971",
+                "amount": 10000.0,
+                "creditDebitFlag": "C",
+                "transactionId": "S97432984",
+                "postedDateTime": "2023-07-10T17:26:59",
+                "balAmount": 11847.29
+            },
+            {
+                "transactionparticular": "UPIAR/319117413213/DR/SUJITH J/UBIN/8693089799@ybl",
+                "amount": 38.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S95548792",
+                "postedDateTime": "2023-07-10T16:39:23",
+                "balAmount": 1847.29
+            },
+            {
+                "transactionparticular": "UPIAR/319114074001/DR/SB-MOPS/SBIN/sbitin@sbi/MOPS",
+                "amount": 120.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S91751810",
+                "postedDateTime": "2023-07-10T14:50:49",
+                "balAmount": 1885.29
+            },
+            {
+                "transactionparticular": "UPIAR/319197400703/DR/DARSHAN /ICIC/dishantkalekar",
+                "amount": 11000.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S84364986",
+                "postedDateTime": "2023-07-10T11:39:19",
+                "balAmount": 2005.29
+            },
+            {
+                "transactionparticular": "MOBFT from: UMESH SINGH LUNTHI/319111614896",
+                "amount": 12000.0,
+                "creditDebitFlag": "C",
+                "transactionId": "S83691184",
+                "postedDateTime": "2023-07-10T11:21:54",
+                "balAmount": 13005.29
+            },
+            {
+                "transactionparticular": "UPIAR/319193135456/DR/Nagendra/PYTM/paytmqrebfg8ig",
+                "amount": 20.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S79408725",
+                "postedDateTime": "2023-07-10T09:18:27",
+                "balAmount": 1005.29
+            },
+            {
+                "transactionparticular": "UPIAR/319191552161/DR/SAURABH /UBIN/bumbelbee143-1",
+                "amount": 1220.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S77594254",
+                "postedDateTime": "2023-07-10T08:04:42",
+                "balAmount": 1025.29
+            }
+        ],
+        "2023-07-08": [
+            {
+                "transactionparticular": "UPIAR/355569681893/DR/MSEDCL E/PYTM/paytm-ptmbbp@p",
+                "amount": 640.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S38636878",
+                "postedDateTime": "2023-07-08T21:14:13",
+                "balAmount": 2245.29
+            },
+            {
+                "transactionparticular": "UPIAR/355549852152/DR/IRCTC UT/PYTM/paytm-8727353@",
+                "amount": 1800.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S38481570",
+                "postedDateTime": "2023-07-08T21:10:14",
+                "balAmount": 2885.29
+            },
+            {
+                "transactionparticular": "UPIAR/318953424637/DR/SAURABH /UBIN/bumbelbee143-1",
+                "amount": 1600.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S38428476",
+                "postedDateTime": "2023-07-08T21:08:39",
+                "balAmount": 4685.29
+            },
+            {
+                "transactionparticular": "UPIAR/318928740291/DR/GANGA SI/UBIN/abhishek.jangp",
+                "amount": 1800.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S38399597",
+                "postedDateTime": "2023-07-08T21:07:59",
+                "balAmount": 6285.29
+            },
+            {
+                "transactionparticular": "MOBFT from: UMESH SINGH LUNTHI/318921081649",
+                "amount": 5000.0,
+                "creditDebitFlag": "C",
+                "transactionId": "S38352078",
+                "postedDateTime": "2023-07-08T21:06:49",
+                "balAmount": 8085.29
+            },
+            {
+                "transactionparticular": "POS:IKEA INDIA PVT /NAVI MUMBAI/318918334180",
+                "amount": 378.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S30385347",
+                "postedDateTime": "2023-07-08T18:24:10",
+                "balAmount": 3085.29
+            },
+            {
+                "transactionparticular": "UPIAR/318938639290/DR/Mohammad/IDFB/salmaniali267@",
+                "amount": 175.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S22932437",
+                "postedDateTime": "2023-07-08T14:41:24",
+                "balAmount": 3463.29
+            },
+            {
+                "transactionparticular": "UPIAR/318931087051/DR/Resmi Ch/PYTM/paytmqrz9iuayp",
+                "amount": 30.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S15455970",
+                "postedDateTime": "2023-07-08T11:05:58",
+                "balAmount": 3638.29
+            }
+        ],
+        "2023-07-07": [
+            {
+                "transactionparticular": "UPIAR/318897009782/DR/SUJITH J/UBIN/8693089799@ybl",
+                "amount": 88.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S89952662",
+                "postedDateTime": "2023-07-07T16:05:53",
+                "balAmount": 3668.29
+            }
+        ]
+    },
+    "page": 10,
+    "size": 40,
+    "totalPages": 15
+}

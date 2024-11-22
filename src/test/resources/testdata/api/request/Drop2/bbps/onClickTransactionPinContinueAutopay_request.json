@@ -1,0 +1,42 @@
+{
+  "paymentAmount": 1,
+  "paymentType": "instapay",
+  "debitAccount": "117910012003125",
+  "solId": "11791",
+  "billerId": "BSNL00000NATHL",
+  "authenticators": [
+    {
+      "parameterName": "Mobile Number",
+      "value": "9011022208"
+    },
+    {
+      "parameterName": "Circle",
+      "value": "Haryana"
+    },
+    {
+      "parameterName": "Id",
+      "value": "HARTOPUP10"
+    }
+  ],
+  "customer": {
+    "firstName": "JEETENDRA",
+    "lastName": "YADAV",
+    "mobile": "9800000000",
+    "email": "mayan.trivedi@billdesk.com"
+  },
+  "metadata": {
+    "agent": {
+      "agentId": "UN01UN02INB000000001"
+    },
+    "device": {
+      "initChannel": "InternetBanking",
+      "ip": "124.124.1.1",
+      "mac": "11-AC-58-21-1B-AA"
+    }
+  },
+  "paymentAccount": {
+    "paymentMethod": "BankAccount",
+    "accountNumber": "117910012003125",
+    "ifsc": "HDFC0000114"
+  }
+}

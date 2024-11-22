@@ -1,0 +1,14 @@
+{
+    "errorId": "50539051-2bd0-4a9a-937d-6d1ad7163670",
+    "errorAt": "2024-10-11T12:11:55.899176061",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "400",
+            "message": "nominee.validSpouseAadhar: Spouse Aadhar Number should be mandatory when nominee relationship is spouse",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

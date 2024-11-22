@@ -1,0 +1,27 @@
+{
+	"cif":"29087674",
+    "customerid":"916006259304",
+    "device": {
+        "mobile": "916006259304",
+        "geocode": "19.1240967,72.8962072",
+        "location": "Mumbai,Mumbai,India",
+        "ip": "123",
+        "type": "MOB",
+        "id": "e67569c179aa5492",
+        "os": "android 13",
+        "app": "com.ibm.uboinpci",
+        "capability": "5245454545242454542454545445",
+        "telecom": "12"
+    },
+    "txnId": "UBI4a2af0e54d2e4b3793a236e6699ced48",
+    "account": {
+        "accRefNumber": "000110011016005",
+        "vpa": "sirra.martha@unionbankofindia"
+    }
+}
+
+
+
+
+
+

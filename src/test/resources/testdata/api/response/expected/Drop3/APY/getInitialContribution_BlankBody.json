@@ -1,0 +1,35 @@
+{
+    "errorId": "496b135e-9642-41b9-a039-04880b1e46da",
+    "errorAt": "2024-10-01T13:18:14.39786656",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "400",
+            "message": "cont_freq: must not be null",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        },
+        {
+            "code": "400",
+            "message": "date_of_birth: must not be null",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        },
+        {
+            "code": "400",
+            "message": "pension_amt: must not be null",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        },
+        {
+            "code": "400",
+            "message": "cont_freq: must not be blank",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

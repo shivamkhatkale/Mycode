@@ -1,0 +1,14 @@
+{
+    "errorId": "d4f0957d-7d8d-4c26-a943-9f6fdfbd53c3",
+    "errorAt": "2024-09-10T17:43:01.015984569",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "BAD_REQUEST",
+            "message": "required key [accountNumber] not found,  required key [applicationFormNumber] not found,  required key [branchCode] not found,  required key [channelId] not found,  required key [cif] not found,  required key [email] not found,  required key [globalTrxnId] not found,  required key [schemeCode] not found,  required key [transactionAmount] not found",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

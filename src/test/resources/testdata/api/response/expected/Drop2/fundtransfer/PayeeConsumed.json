@@ -1,0 +1,16 @@
+{
+    "data": {
+        "currentDate": "2024-09-06T09:57:52.542+00:00",
+        "channel": "MOB",
+        "identifierType": "IFSC",
+        "identifierNumber": "123456043",
+        "outsideBankBalDailyTrnLimit": 9985600,
+        "outsideBankConsumedDailyTrnLimit": 14400,
+        "outsideBankMaxDailyTrnLimit": 10000000,
+        "withinBankBalDailyTrnLimit": null,
+        "withinBankConsumedDailyTrnLimit": null,
+        "withinBankMaxDailyTrnLimit": null
+    },
+    "errorMessage": null,
+    "success": true
+}

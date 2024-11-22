@@ -1,0 +1,14 @@
+{
+    "errorId": "cbb6cc89-445d-467f-b0b7-13e45c2727ea",
+    "errorAt": null,
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "FAILURE",
+            "message": "Customer ID does not Exist",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

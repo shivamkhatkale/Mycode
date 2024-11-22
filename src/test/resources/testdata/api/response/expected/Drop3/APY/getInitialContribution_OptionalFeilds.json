@@ -1,0 +1,14 @@
+{
+    "errorId": "3073184c-bd45-48db-9d42-212cbcb8459b",
+    "errorAt": "2024-09-27T10:21:49.695822263",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "400",
+            "message": "pension_amt: must not be null",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

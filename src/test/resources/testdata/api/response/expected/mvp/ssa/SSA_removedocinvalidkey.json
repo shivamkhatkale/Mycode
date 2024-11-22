@@ -1,0 +1,7 @@
+{
+    "timestamp": "2024-07-29T10:35:56.941+00:00",
+    "path": "/app/invst/ssa/api/v1/removedoc",
+    "status": 500,
+    "error": "Internal Server Error",
+    "requestId": "f7dbb0ac-6047"
+}

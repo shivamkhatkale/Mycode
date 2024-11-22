@@ -1,0 +1,49 @@
+{
+    "error": null,
+    "statusCode": "0",
+    "statusMessage": "Success",
+    "data": [
+        {
+            "error": null,
+            "name": "birth_type",
+            "rows": [
+                {
+                    "code": "SI",
+                    "value": "Single",
+                    "parentCode": null,
+                    "displayOrder": null
+                },
+                {
+                    "code": "TR1",
+                    "value": "Triplet - first child",
+                    "parentCode": null,
+                    "displayOrder": null
+                },
+                {
+                    "code": "TR2",
+                    "value": "Triplet - second child",
+                    "parentCode": null,
+                    "displayOrder": null
+                },
+                {
+                    "code": "TR3",
+                    "value": "Triplet - third child",
+                    "parentCode": null,
+                    "displayOrder": null
+                },
+                {
+                    "code": "TW1",
+                    "value": "Twin - first child",
+                    "parentCode": null,
+                    "displayOrder": null
+                },
+                {
+                    "code": "TW2",
+                    "value": "Twin - second child",
+                    "parentCode": null,
+                    "displayOrder": null
+                }
+            ]
+        }
+    ]
+}

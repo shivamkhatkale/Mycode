@@ -1,0 +1,41 @@
+[
+    {
+        "branchCode": "914754",
+        "latitude": "19.068788",
+        "longitude": "72.877423",
+        "branchName": "MUMBAI-KURLA WEST",
+        "workingHours": "10:00am to 4:00pm",
+        "status": true,
+        "contactNumber": "022/26524336",
+        "workingDays": "Monday to Friday, 1st, 3rd and 5th Saturday",
+        "distance": "0.8024659852614534",
+        "address": "CTS NO 95, SASY MALL,NEW MILL ROAD, NEAR POST OFFICE,KURLA (WEST), MUMBAI",
+        "city": "MUMBAI"
+    },
+    {
+        "branchCode": "812838",
+        "latitude": "19.078668",
+        "longitude": "72.866658",
+        "branchName": "SANTACRUZ EAST",
+        "workingHours": "10:00am to 4:00pm",
+        "status": true,
+        "contactNumber": "022-26653677",
+        "workingDays": "Monday to Friday, 1st, 3rd and 5th Saturday",
+        "distance": "1.1977041899871312",
+        "address": "6 LOVELY HOME KALINAKURLA ROAD SANTACRUZnull",
+        "city": "MUMBAI"
+    },
+    {
+        "branchCode": "818721",
+        "latitude": "19.065578",
+        "longitude": "72.864087",
+        "branchName": "BHARAT DIAMOND BOURSE",
+        "workingHours": "10:00am to 4:00pm",
+        "status": true,
+        "contactNumber": "022-26754430/31/32",
+        "workingDays": "Monday to Friday, 1st, 3rd and 5th Saturday",
+        "distance": "1.8411019429855129",
+        "address": "SHOP NO E-4,BHARAT DIAMOND BOURSE,BKC,BANDRAnull",
+        "city": "MUMBAI"
+    }
+]

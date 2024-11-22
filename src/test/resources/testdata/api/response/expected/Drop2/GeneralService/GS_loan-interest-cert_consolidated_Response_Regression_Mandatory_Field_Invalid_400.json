@@ -1,0 +1,4 @@
+{
+    "errorCode": null,
+    "errorMessage": "endDt: must not be null; accountNumber: must not be null; endDt: must not be blank; startDt: must not be null; cif: must not be blank; startDt: must not be blank; cif: must not be null; accountNumber: must not be blank"
+}

@@ -1,0 +1,102 @@
+{
+    "totalTransactions": 10,
+    "transactions": {
+        "2024-02-02": [
+            {
+                "transactionparticular": "MOBFT to: DEEN DAYAL KEDIA/403319724356",
+                "amount": 41600.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S8465715",
+                "postedDateTime": "2024-02-02T19:31:48",
+                "balAmount": 11.06
+            }
+        ],
+        "2024-01-31": [
+            {
+                "transactionparticular": "451104020100021:Int.Coll:01-01-2024 to 31-01-2024",
+                "amount": 116.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S83790171",
+                "postedDateTime": "2024-01-31T05:32:37",
+                "balAmount": 41611.06
+            }
+        ],
+        "2024-01-30": [
+            {
+                "transactionparticular": "MOBFT to: DEEN DAYAL KEDIA/403015173042",
+                "amount": 45000.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S63185079",
+                "postedDateTime": "2024-01-30T15:43:02",
+                "balAmount": 41727.06
+            },
+            {
+                "transactionparticular": "eTXN/To:760106830000004",
+                "amount": 4958.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S63101201",
+                "postedDateTime": "2024-01-30T15:40:55",
+                "balAmount": 86727.06
+            },
+            {
+                "transactionparticular": "Salary for JAN24",
+                "amount": 91676.17,
+                "creditDebitFlag": "C",
+                "transactionId": "S44799194",
+                "postedDateTime": "2024-01-30T06:37:54",
+                "balAmount": 91685.06
+            }
+        ],
+        "2024-01-24": [
+            {
+                "transactionparticular": "MOBFT to: DEEN DAYAL KEDIA/402411603368",
+                "amount": 2700.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S25360767",
+                "postedDateTime": "2024-01-24T11:42:52",
+                "balAmount": 8.89
+            }
+        ],
+        "2024-01-23": [
+            {
+                "transactionparticular": "MOB-BIL/DEC-2023/350222",
+                "amount": 590.0,
+                "creditDebitFlag": "C",
+                "transactionId": "S4318225",
+                "postedDateTime": "2024-01-23T19:01:18",
+                "balAmount": 2708.89
+            }
+        ],
+        "2024-01-14": [
+            {
+                "transactionparticular": "CREDIT_CARD_PAYMENT/4592490015304008",
+                "amount": 429.02,
+                "creditDebitFlag": "D",
+                "transactionId": "S35621277",
+                "postedDateTime": "2024-01-14T10:46:03",
+                "balAmount": 2118.89
+            }
+        ],
+        "2024-01-04": [
+            {
+                "transactionparticular": "MOBFT to: SANTOSH KEDIA W/O D /400412791248",
+                "amount": 5000.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S7210510",
+                "postedDateTime": "2024-01-04T12:56:09",
+                "balAmount": 2547.91
+            },
+            {
+                "transactionparticular": "MOBFT to: SUN DEP- ONLINE PPF /400412700632",
+                "amount": 10000.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S7089591",
+                "postedDateTime": "2024-01-04T12:53:34",
+                "balAmount": 7547.91
+            }
+        ]
+    },
+    "page": 0,
+    "size": 0,
+    "totalPages": 0
+}

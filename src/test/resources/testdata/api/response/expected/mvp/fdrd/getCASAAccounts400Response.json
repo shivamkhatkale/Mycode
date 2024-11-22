@@ -1,0 +1,9 @@
+{
+    "errorId": "ed92d4dc-23ac-40cd-90ad-c509bcda9360",
+    "errors": [
+        {
+            "code": "BAD_REQUEST",
+            "message": "cif expected minLength 1, actual 0"
+        }
+    ]
+}

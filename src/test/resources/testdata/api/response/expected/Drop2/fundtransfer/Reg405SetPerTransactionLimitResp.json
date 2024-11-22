@@ -1,0 +1,14 @@
+{
+    "errorId": "ac360fbe-855a-4d06-a161-ad152e590876",
+    "errorAt": "2024-09-10T19:16:47.81822577",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "METHOD_NOT_ALLOWED",
+            "message": "405",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "totalTransactions": 10,
+    "transactions": {
+        "2024-02-05": [
+            {
+                "transactionparticular": "AA3814353",
+                "amount": 9174.0,
+                "creditDebitFlag": "C",
+                "transactionId": "S34124202",
+                "postedDateTime": "2024-02-05T19:16:20",
+                "balAmount": -399686.00
+            }
+        ],
+        "2024-01-19": [
+            {
+                "transactionparticular": "760106520000075:N Int.:19-12-2023 to 18-01-2024",
+                "amount": 3525.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S22285345",
+                "postedDateTime": "2024-01-19T06:05:53",
+                "balAmount": -408860.00
+            }
+        ],
+        "2024-01-18": [
+            {
+                "transactionparticular": "AA4581736",
+                "amount": 9174.0,
+                "creditDebitFlag": "C",
+                "transactionId": "S17794934",
+                "postedDateTime": "2024-01-18T21:40:54",
+                "balAmount": -405335.00
+            }
+        ],
+        "2024-01-05": [
+            {
+                "transactionparticular": "AA3814353",
+                "amount": 9174.0,
+                "creditDebitFlag": "C",
+                "transactionId": "S72182155",
+                "postedDateTime": "2024-01-05T20:06:57",
+                "balAmount": -414509.00
+            }
+        ],
+        "2023-12-19": [
+            {
+                "transactionparticular": "760106520000075:N Int.:19-11-2023 to 18-12-2023",
+                "amount": 3531.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S98137621",
+                "postedDateTime": "2023-12-19T05:27:21",
+                "balAmount": -423683.00
+            }
+        ],
+        "2023-12-18": [
+            {
+                "transactionparticular": "AA4581736",
+                "amount": 9174.0,
+                "creditDebitFlag": "C",
+                "transactionId": "S91032358",
+                "postedDateTime": "2023-12-18T20:26:46",
+                "balAmount": -420152.00
+            }
+        ],
+        "2023-12-05": [
+            {
+                "transactionparticular": "AA3814353",
+                "amount": 9174.0,
+                "creditDebitFlag": "C",
+                "transactionId": "S58610451",
+                "postedDateTime": "2023-12-05T20:35:57",
+                "balAmount": -429326.00
+            }
+        ],
+        "2023-11-19": [
+            {
+                "transactionparticular": "Loan Coll. From760102010003682",
+                "amount": 1571.0,
+                "creditDebitFlag": "C",
+                "transactionId": "S36237093",
+                "postedDateTime": "2023-11-19T20:31:14",
+                "balAmount": -438500.00
+            },
+            {
+                "transactionparticular": "760106520000075:N Int.:19-10-2023 to 18-11-2023",
+                "amount": 3672.0,
+                "creditDebitFlag": "D",
+                "transactionId": "S6387444",
+                "postedDateTime": "2023-11-19T05:24:44",
+                "balAmount": -440071.00
+            }
+        ],
+        "2023-10-20": [
+            {
+                "transactionparticular": "AA4581736",
+                "amount": 9174.0,
+                "creditDebitFlag": "C",
+                "transactionId": "S45602742",
+                "postedDateTime": "2023-10-20T22:09:08",
+                "balAmount": -436399.00
+            }
+        ]
+    },
+    "page": 0,
+    "size": 0,
+    "totalPages": 0
+}

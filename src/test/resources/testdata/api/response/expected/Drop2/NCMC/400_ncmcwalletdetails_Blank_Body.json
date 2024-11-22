@@ -1,0 +1,9 @@
+{
+    "errorId": "6460c52b-c23e-47c1-9bb4-be171ef8ff90",
+    "errorAt": "2024-09-11T13:10:59.821173568",
+    "error": {
+        "code": "BAD_REQUEST",
+        "result": "required key [cif] not found",
+        "data": null
+    }
+}

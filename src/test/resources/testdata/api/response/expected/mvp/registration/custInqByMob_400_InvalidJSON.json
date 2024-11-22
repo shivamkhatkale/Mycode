@@ -1,0 +1,14 @@
+{
+    "errorId": "e631aae9-88bf-4604-b83f-bfff81410e6b",
+    "errorAt": "2024-08-19T12:43:17.161790035",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "BAD_REQUEST",
+            "message": "Mobile Number not found in request.",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

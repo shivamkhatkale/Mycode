@@ -1,0 +1,7 @@
+{
+    "timestamp": "2024-09-12T06:20:45.972+00:00",
+    "path": "/app/invst/nps/api/v1/saveNPSAccountDetails",
+    "status": 500,
+    "error": "Internal Server Error",
+    "requestId": "77ba7aef-744"
+}

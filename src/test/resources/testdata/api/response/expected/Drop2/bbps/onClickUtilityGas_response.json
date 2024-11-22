@@ -1,0 +1,436 @@
+{
+  "service_provider": {
+    "header_details": {
+      "utility_type": "Gas"
+    },
+    "linked_bills": [],
+    "service_providers": [
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/IEPL00000GUJ01.gif",
+        "service_provider_name": "IRM Energy Private Limited",
+        "authenticators": [
+          {
+            "seq": null,
+            "parameter_name": "Customer_ID",
+            "value": null,
+            "data_type": "AlphaNumeric",
+            "optional": "true",
+            "regex": "^[0-9A-Za-z]{12}$",
+            "error_message": null,
+            "encryption_required": null,
+            "list_of_values": null
+          }
+        ],
+        "billerid": "IEPL00000GUJ01"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/ASSA00000ASMA5.gif",
+        "service_provider_name": "Assam Gas Company Limited",
+        "authenticators": [
+          {
+            "seq": null,
+            "parameter_name": "CustomerID",
+            "value": null,
+            "data_type": "AlphaNumeric",
+            "optional": "true",
+            "regex": "^[0-9A-Za-z\\\\-]{13}$",
+            "error_message": null,
+            "encryption_required": "true",
+            "list_of_values": null
+          }
+        ],
+        "billerid": "ASSA00000ASMA5"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/AGL000000MAP01.gif",
+        "service_provider_name": "Aavantika Gas Ltd.",
+        "authenticators": [
+          {
+            "seq": null,
+            "parameter_name": "Customer No",
+            "value": null,
+            "data_type": "AlphaNumeric",
+            "optional": "true",
+            "regex": "^[0-9A-Za-z]{10,15}$",
+            "error_message": null,
+            "encryption_required": null,
+            "list_of_values": null
+          }
+        ],
+        "billerid": "AGL000000MAP01"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/SITI00000UTP03.gif",
+        "service_provider_name": "Torrent Gas Moradabad Limited formerly Siti Energy Limited",
+        "authenticators": [
+          {
+            "seq": null,
+            "parameter_name": "ARN Number",
+            "value": null,
+            "data_type": "Numeric",
+            "optional": "true",
+            "regex": "^[0-9]{7,9}$",
+            "error_message": null,
+            "encryption_required": null,
+            "list_of_values": null
+          }
+        ],
+        "billerid": "SITI00000UTP03"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/SANW00000UTPFB.gif",
+        "service_provider_name": "Sanwariya Gas Limited",
+        "authenticators": [
+          {
+            "seq": null,
+            "parameter_name": "Customer Code",
+            "value": null,
+            "data_type": "AlphaNumeric",
+            "optional": "true",
+            "regex": "^[0-9a-zA-Z\\\\\\\\-\\\\\\\\/\\\\\\\\\\\\\\\\\\\\_]{1,20}$",
+            "error_message": null,
+            "encryption_required": "true",
+            "list_of_values": null
+          }
+        ],
+        "billerid": "SANW00000UTPFB"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/VGL000000GUJ01.gif",
+        "service_provider_name": "Vadodara Gas Limited",
+        "authenticators": [
+          {
+            "seq": null,
+            "parameter_name": "Consumer Number",
+            "value": null,
+            "data_type": "Numeric",
+            "optional": "true",
+            "regex": "^[0-9]{7}$",
+            "error_message": null,
+            "encryption_required": null,
+            "list_of_values": null
+          }
+        ],
+        "billerid": "VGL000000GUJ01"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/IOAG00000DEL01.gif",
+        "service_provider_name": "Indian Oil-Adani Gas Private Limited",
+        "authenticators": [
+          {
+            "seq": null,
+            "parameter_name": "Customer ID",
+            "value": null,
+            "data_type": "Numeric",
+            "optional": "true",
+            "regex": "^[0-9]{10}$",
+            "error_message": null,
+            "encryption_required": null,
+            "list_of_values": null
+          }
+        ],
+        "billerid": "IOAG00000DEL01"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/MAHA00000MUM01.gif",
+        "service_provider_name": "Mahanagar Gas Limited",
+        "authenticators": [
+          {
+            "seq": null,
+            "parameter_name": "CA Number",
+            "value": null,
+            "data_type": "Numeric",
+            "optional": "true",
+            "regex": "^21[0-9]{10}$",
+            "error_message": null,
+            "encryption_required": null,
+            "list_of_values": null
+          }
+        ],
+        "billerid": "MAHA00000MUM01"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/UCPGPL000MAH01.gif",
+        "service_provider_name": "Unique Central Piped Gases Pvt Ltd (UCPGPL)",
+        "authenticators": [
+          {
+            "seq": null,
+            "parameter_name": "Customer No",
+            "value": null,
+            "data_type": "Numeric",
+            "optional": "true",
+            "regex": "^[0-9A-Za-z]{8}$",
+            "error_message": null,
+            "encryption_required": null,
+            "list_of_values": null
+          }
+        ],
+        "billerid": "UCPGPL000MAH01"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/SGL000000GUJ01.gif",
+        "service_provider_name": "Sabarmati Gas Limited",
+        "authenticators": [
+          {
+            "seq": null,
+            "parameter_name": "Customer ID",
+            "value": null,
+            "data_type": "Numeric",
+            "optional": "true",
+            "regex": "^[0-9]{12}$",
+            "error_message": null,
+            "encryption_required": null,
+            "list_of_values": null
+          }
+        ],
+        "billerid": "SGL000000GUJ01"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/CUGL00000UTP01.gif",
+        "service_provider_name": "Central U.P. Gas Limited",
+        "authenticators": [
+          {
+            "seq": null,
+            "parameter_name": "Customer Code / CRN Number",
+            "value": null,
+            "data_type": "AlphaNumeric",
+            "optional": "true",
+            "regex": "^[0-9A-Za-z]{6,10}$",
+            "error_message": null,
+            "encryption_required": null,
+            "list_of_values": null
+          }
+        ],
+        "billerid": "CUGL00000UTP01"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/BHAG00000NATBJ.gif",
+        "service_provider_name": "Bhagyanagar Gas Limited",
+        "authenticators": [
+          {
+            "seq": null,
+            "parameter_name": "CRN No",
+            "value": null,
+            "data_type": "AlphaNumeric",
+            "optional": "true",
+            "regex": "^[0-9A-Za-z]{5,15}$",
+            "error_message": null,
+            "encryption_required": "true",
+            "list_of_values": null
+          }
+        ],
+        "billerid": "BHAG00000NATBJ"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/INDRAPGASDEL02.gif",
+        "service_provider_name": "Indraprastha Gas",
+        "authenticators": [
+          {
+            "seq": null,
+            "parameter_name": "BP Number",
+            "value": null,
+            "data_type": "Numeric",
+            "optional": "true",
+            "regex": "^[0-9]{10}$",
+            "error_message": null,
+            "encryption_required": null,
+            "list_of_values": null
+          }
+        ],
+        "billerid": "INDRAPGASDEL02"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/MNGL00000MAH01.gif",
+        "service_provider_name": "Maharashtra Natural Gas Limited (MNGL)",
+        "authenticators": [
+          {
+            "seq": null,
+            "parameter_name": "BP No",
+            "value": null,
+            "data_type": "Numeric",
+            "optional": "true",
+            "regex": "^[0-9]{7,10}$",
+            "error_message": null,
+            "encryption_required": null,
+            "list_of_values": null
+          }
+        ],
+        "billerid": "MNGL00000MAH02"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/GGL000000UTP01.gif",
+        "service_provider_name": "Green Gas Limited(GGL)",
+        "authenticators": [
+          {
+            "seq": null,
+            "parameter_name": "CRN Number",
+            "value": null,
+            "data_type": "AlphaNumeric",
+            "optional": "true",
+            "regex": "^[0-9 A-Z,a-z]{11}$",
+            "error_message": null,
+            "encryption_required": null,
+            "list_of_values": null
+          }
+        ],
+        "billerid": "GGL000000UTP01"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/iocl logo.jpg",
+        "service_provider_name": "Indian Oil Corporation Ltd-Piped Gas",
+        "authenticators": [],
+        "billerid": "INDI00000NAT26"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/GAIL00000IND01.gif",
+        "service_provider_name": "Gail Gas Limited",
+        "authenticators": [
+          {
+            "seq": null,
+            "parameter_name": "BP NO",
+            "value": null,
+            "data_type": "Numeric",
+            "optional": "true",
+            "regex": "^[0-9]{10}$",
+            "error_message": null,
+            "encryption_required": null,
+            "list_of_values": null
+          }
+        ],
+        "billerid": "GAIL00000IND01"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/UAT.gif",
+        "service_provider_name": "Torrent Gas",
+        "authenticators": [],
+        "billerid": "TORR00000AHD0P"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/HCG000000HAR01.gif",
+        "service_provider_name": "Haryana City Gas - Kapil Chopra Enterprise",
+        "authenticators": [
+          {
+            "seq": null,
+            "parameter_name": "CRN Number",
+            "value": null,
+            "data_type": "Numeric",
+            "optional": "true",
+            "regex": "^[0-9]{10}$",
+            "error_message": null,
+            "encryption_required": null,
+            "list_of_values": null
+          }
+        ],
+        "billerid": "HCG000000HAR02"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/MEGH00000NATLV.gif",
+        "service_provider_name": "Megha Gas",
+        "authenticators": [
+          {
+            "seq": null,
+            "parameter_name": "CRN NO",
+            "value": null,
+            "data_type": "Numeric",
+            "optional": "true",
+            "regex": "^[0-9]{9}$",
+            "error_message": null,
+            "encryption_required": "true",
+            "list_of_values": null
+          }
+        ],
+        "billerid": "MEGH00000NATLV"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/TNGCLOB00TRI01.gif",
+        "service_provider_name": "Tripura Natural Gas Limited",
+        "authenticators": [
+          {
+            "seq": null,
+            "parameter_name": "Consumer Number",
+            "value": null,
+            "data_type": "Numeric",
+            "optional": "true",
+            "regex": "^[0-9]{1,20}$",
+            "error_message": null,
+            "encryption_required": null,
+            "list_of_values": null
+          }
+        ],
+        "billerid": "TNGCLOB00TRI01"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/GUJGAS000GUJ01.gif",
+        "service_provider_name": "Gujarat Gas Limited",
+        "authenticators": [
+          {
+            "seq": null,
+            "parameter_name": "Customer ID",
+            "value": null,
+            "data_type": "Numeric",
+            "optional": "true",
+            "regex": "^[0-9]{1,15}$",
+            "error_message": null,
+            "encryption_required": null,
+            "list_of_values": null
+          }
+        ],
+        "billerid": "GUJGAS000GUJ01"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/ADAN00000NAT01.gif",
+        "service_provider_name": "Adani Gas",
+        "authenticators": [
+          {
+            "seq": null,
+            "parameter_name": "Customer ID",
+            "value": null,
+            "data_type": "Numeric",
+            "optional": "true",
+            "regex": "^[0-9]{10}$",
+            "error_message": null,
+            "encryption_required": null,
+            "list_of_values": null
+          }
+        ],
+        "billerid": "ADAN00000NAT01"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/NAVE00000MAPEN.gif",
+        "service_provider_name": "Naveriya Gas Pvt Ltd",
+        "authenticators": [
+          {
+            "seq": null,
+            "parameter_name": "Consumer Number",
+            "value": null,
+            "data_type": "Numeric",
+            "optional": "true",
+            "regex": "^[0-9]{9}$",
+            "error_message": null,
+            "encryption_required": "true",
+            "list_of_values": null
+          }
+        ],
+        "billerid": "NAVE00000MAPEN"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/CGSM00000GUJ01.gif",
+        "service_provider_name": "Charotar Gas Sahakari Mandali Ltd",
+        "authenticators": [
+          {
+            "seq": null,
+            "parameter_name": "Customer Number",
+            "value": null,
+            "data_type": "Numeric",
+            "optional": "true",
+            "regex": "^[0-9]{1,5}$",
+            "error_message": null,
+            "encryption_required": null,
+            "list_of_values": null
+          }
+        ],
+        "billerid": "CGSM00000GUJ01"
+      }
+    ]
+  }
+}

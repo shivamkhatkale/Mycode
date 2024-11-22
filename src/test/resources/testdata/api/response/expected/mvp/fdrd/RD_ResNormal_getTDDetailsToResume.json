@@ -1,0 +1,61 @@
+{
+    "source": {
+        "cif": "623822504",
+        "acctNum": "000112010001022",
+        "name": "THONTA LAKSHMI"
+    },
+    "cif": "623822504",
+    "acctNum": null,
+    "name": null,
+    "scheme": {
+        "type": "TDA",
+        "code": "TD004",
+        "name": "Cumulative Deposit"
+    },
+    "applicationFrmNum": "189741364046",
+    "subType": "RDSC",
+    "depositStatus": "DRAFT",
+    "subTypeCode": "Regular_RD",
+    "maturityAmount": 620.0,
+    "depositAmount": 620.0,
+    "interestRate": 6.5,
+    "depositTerm": {
+        "year": 0,
+        "month": 6,
+        "day": 0
+    },
+    "startDate": null,
+    "rdSiStartDate": null,
+    "maturityDate": null,
+    "interestPayoutType": "Maturity",
+    "interestPayoutAmount": 8.00,
+    "transRefNumber": "524326902702",
+    "renewalDtls": {
+        "maturityInstruction": "Closure",
+        "maturityIndicator": ""
+    },
+    "operatingInstruction": "Sole_Ownership",
+    "nominee": [
+        {
+            "relShipId": "Brother",
+            "minor": false,
+            "fname": "vikas k",
+            "mname": "",
+            "lname": "",
+            "dob": "2020-02-06",
+            "sameAddr": false,
+            "contactInfo": {
+                "postalAddr": {
+                    "addrLine1": "dfsdaffd",
+                    "addrLine2": "sssss",
+                    "addrLine3": "sss",
+                    "addrLine4": "",
+                    "pinCode": "421501",
+                    "cityCode": "am berna",
+                    "stateCode": "thane"
+                }
+            },
+            "guardian": null
+        }
+    ]
+}

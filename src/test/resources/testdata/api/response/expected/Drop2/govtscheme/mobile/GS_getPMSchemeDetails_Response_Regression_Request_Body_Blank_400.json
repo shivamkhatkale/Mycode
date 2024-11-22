@@ -1,0 +1,14 @@
+{
+    "errorId": "1a724ffe-a8ff-4e51-8d7c-7e089b858a67",
+    "errorAt": "2024-09-10T14:16:40.402344798",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "BAD_REQUEST",
+            "message": "required key [channelId] not found,  required key [cif] not found",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+	"errors": {
+        "code": "400",
+        "result": "Failure",
+        "message": "400 BAD_REQUEST \"No request body\""
+    }
+}

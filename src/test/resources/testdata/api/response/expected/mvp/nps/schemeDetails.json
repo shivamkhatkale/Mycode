@@ -1,0 +1,27 @@
+{
+   "pran": "110199492515",
+   "tier1":    {
+      "schemes": [],
+      "total": 0,
+      "message": "No Schemes",
+      "amtInTransit": 0
+   },
+   "tier2":    {
+      "schemes": [],
+      "total": 0,
+      "message": "No Schemes",
+      "amtInTransit": 0
+   },
+   "tier3":    {
+      "schemes": [],
+      "total": 0,
+      "message": "No Schemes",
+      "amtInTransit": 0
+   },
+   "totalValue": 0,
+   "errorDescription": "success",
+   "username": null,
+   "asOnDate": "22/08/2024",
+   "statusCode": 0,
+   "fieldErrors": null
+}

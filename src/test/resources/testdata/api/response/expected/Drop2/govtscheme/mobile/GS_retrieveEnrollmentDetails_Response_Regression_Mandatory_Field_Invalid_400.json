@@ -1,0 +1,1 @@
+{"errorId":"28c2a9f6-8492-49d9-9a6e-7d41ad9326d4","errorAt":"2024-10-31T17:50:39.14795021","errorLocation":null,"errors":[{"code":"BAD_REQUEST","message":"schemeCode string [PMJ22JBY] does not match pattern ^(PMJJBY|PMSBY)$, channelId string [1MB] does not match pattern ^(MB)$","values":null,"origmesg":null,"errors":null}]}

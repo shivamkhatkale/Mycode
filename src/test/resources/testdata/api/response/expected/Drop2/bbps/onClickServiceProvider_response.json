@@ -1,0 +1,22 @@
+{
+  "header_details": {
+    "service_provider_name": "GasProvider32"
+  },
+  "service_details": {
+    "billeraccountid": "HGA2A4190AAAAAAANNO9",
+    "billerid": "UCPGPL000MAH01",
+    "nick_name": "GasProvider32",
+    "status": "ACTIVE",
+    "registration_date": "08-07-2024 12:33:49",
+    "autopay_status": "N",
+    "authenticators": [
+      {
+        "parameter_name": "Customer No",
+        "value": "50000841"
+      }
+    ]
+  },
+  "terms_conditions": {
+    "click_on_submit": false
+  }
+}

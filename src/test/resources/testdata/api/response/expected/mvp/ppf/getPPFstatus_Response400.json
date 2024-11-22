@@ -1,0 +1,14 @@
+{
+    "errorId": "4e23fa8a-0f4f-4c3c-b9c5-b5b20658a524",
+    "errorAt": "2024-08-01T11:00:33.715873244",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "BAD_REQUEST",
+            "message": "applNum expected minLength 1, actual 0",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

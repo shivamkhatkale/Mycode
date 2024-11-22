@@ -1,0 +1,26 @@
+{
+    "payment_details": {
+        "amount": 153,
+        "amount_in_words": "one hundred fifty-three",
+        "currency_code": "INR",
+        "payment_status": "PAID",
+        "payment_date_time": "2024-07-24T15:32:47"
+    },
+    "service_details": {
+        "service_provider_logo_url": null,
+        "service_provider_name": "BSNL",
+        "recharge_type": null,
+        "mobile_number": 9433746012
+    },
+    "transaction_details": {
+        "transaction_id": "747928752846",
+        "bbps_ref_no": "UN014206BAEAAAAAABQW",
+        "payer_name": "JEETENDRA YADAV",
+        "account_details": {
+            "bank_logo_url": "https://hcl-dx-dev-haproxy.hcl-dx-dev.svc.cluster.local/wps/wcm/myconnect/805214a1-7bad-4982-a563-9331e5d5593a/ubihome_logo_without+backgroud.png?MOD=AJPERES",
+            "account_holder_name": "JEETENDRA YADAV",
+            "account_type": "saving",
+            "account_number": "117910012003125"
+        }
+    }
+}

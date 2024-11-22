@@ -1,0 +1,22 @@
+{
+    "cif": "2005946706",
+    "acctNum": "635303230001293",
+    "transactions": [
+        {
+            "tranDate": "2024-07-04",
+            "tranId": "A20022",
+            "partTranSerialNo": "2",
+            "tranType": "T",
+            "tranSubType": "CI",
+            "drCrInd": "C",
+            "tranValDate": "2024-07-04",
+            "tranAmount": 12500.00,
+            "tranParticular": "Tran. For Principal Amt",
+            "tranPostedDate": "2024-07-04",
+            "instrumentNumber": "",
+            "balAmount": 12500.00
+        }
+    ],
+    "startDate": "2024-04-02",
+    "endDate": "2025-04-02"
+}

@@ -1,0 +1,9 @@
+{
+    "errorId": "6ea248bd-4fe5-4c74-b68f-98bf5d4b7560",
+    "errorAt": "2024-09-20T04:46:56.561069651",
+    "error": {
+        "code": "INTERNAL_SERVER_ERROR",
+        "title": "INTERNAL SERVER ERROR",
+        "description": "We are unable to process your request at the moment, please try again later"
+    }
+}

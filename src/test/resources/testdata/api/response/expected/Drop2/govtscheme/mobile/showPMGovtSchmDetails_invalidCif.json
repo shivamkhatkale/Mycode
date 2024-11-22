@@ -1,0 +1,13 @@
+{
+    "errorId": "c387a52a-e4bd-4e49-94de-aa819ed13898",
+    "errorAt": "2024-09-10 09:45:31",
+    "errors": [
+        {
+            "code": "ERR_CU_00121",
+            "message": "Customer not found or invalid.",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

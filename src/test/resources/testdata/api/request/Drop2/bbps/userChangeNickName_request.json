@@ -1,0 +1,13 @@
+{
+  "cif": "274309887",
+  "billerAccountId": "HGA2A4148AAAAAAAHNDR",
+  "linked_bills": {
+    "biller_name": "tatatelecom",
+    "biller-nicname": "chinni",
+    "landline_number": "01234567891",
+    "lastpaid_date": "01 FEB 2021"
+  },
+  "clickon_ellipsis": {
+    "edit_nickname": "lakshmi"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "data": null,
+  "errorDetails": {
+    "timestamp": "2024-10-31T17:55:24.448+00:00",
+    "message": "AMOUNT_NOT_INIT",
+    "details": "Amount is empty or not valid"
+  },
+  "success": false
+}

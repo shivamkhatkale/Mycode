@@ -1,0 +1,9 @@
+{
+    "errorId": "74ed9d19-0d24-43b1-a744-17f95d2cc880",
+    "errorAt": "2024-09-06T05:48:49.262989703",
+    "errors": {
+        "code": "01",
+        "result": "FAILED",
+        "message": "Default Vpa Cannot be Deleted"
+    }
+}

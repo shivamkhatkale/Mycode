@@ -1,0 +1,39 @@
+{
+  "service_provider": {
+    "header_details": {
+      "utility_type": "Rental"
+    },
+    "linked_bills": [],
+    "service_providers": [
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/REDGIRAFFE.gif",
+        "service_provider_name": "Redgirraffe Limited",
+        "authenticators": [
+          {
+            "seq": null,
+            "parameter_name": "Mobile Number OR Email ID",
+            "value": null,
+            "data_type": "AlphaNumeric",
+            "optional": "true",
+            "regex": "^([1-9]{1}[0-9]{9}|[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z]{2,}))$",
+            "error_message": null,
+            "encryption_required": null,
+            "list_of_values": null
+          },
+          {
+            "seq": null,
+            "parameter_name": "Mobile Number OR Email ID",
+            "value": null,
+            "data_type": "AlphaNumeric",
+            "optional": "true",
+            "regex": "^([1-9]{1}[0-9]{9}|[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z]{2,}))$",
+            "error_message": null,
+            "encryption_required": null,
+            "list_of_values": null
+          }
+        ],
+        "billerid": "REDGIRAFFE"
+      }
+    ]
+  }
+}

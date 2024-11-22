@@ -1,0 +1,8 @@
+[
+    {
+        "errorMessage": "chequeNumber must not be null"
+    },
+    {
+        "errorMessage": "accountNumber must not be null"
+    }
+]

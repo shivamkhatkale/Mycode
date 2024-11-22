@@ -1,0 +1,8 @@
+{
+    "timestamp": "2024-09-10T16:04:10.868+00:00",
+    "path": "/v1/fund-transfer/imps/initiate/p2a1",
+    "status": 404,
+    "error": "Not Found",
+    "message": null,
+    "requestId": "8951eb6b-342"
+}

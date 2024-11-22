@@ -1,0 +1,9 @@
+{
+    "errorId": "15e859bb-16ce-4ebc-8310-3eb3830c7dec",
+    "errorAt": "2024-09-09T09:22:23.050886436",
+    "error": {
+        "code": "BAD_REQUEST",
+        "title": null,
+        "description": "ccPin expected maxLength 4, actual 6"
+    }
+}

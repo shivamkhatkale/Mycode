@@ -1,0 +1,42 @@
+{
+  "entity": {
+    "tier1contribution": {
+      "accountNumber": "635302010013115",
+      "accountType": "Tier-1",
+      "amount": 2000.0,
+      "applicationFormNumber": "295727225354",
+      "channelTxnId": "609895795007",
+      "cif": "634739412",
+      "contributionAmount": 2000.0,
+      "contributionCharges": 10.0,
+      "debitAccountNumber": "635302010013115",
+      "gstAmount": 360.0,
+      "paymentTxnDate": "2024-07-22T08:36:59.486487",
+      "poolAccountNumber": "31790106",
+      "poolAccountSolId": "31790",
+      "remarks": "Tier 1 Contrbution Remarks Added",
+      "totalPayble": 2370.0
+    },
+    "tier2contribution": {
+      "accountNumber": "635302010013115",
+      "accountType": "Tier-2",
+      "amount": 2000.0,
+      "applicationFormNumber": "295727225354",
+      "channelTxnId": "609895795007",
+      "cif": "634739412",
+      "contributionAmount": 2000.0,
+      "contributionCharges": 10.0,
+      "debitAccountNumber": "635302010013115",
+      "gstAmount": 360.0,
+      "paymentTxnDate": "2024-07-22T08:36:59.512957",
+      "poolAccountNumber": "31790106",
+      "poolAccountSolId": "31790",
+      "remarks": "Tier 2 Contrbution Remarks Added",
+      "totalPayble": 2370.0
+    }
+  },
+  "opsStatus": "SUCCESS",
+  "transRefNumber": "295727225354",
+  "applicationFrmNum": null,
+  "errors": null
+}

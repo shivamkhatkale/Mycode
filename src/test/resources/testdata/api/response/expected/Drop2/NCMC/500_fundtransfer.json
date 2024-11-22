@@ -1,0 +1,9 @@
+{
+    "errorId": "e836bf28-8b11-4f94-b0c4-7d237550dfa3",
+    "errorAt": "2024-09-11T11:51:50.460401727",
+    "error": {
+        "code": "INTERNAL_SERVER_ERROR",
+        "result": "Cannot invoke \"com.ubi.dbp.model.response.ErrorResponse.getError()\" because the return value of \"com.ubi.dbp.model.response.DebitCardCommonResponse.getErrorDetails()\" is null",
+        "data": null
+    }
+}

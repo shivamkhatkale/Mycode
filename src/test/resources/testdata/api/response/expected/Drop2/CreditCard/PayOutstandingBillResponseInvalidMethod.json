@@ -1,0 +1,9 @@
+{
+    "errorId": "69849332-1a22-4c42-b72c-5d55cbc25480",
+    "errorAt": "2024-08-05T16:02:21.621250739",
+    "error": {
+        "code": "METHOD_NOT_ALLOWED",
+        "title": "",
+        "description": "405"
+    }
+}

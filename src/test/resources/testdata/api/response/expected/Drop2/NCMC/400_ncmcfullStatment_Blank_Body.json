@@ -1,0 +1,9 @@
+{
+    "errorId": "e458b798-d7e3-419a-9e03-af373de9411d",
+    "errorAt": "2024-09-11T13:10:56.960153979",
+    "error": {
+        "code": "BAD_REQUEST",
+        "result": "required key [acctNum] not found,  required key [cif] not found,  required key [endDate] not found,  required key [startDate] not found",
+        "data": null
+    }
+}

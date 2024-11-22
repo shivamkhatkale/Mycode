@@ -1,0 +1,49 @@
+{
+  "service_provider": {
+    "header_details": {
+      "utility_type": "dth"
+    },
+    "recent_recharges": [
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/TATASKY00NAT01.gif",
+        "service_provider_name": "Tata Sky",
+        "registered_number": "9028255474",
+        "billerId": "TATASKY00NAT01",
+        "last_bill_paid_on": "10-07-2024 16:43:40",
+        "last_bill_paid_amount": "920.00"
+      }
+    ],
+    "dth_providers": [
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/SUND00000NAT02.gif",
+        "service_provider_name": "Sun Direct TV (With Validation)",
+        "billerId": "SUND00000NAT02",
+        "customerParamName": "Subscriber Number"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/AIRT00000NAT87.gif",
+        "service_provider_name": "Airtel DTH",
+        "billerId": "AIRT00000NAT87",
+        "customerParamName": "Customer Id"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/VIDEOCON0NAT01.gif",
+        "service_provider_name": "Videocon D2H",
+        "billerId": "VIDEOCON0NAT01",
+        "customerParamName": "Customer ID / Registered Telephone No"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/DISH00000NAT01.gif",
+        "service_provider_name": "Dish TV Limited",
+        "billerId": "DISH00000NAT01",
+        "customerParamName": "Registered Mobile Number / Viewing Card Number"
+      },
+      {
+        "service_provider_logo_url": "https://payments.billdesk.com/hg/images/billerlogo/TATASKY00NAT01.gif",
+        "service_provider_name": "Tata Sky Limited",
+        "billerId": "TATASKY00NAT01",
+        "customerParamName": "Subscriber Number"
+      }
+    ]
+  }
+}

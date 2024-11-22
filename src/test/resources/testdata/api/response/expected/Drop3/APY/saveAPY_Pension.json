@@ -1,0 +1,14 @@
+{
+    "errorId": "dfc83355-5e99-4c16-b122-b644d9e9965f",
+    "errorAt": "2024-10-07T16:10:07.163548792",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "400",
+            "message": "monthlyPensionAmount: Enter valid pension amount",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

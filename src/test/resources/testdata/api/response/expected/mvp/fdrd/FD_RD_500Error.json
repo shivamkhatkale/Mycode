@@ -1,0 +1,9 @@
+{
+    "errorId": "23f34d56-44a7-4ce0-b8d8-52acfeb7215f",
+    "errors": [
+        {
+            "code": "500",
+            "message": "415 UNSUPPORTED_MEDIA_TYPE \"Content type 'application/octet-stream' not supported for bodyType=com.ubi.dbp.customer.bff.dto.CustomerReq\""
+        }
+    ]
+}

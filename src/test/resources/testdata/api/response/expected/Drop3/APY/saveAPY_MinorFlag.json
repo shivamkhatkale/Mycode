@@ -1,0 +1,14 @@
+{
+    "errorId": "bf56125d-850e-4184-8d8c-361a221a1b8f",
+    "errorAt": "2024-10-07T16:14:19.917155459",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "400",
+            "message": "nominee.validGuardianDetails: Guardian details must be provided when the nominee is a minor",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

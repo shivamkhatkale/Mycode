@@ -1,0 +1,12 @@
+{
+  "remitterMobileNumber": "9372173504",
+  "remitterAccount": "441002010058664",
+  "remitterName": "AKSHAY DUBEY",
+  "beneficiaryMMID": "9229000",
+  "beneficiaryMobileNumber": "9121910049",
+  "amount": "10",
+  "remarks": "Transfer",
+  "beneficiaryName": "Yogesh Chorat",
+  "cif": "634919845",
+  "quickTransfer": true
+}

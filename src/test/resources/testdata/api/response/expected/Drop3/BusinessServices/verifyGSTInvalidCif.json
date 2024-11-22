@@ -1,0 +1,14 @@
+{
+    "errorId": "91c11e83-fd57-48e6-be26-df3c6c61825e",
+    "errorAt": "2024-10-10T12:26:55.5918748",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "SERVICE_EXCEPTION",
+            "message": "Something went wrong",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

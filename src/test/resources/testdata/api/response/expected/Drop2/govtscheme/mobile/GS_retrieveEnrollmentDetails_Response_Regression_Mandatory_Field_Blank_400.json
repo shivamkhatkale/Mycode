@@ -1,0 +1,1 @@
+{"errorId":"217d4602-a22a-48ca-842a-79b3678c52ad","errorAt":"2024-11-01T13:37:01.638362533","errorLocation":null,"errors":[{"code":"400","message":"400 Bad Request from POST http://gs-business-query-service.biz-gov-schemes-sit.svc.cluster.local:8080/govt-schemes/retrieveEnrollmentDetails","values":null,"origmesg":null,"errors":null}]}

@@ -1,0 +1,9 @@
+{
+    "errorId": "1529ea4d-856b-4f2a-ac30-b0e25cd2d125",
+    "errorAt": "2024-09-12T10:28:50.779481374",
+    "error": {
+        "code": "BAD_REQUEST",
+        "title": null,
+        "description": "txnStat string [3] does not match pattern (ON|OFF)"
+    }
+}

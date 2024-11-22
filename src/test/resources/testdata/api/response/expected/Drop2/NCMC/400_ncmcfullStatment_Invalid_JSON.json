@@ -1,0 +1,9 @@
+{
+    "errorId": "49cb90f0-358c-48c4-8f4a-0208d21c27ed",
+    "errorAt": "2024-09-04T07:58:20.119032105",
+    "error": {
+        "code": "BAD_REQUEST",
+        "result": "cif expected minLength 1, actual 0, endDate expected minLength 1, actual 0, acctNum expected minLength 1, actual 0, startDate expected minLength 1, actual 0",
+        "data": null
+    }
+}

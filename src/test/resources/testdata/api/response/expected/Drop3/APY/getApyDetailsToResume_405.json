@@ -1,0 +1,14 @@
+{
+    "errorId": "e61150ce-0678-44c7-96ce-916390545e3e",
+    "errorAt": "2024-10-03T12:41:32.692699623",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "METHOD_NOT_ALLOWED",
+            "message": "Method Not Allowed",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

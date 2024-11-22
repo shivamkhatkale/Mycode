@@ -1,0 +1,4 @@
+{
+    "error_code": "E14-8",
+    "ResponseDesc": "Login pin should not be the same as previous pin."
+}

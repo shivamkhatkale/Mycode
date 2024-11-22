@@ -1,0 +1,9 @@
+{
+    "trnxId": "816001049373",
+    "errorDetails": {
+        "timestamp": "2024-09-09T09:28:59.193+00:00",
+        "message": "FAILED",
+        "details": "Transaction already marked as favourite"
+    },
+    "success": false
+}

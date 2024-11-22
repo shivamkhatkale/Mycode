@@ -1,0 +1,11 @@
+{
+    "cif":"634744346",
+    "source":{
+        "acctNum":"63530SSA000000000096"
+    },
+    "customer": {
+        "cif": "634744346"
+    },
+    "channel": "DBP",
+    "events" : "PART_WITHDRAWAL"
+}

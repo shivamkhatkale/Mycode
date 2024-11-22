@@ -1,0 +1,14 @@
+{
+    "errorId": "44eb9391-3b17-4be4-8496-9b3cdec8f004",
+    "errorAt": "2024-09-27T15:55:54.027285059",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "INVALID_DATA",
+            "message": "ORA-01722: invalid number",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

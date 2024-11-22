@@ -1,0 +1,7 @@
+{
+    "timestamp": "2024-09-10T14:48:44.821+00:00",
+    "path": "/v1/fund-transfer/get-payee-consumed-limit",
+    "status": 400,
+    "error": "Bad Request",
+    "requestId": "12a71834-6425"
+}

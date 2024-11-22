@@ -1,0 +1,24 @@
+{
+  "cif": "04989529",
+  "solId": "11791",
+  "device": {
+    "ip": "124.124.1.1",
+    "mac": "11-AC-58-21-1B-AA"
+  },
+  "payment_details": {
+    "amount": 920,
+    "billerid": "TATASKY00NAT01",
+    "service_provider_name": "1234",
+    "customerParamName": "Subscriber Number",
+    "customerParamValue": "9028255474",
+    "customer_name": "testcust",
+    "account_details": {
+      "bank_logo_url": "image_url",
+      "account_holder_name": "testcust",
+      "account_type": "SBA",
+      "account_number": "117910012003125"
+    }
+  },
+  "terms_conditions_accepted": true,
+  "transaction_pin": 1234
+}

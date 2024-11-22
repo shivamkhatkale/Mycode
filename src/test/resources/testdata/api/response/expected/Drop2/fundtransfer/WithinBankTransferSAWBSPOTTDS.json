@@ -1,0 +1,23 @@
+{
+    "data": {
+        "cif": "254061641",
+        "referenceNumber": "EDQU619869",
+        "amount": 1,
+        "creditAccountNumber": "635302010012456",
+        "debitAccountNumber": "441002010058664",
+        "creditAccountName": null,
+        "debitAccountName": null,
+        "frequency": "N/A",
+        "mode": "WITHINBANK",
+        "numberOfTransfer": 1,
+        "initialNumberOfTransfers": "1",
+        "remarks": "TESTING",
+        "scheduleDate": "2025-05-30T00:00:00",
+        "scheduleType": "ONETIME",
+        "siStartDate": "2025-05-30T12:50:39.532",
+        "siEndDate": "2025-05-30T12:50:39.532",
+        "status": "SCHEDULED"
+    },
+    "success": true,
+    "errorMessage": null
+}

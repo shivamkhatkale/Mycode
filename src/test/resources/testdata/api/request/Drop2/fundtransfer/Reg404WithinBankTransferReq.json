@@ -1,0 +1,20 @@
+{
+    "debitAccount": "441001010032134",
+    "cif": "634919845",
+    "accountType": "SBA",
+    "creditAccount": "635302010013125",
+    "solId": "44100",
+    "trnxType": "FUNDTRANSFER",
+    "payeeName" : "Mandar",
+    "amount": 500,
+    "remarks": "Testing",
+    "quickTransfer": false
+}
+
+
+
+
+
+
+
+

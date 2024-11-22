@@ -1,0 +1,725 @@
+{
+  "linkedBills": [],
+  "billerAccounts": [
+    {
+      "billeraccountid": "HGA2A4128AAAAAAAHLG7",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "ayantikaMob",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043949",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "07-05-2024 13:35:27",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4128AAAAAAAHLGU",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "ayantikaMobile",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043948",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "07-05-2024 12:34:21",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4134AAAAAAAHL1C",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "testMobab2",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043022",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "13-05-2024 10:18:36",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4134AAAAAAAHL1P",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "testMobab3",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043021",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "13-05-2024 12:34:28",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4134AAAAAAAHL2F",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "testMobab4",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043026",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "13-05-2024 15:40:03",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4134AAAAAAAHL2H",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "testMobab5",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043027",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "13-05-2024 15:46:21",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4134AAAAAAAHL2I",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "testMobab8",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043032",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "13-05-2024 15:47:55",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4134AAAAAAAHL2J",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "testMobab9",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043033",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "13-05-2024 15:49:03",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4134AAAAAAAHL2K",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "testMoba3",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043036",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "13-05-2024 15:57:06",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4134AAAAAAAHL2L",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "testMoba5",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043088",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "13-05-2024 16:04:39",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4134AAAAAAAHL2Q",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "testMoba7",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043089",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "13-05-2024 16:48:36",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4135AAAAAAAHL4U",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "testMoba8",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043456",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "14-05-2024 12:44:40",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4142AAAAAAAHMNJ",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "testMobrr",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043111",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "21-05-2024 01:11:39",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4142AAAAAAAHMPT",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "testMobr2",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043555",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "21-05-2024 16:18:34",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4142AAAAAAAHMQ4",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "testMobd7",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043599",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "21-05-2024 23:56:20",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4143AAAAAAAHMS5",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "testMobe4",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043090",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "22-05-2024 13:33:42",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4144AAAAAAAHMZ9",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "testAyan26",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043007",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "23-05-2024 19:09:27",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4145AAAAAAAHM15",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "testMobbb",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043112",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "24-05-2024 12:19:55",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4145AAAAAAAHM18",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "testMobbba",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043121",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "24-05-2024 12:22:49",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4145AAAAAAAHM4Q",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "testMobbbc",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043122",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "24-05-2024 15:49:10",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4145AAAAAAAHM4T",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "testMobbbd",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043123",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "24-05-2024 15:58:05",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4145AAAAAAAHM4V",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "testMobbbe",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043124",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "24-05-2024 15:59:57",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4145AAAAAAAHM4W",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "testMobbbf",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043125",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "24-05-2024 16:01:45",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4146AAAAAAAHM8F",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "testAPI",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043128",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "25-05-2024 16:42:41",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4146AAAAAAAHM8G",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "testAPI1",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043129",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "25-05-2024 17:10:21",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4148AAAAAAAHNEF",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "INDRAPGASDEL02",
+      "short_name": "testGasbiller",
+      "authenticators": [
+        {
+          "parameter_name": "BP Number",
+          "value": "5000082526",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "27-05-2024 19:04:56",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4156AAAAAAAHN7V",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "testMob55",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043695",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "04-06-2024 14:50:45",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4157AAAAAAAHOEK",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "MyMobileBill",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043076",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "05-06-2024 18:09:03",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4165AAAAAAAKVVK",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "TATASKY00NAT01",
+      "short_name": "testDth",
+      "authenticators": [
+        {
+          "parameter_name": "Subscriber Number",
+          "value": "9028255474",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "13-06-2024 13:59:46",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4172AAAAAAANHHZ",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "MAHA00000MUM01",
+      "short_name": "Gas",
+      "authenticators": [
+        {
+          "parameter_name": "CA Number",
+          "value": "210000875124",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "20-06-2024 13:06:21",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4183AAAAAAANMUG",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "testMob66",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043696",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "01-07-2024 15:09:48",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4183AAAAAAANMUH",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VODA00000NAT96",
+      "short_name": "testMob77",
+      "authenticators": [
+        {
+          "parameter_name": "Mobile Number",
+          "value": "9910043697",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "01-07-2024 15:10:37",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4188AAAAAAANNM0",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "GAIL00000IND01",
+      "short_name": "GasProvider91",
+      "authenticators": [
+        {
+          "parameter_name": "BP NO",
+          "value": "5000082610",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "06-07-2024 17:54:14",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4188AAAAAAANNM5",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VGL000000GUJ01",
+      "short_name": "GasProvider88",
+      "authenticators": [
+        {
+          "parameter_name": "Consumer Number",
+          "value": "5000082",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "06-07-2024 19:53:31",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4188AAAAAAANNMU",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "INDRAPGASDEL02",
+      "short_name": "GasProvider99",
+      "authenticators": [
+        {
+          "parameter_name": "BP Number",
+          "value": "5000082610",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "06-07-2024 17:23:43",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4188AAAAAAANNMZ",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "MNGL00000MAH02",
+      "short_name": "GasProvider98",
+      "authenticators": [
+        {
+          "parameter_name": "BP No",
+          "value": "5000082610",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "06-07-2024 17:49:33",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4190AAAAAAANNO7",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VGL000000GUJ01",
+      "short_name": "GasProvider89",
+      "authenticators": [
+        {
+          "parameter_name": "Consumer Number",
+          "value": "5000083",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "08-07-2024 12:29:48",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4190AAAAAAANNO8",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "VGL000000GUJ01",
+      "short_name": "GasProvider19",
+      "authenticators": [
+        {
+          "parameter_name": "Consumer Number",
+          "value": "5000084",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "08-07-2024 12:30:20",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4190AAAAAAANNO9",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "UCPGPL000MAH01",
+      "short_name": "GasProvider32",
+      "authenticators": [
+        {
+          "parameter_name": "Customer No",
+          "value": "50000841",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "08-07-2024 12:33:49",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    },
+    {
+      "billeraccountid": "HGA2A4190AAAAAAANNPB",
+      "objectid": "billeraccount",
+      "sourceid": "UBI02",
+      "billerid": "UCPGPL000MAH01",
+      "short_name": "GasProvider33",
+      "authenticators": [
+        {
+          "parameter_name": "Customer No",
+          "value": "50000842",
+          "seq": null
+        }
+      ],
+      "status": "ACTIVE",
+      "registration_date": "08-07-2024 12:35:37",
+      "autopay_status": "N",
+      "customerid": "274309887"
+    }
+  ]
+}

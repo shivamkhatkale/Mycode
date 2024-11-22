@@ -1,0 +1,14 @@
+{
+    "errorId": "8a920fdc-a0f5-4919-a3ce-0e7065a5fe2c",
+    "errorAt": "2024-09-10T10:48:25.060559196",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "BAD_REQUEST",
+            "message": "required key [applnRefNumber] not found,  required key [cif] not found,  required key [schemeCode] not found",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

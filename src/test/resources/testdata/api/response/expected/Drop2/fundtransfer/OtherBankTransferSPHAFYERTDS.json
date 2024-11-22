@@ -1,0 +1,23 @@
+{
+    "data": {
+        "cif": "254061641",
+        "referenceNumber": "DJPL683535",
+        "amount": 207,
+        "creditAccountNumber": "123456043",
+        "debitAccountNumber": "441002010058664",
+        "creditAccountName": null,
+        "debitAccountName": null,
+        "frequency": "HALFYEARLY",
+        "mode": "NEFT",
+        "numberOfTransfer": 4,
+        "initialNumberOfTransfers": "4",
+        "remarks": "TEST RECURRING NEFT",
+        "scheduleDate": "2025-06-05T00:00:00",
+        "scheduleType": "RECURRING",
+        "siStartDate": "2025-06-05T09:33:50.534",
+        "siEndDate": "2026-12-05T09:33:50.534",
+        "status": "SCHEDULED"
+    },
+    "success": true,
+    "errorMessage": null
+}

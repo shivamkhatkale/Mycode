@@ -1,0 +1,86 @@
+{
+    "cif": "2005946706",
+    "applNum": "483323519657",
+    "accts": [
+        {
+            "id": "2005946706",
+            "cif": "2005946706",
+            "acctNum": "520101041229211",
+            "name": "SAMPADA NARESH WADKAR",
+            "nickName": "",
+            "acctStatus": {
+                "statusFlg": "DRAFT",
+                "closureReason": null,
+                "closureRmks": null,
+                "freezeCode": null,
+                "crncyCode": "542458",
+                "frezReasonCode1": null,
+                "frezReasonCode2": null,
+                "frezReasonCode3": null,
+                "frezReasonCode4": null,
+                "frezReasonCode5": null
+            },
+            "acctBals": null,
+            "scheme": {
+                "code": "542458",
+                "name": "PPF",
+                "type": ""
+            },
+            "bankInfo": {
+                "id": "42450",
+                "bankId": "542458",
+                "branchSolId": "42450",
+                "name": "",
+                "branchId": null,
+                "branchName": "",
+                "workingDays": null,
+                "workingHrs": null,
+                "address": {
+                    "addrType": "",
+                    "addrLine1": "S-3, 1-4 VEDANT COMMERCIAL COMPLEX, VART VARTAK NAGAR, THANE",
+                    "addrLine2": "MAIN ROAD",
+                    "addrLine3": "A",
+                    "addrLine4": "",
+                    "pinCode": "400606",
+                    "cityCode": "ARKALGUD",
+                    "stateCode": "MAHARASHTRA",
+                    "countryCode": ""
+                }
+            },
+            "nominee": [],
+            "acctOpenDate": "2024-07-11",
+            "type": null,
+            "maturityDate": "2039-07-11",
+            "depositCount": null,
+            "beneficiary": null
+        }
+    ],
+    "remarks": null,
+    "txnId": "",
+    "rqType": null,
+    "currFYContriAmt": null,
+    "penaltyAmt": null,
+    "isMinor": null,
+    "activeFlag": "true",
+    "declarationIndicator": "false",
+    "investmentContribution": {
+        "currFYContribAmt": "1500",
+        "contribAcctNum": null,
+        "paymentType": null,
+        "tierType": null,
+        "invstPoolAcctNum": null,
+        "invstPoolAcctBranchId": null,
+        "contribAmt": null,
+        "penaltyAmt": null,
+        "remarks": null,
+        "paymentTxnId": null,
+        "channelTxnId": null,
+        "systemTxnId": null,
+        "paymentTxnStatus": null,
+        "systemTxnStatus": null,
+        "tranParticulars": null,
+        "paymentTxnDate": null,
+        "tranDate": null,
+        "systemTxnDate": null
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "errorId": "a56be319-3c12-466a-8cca-e0658331c693",
+    "errorAt": "2024-09-06T06:02:02.454849851",
+    "errors": {
+        "code": "02",
+        "result": "FAILED",
+        "message": "Unable to delete VPA. Please deregister the linked UPI number first."
+    }
+}

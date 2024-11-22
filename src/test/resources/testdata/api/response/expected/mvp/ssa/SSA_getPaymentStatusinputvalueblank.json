@@ -1,0 +1,14 @@
+{
+    "errorId": "526f8393-a9af-4296-8e75-09aa05945c57",
+    "errorAt": "2024-08-02T06:34:04.219223718",
+    "errorLocation": null,
+    "errors": [
+        {
+            "code": "NO_ACCT_NUM",
+            "message": "Account Number is empty or invalid",
+            "values": null,
+            "origmesg": null,
+            "errors": null
+        }
+    ]
+}

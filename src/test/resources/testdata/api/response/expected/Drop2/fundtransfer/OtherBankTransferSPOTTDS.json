@@ -1,0 +1,23 @@
+{
+    "data": {
+        "cif": "254061641",
+        "referenceNumber": "LNMV047124",
+        "amount": 202,
+        "creditAccountNumber": "123456043",
+        "debitAccountNumber": "441002010058664",
+        "creditAccountName": null,
+        "debitAccountName": null,
+        "frequency": "N/A",
+        "mode": "NEFT",
+        "numberOfTransfer": 1,
+        "initialNumberOfTransfers": "1",
+        "remarks": "TEST",
+        "scheduleDate": "2025-06-04T00:00:00",
+        "scheduleType": "ONETIME",
+        "siStartDate": "2025-06-04T19:23:28.934",
+        "siEndDate": "2025-06-04T19:23:28.934",
+        "status": "SCHEDULED"
+    },
+    "success": true,
+    "errorMessage": null
+}

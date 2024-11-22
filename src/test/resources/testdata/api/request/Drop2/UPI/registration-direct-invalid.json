@@ -1,0 +1,18 @@
+{
+	"cif":"29087674",
+    "device": {
+        "mobile": "91809775930",
+        "geocode": "19.1241503,72.8961692",
+        "location": "Mumbai,Mumbai,India",
+        "ip": "172.27.73.122",
+        "type": "MOB",
+        "id": "e67569c179aa5492",
+        "os": "android13",
+        "app": "com.ibm.uboinpci",
+        "capability": "5245454545242454542454545445"
+    },
+    "mobile": "91809775930",
+    "customerName": "GANTHI CHANDRA",
+    "type": "customer",
+    "smstext": "pspregister"
+}

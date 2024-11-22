@@ -1,0 +1,23 @@
+{
+    "aadhaarConsent": "N",
+    "cif":"29087674",
+    "bankId": "107110",
+    "bankIfsc": "UBIN0556688",
+    "customerId": "916006259304",
+    "device": {
+        "app": "com.ibm.uboinpci",
+        "capability": "NO",
+        "deviceName": "sdk_gphone_x86",
+        "gcmid": "OO",
+        "geocode": "17.5194149,78.4835413",
+        "id": "968001f26c07877a",
+        "ip": "10.0.2.16",
+        "location": "Hyderabad,Hyderabad,India",
+        "mobile": "916006259304",
+        "os": "android",
+        "telecom": "MOB",
+        "type": "MOB",
+        "version": "3"
+    },
+    "txnId": "7nTotVwHDEvJcd7p8JnGj21240324121657"
+}

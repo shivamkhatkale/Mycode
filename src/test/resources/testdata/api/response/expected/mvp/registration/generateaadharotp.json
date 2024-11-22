@@ -1,0 +1,8 @@
+{
+    "response": {
+        "message": "Aadhar OTP sent successfully.",
+        "txn": "000029",
+        "communicationId": "test"
+    },
+    "respcode": "200"
+}
